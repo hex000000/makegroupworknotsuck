@@ -1,4 +1,5 @@
-# Repertory Grid Technique, based in Personal Construct Psychology
+# Repertory Grid Technique
+## based in Personal Construct Psychology
 
 Repertory Grid Technique (RGT) was developed by psychologist George Kelly [1] as a sense-making tool based in the client’s reality, which could allow therapists to see that reality without imposing the therapist’s beliefs on the client (Fransella, Bell, & Bannister, 2004) [2].
 
@@ -8,8 +9,7 @@ Chapter 2 of Jankowicz (2005) [3] is a thorough but uncomplicated overview of th
 
 While RGT can be used without mediating technology, implementation in our collaborative environment can operate as a shared visualisation and problem-solving tool as well as providing rich data helping to inform design decisions for both learners and instructors.The example below was created for the Curtis, Wells, Higbee and Lowry paper [8] which really inspired me about RepGrid (very easy to read, and freely available).
 
-http://www.dropbox.com/s/0j464pboz0yp2qo/Curtis-Fig-1.png
-![Figure 1 shows the matrix of elements, constructs and scores](https://www.dropbox.com/s/0j464pboz0yp2qo/Curtis-Fig-1.png "Figure 1 (Curtis et al., 2008 (p. 40)")
+![Figure 1 shows the matrix of elements, constructs and scores](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Curtis-Fig-1.png "Figure 1 (Curtis et al., 2008 (p. 40)")
 
 >"Figure 1 shows a sample repgrid, created as an illustration for this paper. The purpose of this grid might be to understand how an individual perceives different email programs. Within the figure, the labels along the bottom of the repgrid identify the elements. In the original RGT methodology created by Kelly, elements were always people; however, over time researchers have examined many different objects as elements. In Figure 1, the elements are email programs. Labels along the sides of the grid comprise the bipolar personal constructs, and the numeric values within the grid represent the individual’s ratings of the elements along each individual construct. The RGT provides a technique in which the interviewer and the participant create the repgrid by defining the elements, identifying the constructs, and rating each element on each construct." (Curtis, Wells, Higbee & Lowry, 2008, Figure 1, p. 40).
 
