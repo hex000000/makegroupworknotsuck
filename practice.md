@@ -22,13 +22,13 @@ To access the server, you will first need to [install the University's VPN on yo
 
 ![Rating other elements on those constructs](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2010.03.24%20am.png "Rating all elements on those constructs")
 
-6. Continue to add constructs. You might find some are quite closely related to others. When you go back to the main screen, click **Save**.
+6. Continue to add constructs. You might find some are quite closely related to others. When you go back to the main screen, click **Save**. The system will return you to the main screen after three constructs. You can add more by simply clicking the **Add Construct** button. When you have finished adding extra constructs, click **Cancel** to return to the main screen.
 
 ![Save from this screen](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2010.10.14%20am.png "Save")
 
 7. Look for the heading _Caching a grid in an allocated cache directory_. Paste 0050569DCA3EF3C94BAC4 in the _Specify your cache directory if you have been allocated one_ field. Click **Cache in directory**. 
 
-_Grids are only stored for three months and automatically deleted after that time. Please download any data you want to save._
+_The system deletes data more than three months old. Please download any data you want to save._
 
 ![Cache your grid](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2010.12.16%20am.png "Caching your grid")
 
@@ -52,4 +52,4 @@ In the example, you can see that responses are very similar, which means even th
 
 12. Go back to the [WebGridPlus home page]("repgrid.makegroupworknotsuck.com" "Tutorial"), and under _WebGrid Tutorials_ click **Tutorial from _Think Again_ -- Carol's choices**. As well as reinforcing the elicitation process, this also gives helpful insights into the different ways to view and interpret RepGrid data.    
 
-**REMEMBER TO DOWNLOAD AND SAVE YOUR DATA AS THE SYSTEM WILL AUTOMATICALLY DELETE IT IN THREE MONTHS' TIME**
+**The system deletes data more than three months old. Please download any data you want to save**
