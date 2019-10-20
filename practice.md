@@ -14,7 +14,7 @@ To access the server, you will first need to [install the University's VPN on yo
 
 ![Insert name here](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%209.57.38%20am.png "Insert name here")
 
-4. In this example, "elements" are already supplied. For each set of three elements, select one which is different to the othr two and explain why to create your "constructs" . Add notes in the large field if you would like to. Click **Add construct**.
+4. In this example, "elements" are already supplied. For each set of three elements, select one which is different to the othr two and explain why to create your "constructs". Add notes in the large field if you would like to. Click **Add construct**.
 
 ![Triadic elicitiation](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2010.00.02%20am.png "Traidic elicitation screen")
 
@@ -36,7 +36,7 @@ _Grids are only stored for three months and automatically deleted after that tim
 
 9. Click the **Display** image. You will see your responses presented in a matrix. In this example, we can see that "lack of relevance" [=2] has been construed as close to "being forced to use it" [=1] on the continuum between "involuntariness" and "things I can't change", and close to "workplace culture"[=2] on the continuum between "about mindset and training" and "resourcing".
 
-![Display your grid](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2010.22.48%20am.png "Display your grid")
+![Display your grid](https://github.sydney.edu.au/crli/repgrid/blob/master/images/Screen%20Shot%202019-10-20%20at%2011.02.11%20am.png "Display your grid")
 
 10. We can see that another grid has similar but slightly different framing around these questions.
 
