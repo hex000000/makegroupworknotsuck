@@ -7,7 +7,7 @@ Full acknowledgement of the work behind the web platform for Repertory Grid Tech
 
 To access the server, you will first need to [install the University's VPN on your Mac or PC](https://sydneyuni.service-now.com/sm?id=kb_article_view&sys_kb_id=e10e1396db01b3485beaf9b7f4961981 "instructions for installing VPN") if you are not using a a computer connected to the University network. If you are getting a "Cannot connect to the server" error, the most likely cause is that you are not running the VPN.
 
-1. Make sure you are on a university-networked computer or have [installed the University's VPN on your Mac or PC](https://sydneyuni.service-now.com/sm?id=kb_article_view&sys_kb_id=e10e1396db01b3485beaf9b7f4961981 "instructions for installing VPN")
+1. Make sure you are on a university-networked computer or have [installed the University's VPN on your Mac or PC](https://sydneyuni.service-now.com/sm?id=kb_article_view&sys_kb_id=e10e1396db01b3485beaf9b7f4961981 "instructions for installing VPN").
 
 2. Navigate to [the practice survey](http://10.83.67.230/WebGrid/Constructs/Cache/0050569DCA3EF3C94BAC4/0050569DCA3EF3C94CD7E.rgrid??+C "WebGrid")
 3. Enter your name in the _Name_ field. Your responses will be visible to others using the practice activity, so you may want to use a pseudonym. Remove or change any other text on this screen. Click **Done**.
@@ -52,4 +52,4 @@ In the example, you can see that responses are very similar, which means even th
 
 12. Go back to the [WebGridPlus home page]("repgrid.makegroupworknotsuck.com" "Tutorial"), and under _WebGrid Tutorials_ click **Tutorial from _Think Again_ -- Carol's choices**. As well as reinforcing the elicitation process, this also gives helpful insights into the different ways to view and interpret RepGrid data.    
 
-**The system deletes data more than three months old. Please download any data you want to save**
+**The system deletes data more than three months old. Please download any data you want to save.**
