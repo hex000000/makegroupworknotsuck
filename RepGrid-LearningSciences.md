@@ -37,9 +37,9 @@
   - Data
 
 4.  WebGrid and RepPlus
-   - Administration
-   - Data
-   - Representations
+      - Administration
+      - Data
+      - Representations
 
 5. Analysis
   - Statistical foundation
