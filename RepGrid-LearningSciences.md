@@ -27,14 +27,14 @@
    - Conclusions
 
 3. The Repertory Grid Technique
-  - Theoretical foundation
-      - Kelly's design
-  - Administration
-      - Elements
-      - Constructs
-      - Poles
-      - Elicitation
-  - Data
+    - Theoretical foundation
+       - Kelly's design
+    - Administration
+        - Elements
+        - Constructs
+        - Poles
+        - Elicitation
+     - Data
 
 4.  WebGrid and RepPlus
       - Administration
