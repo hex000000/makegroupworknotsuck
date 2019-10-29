@@ -1,6 +1,9 @@
 # Methodology
 ## Systematic scoping review
-I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base. Before deciding on this methodology I did some preliminary searches to check that it was viable, and discussed the approach at length and in-person with our Faculty Librarian (to whom I am very grateful).
+I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
+
+Before deciding on this methodology I did some preliminary searches to check that it was viable, and discussed the approach at length and in-person with our Faculty Librarian (to whom I am very grateful).
+
 The first part of my approach is to use a Qualitative Data Analysis System (MAXQDA) to describe how a systematic scoping review is conducted. However, I kept the previous coding scheme in MAXQDA because it took sooooo long to create and I don’t know how different my new one will be. I also created an empty EndNote Library to ensure that each addition to the review has been properly identified within the search protocol. The initial papers telling me how to do the scoping review were given to me by the Librarian and I use them here to explain how this review type is appropriate to the thesis apart from the single/multiple researcher issue.
 
 There are many types of structured literature reviews, and while the methodology for full systematic literature reviews is well established in many fields, less rigorous methods are not as well-defined {Arksey, 2005 #7}. The ‘scoping’ approach is purposeful in this study, as I aim to review the broad range of research on using RGT in education, summarising and disseminating methods for pedagogical and research implementation, and identifying gaps in the research which could be usefully addressed. However, where scoping reviews may not traditionally measure the success of the studies it finds {Arksey, 2005 #7}, in this research I will foreground case studies which have demonstrated results and use them as models for resource development.
@@ -15,7 +18,7 @@ However, it might be described using different phraseology, for example, RepGrid
 ## Finding relevant studies
 While I had found a range of studies around RGT in education in previous research enterprises, for this systematic scoping review I set those aside as [can’t remember the metaphor for something that should be found through those other searches]. Faculty Librarian suggested a series of expanding database searches focused initially in Australia and about Education, then extending out as far as initial parameters allow.
 
-![](assets/litreviewmethod-554d9893.png)
+![](images/Christine_search.png)
 Figure 1: Database search sequence & strategy
 
 I blended this with additional possible sources listed in the University of Sydney Library’s [Systematic Review Toolkit](https://library.sydney.edu.au/research/systematic-review/?section=before-you-start). In addition to database searching, two key websites were also used to find relevant studies. < http://www.pcp-net.org/encyclopaedia/main.html> is a site dedicated to Personal Construct Psychology, the foundation for RGT, and < http://pages.cpsc.ucalgary.ca/~gaines/repplus/> contains years of research by Gaines & Shaw, conceptual and technical experts. More later.
