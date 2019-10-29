@@ -18,7 +18,7 @@ However, it might be described using different phraseology, for example, RepGrid
 ## Finding relevant studies
 While I had found a range of studies around RGT in education in previous research enterprises, for this systematic scoping review I set those aside as [can’t remember the metaphor for something that should be found through those other searches]. Faculty Librarian suggested a series of expanding database searches focused initially in Australia and about Education, then extending out as far as initial parameters allow.
 
-![](images/Christine_search.png)
+![](../images/Christine_search.png)
 Figure 1: Database search sequence & strategy
 
 I blended this with additional possible sources listed in the University of Sydney Library’s [Systematic Review Toolkit](https://library.sydney.edu.au/research/systematic-review/?section=before-you-start). In addition to database searching, two key websites were also used to find relevant studies. < http://www.pcp-net.org/encyclopaedia/main.html> is a site dedicated to Personal Construct Psychology, the foundation for RGT, and < http://pages.cpsc.ucalgary.ca/~gaines/repplus/> contains years of research by Gaines & Shaw, conceptual and technical experts. More later.
