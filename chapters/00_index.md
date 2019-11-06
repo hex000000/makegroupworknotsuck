@@ -2,6 +2,9 @@
 1. Lit Review
 2. Scoping Review
 3. Ethics mods? Will discuss with PR 5/11
+- when ready, demonstrate in touch with line manager head of school
+4. Exercise for Monday, existing plus word cloud investigation?
+- 
 
 # Using Repertory Grid Technique in the Learning Sciences
 1. Cover page
@@ -70,12 +73,15 @@
 - As a research method for HDR students (and acad staff) --> HDR training, FASS and Business in particular
   - Research teams, teamwork contexts
 - As a method in the context of Leadership Education --> Ehssan, others in Psych and Bussiness
+- would be worth trying to get a paper with Ehssa if possible formatively rather than diagnostically, triangulate to check whether things are actually related, about their use: repeated surveys about leadership qualities; what about process leadership & meetings, practice support tool to provide feedback on competencies, even self-feedback. 
 
 - As a tool in the context of collaborative/group learning, perhaps other graduate attributes--> DVCE
-  - how can students use RepGrid for collaboration & problem-solving?
+  - how can students use RepGrid for collaboration & problem-solving? Educational training in MLST? what is a good way to teach this to student, context when that could be applied to students outside the course, can they apply outside the course, track for post-course work *** including formative assessment, rubrics or computational rubrics, video plus exercises, eg smart sparrow type, engage the students in creating resources they might use in a business context, for learning only, doesn't ned to be perfect, PF, thinklets, brainstrorming, swot analysis etc, bring down in granularity to 10-15 minute activities, also then embedding something that can provide real-time feedback on performance in the artefact based on supporting the activity, you don't have to observing behaviour, but fine-grained artefacts that document progress - is this a good way to plan a brainstorm, conduct a RepGrid, not about them but things they produce.
+  
 - As a knowledge measurement/assessment method --> FASS, DVCE
   - Interdisciplinary courses - is there any mention of RepGrid in ID or Assessment Design
-  - Empirical study of 5024
+  - Empirical study of 5024m, offer interviews?
+  
 - Professional Development Workshops
   - Interdisciplinary courses - is there any mention of RepGrid in ID or Assessment Design, anti-plagiarism & measures against self, how can it be used for grading interdisciplinary tasks between graders?
   - Empirical studies of PD
