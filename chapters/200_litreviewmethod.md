@@ -113,9 +113,10 @@ Resolved modelling & supporting is a separate document which should be listed on
 
 Cross check of 198 records complete.
 Now check that I have them in the right buckets
-bucket check done, there are 199 records in EN documented on the Excel sheet. 
+bucket check done, there are 199 records in EN documented on the Excel sheet.
 
-
+Spreadsheet of all Documents reviewed is at
+T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
 
 
 I decided to read the Thesis first, after I convert it to text and pull it into MAXQDA. Then coded and summarised in ../../Summaries/Shaw recognised the tensions inherent in the need for educational contexts to connect personally meaningful concepts with established traditions and.docx.
