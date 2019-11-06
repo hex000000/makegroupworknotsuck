@@ -1,3 +1,8 @@
+## current in progress list
+1. Lit Review
+2. Scoping Review
+3. Ethics mods? Will discuss with PR 5/11
+
 # Using Repertory Grid Technique in the Learning Sciences
 1. Cover page
 1. Abstract
