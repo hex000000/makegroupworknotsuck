@@ -1,0 +1,1 @@
+I am finding it hard not to include papers that didn't address RepGrid but which made predictions or suggestions about computation or learning, and specifically artificial intelligence, that were insightful and useful and were written 40 years ago.

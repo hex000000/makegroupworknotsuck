@@ -98,7 +98,25 @@ _Table n: Results from the RepPlus website._
 All PDF and Microsoft Word document files were downloaded from each web page. Folder contents were saved as text and compared with the links in each web page to identify duplicates or non-document files. One HTML page was saved as PDF and the embedded movie converted to current MP4 standards; two duplicates were removed.
 
 I created a separate EN Library for these papers as they were likely to be foundational to the journal articles which would follow. I attempted to import the word documents to Mendeley to automatically attach citation data but that didn’t work for Boose. It worked slightly better for the Reports documents as they were mostly PDF. But then I needed to go through each document and review it. But then EN wouldn’t import the .xml or the .ris. So in the end I did this after I read Mildred’s thesis.
-196 references were imported with Attachments. Started checking ID at 1523 25102019. Finished 24 by 1741. Break,
+196 references were imported with Attachments. Started checking ID at 1523 25102019. Finished 24 by 1741. Break. Starting again at 2058 29102019. Several pathnames were incorrect in the links but could be resolved by inferring the missing path component/s. BEd at 2248 - rate of about 10 per hour. 0111 about 100 to do, do ten and then chore, then ten...
+
+Continuing to progress at a rate of about 1 every 12 minutes. Once compared with master list, and double-checked against their web pages. I searched the text for the word "grid" to establish whether Repertory Grid was mentioned. When "grid" was found, I reviewed the context, removing articles where the word stem was not in relation to repgrid or webgrid (for example, grid computing). finished around 1230 Saturday 0211.
+
+The list didn't match up smoothly because the Mendeley import assigned incorrect citation data to many of the records. I manually went through the list of files downloaded from the gaines site and updated the data at the same time that I pasted the abstracts into the spreadsheet and searched for RepGrid references in text. There were still several "rows" missing, so back to triple-check against the gaines site and the downloaded file lists.
+Where there were discrepancies in publication titles, years or provenance, first preference was given to information within the document itself. The fallback then was to http://pages.cpsc.ucalgary.ca/~gaines/reports/.
+
+Because they wrote so much together and cited each other frequently, it was important to go through all their joint and individual publications at the calgary reports page.
+
+So after checking that everything on the reports page was in EndNote, I double checked that they were the right year, and removed accidental duplicates. I recorded the subset each record was in on the Gaines site, although they became more loosely construed over time and should not be considered prescriptive in my opinion.
+
+Resolved modelling & supporting is a separate document which should be listed on page instead of duplicate title & abstract.
+
+Cross check of 198 records complete.
+Now check that I have them in the right buckets
+bucket check done, there are 199 records in EN documented on the Excel sheet. 
+
+
+
 
 I decided to read the Thesis first, after I convert it to text and pull it into MAXQDA. Then coded and summarised in ../../Summaries/Shaw recognised the tensions inherent in the need for educational contexts to connect personally meaningful concepts with established traditions and.docx.
 
