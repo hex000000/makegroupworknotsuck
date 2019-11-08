@@ -97,6 +97,9 @@ _Table n: Results from the RepPlus website._
 
 All PDF and Microsoft Word document files were downloaded from each web page. Folder contents were saved as text and compared with the links in each web page to identify duplicates or non-document files. One HTML page was saved as PDF and the embedded movie converted to current MP4 standards; two duplicates were removed.
 
+I decided to read the Thesis first, after I convert it to text and pull it into MAXQDA. Then coded and summarised in ../../Summaries/Shaw recognised the tensions inherent in the need for educational contexts to connect personally meaningful concepts with established traditions and.docx.
+
+
 I created a separate EN Library for these papers as they were likely to be foundational to the journal articles which would follow. I attempted to import the word documents to Mendeley to automatically attach citation data but that didn’t work for Boose. It worked slightly better for the Reports documents as they were mostly PDF. But then I needed to go through each document and review it. But then EN wouldn’t import the .xml or the .ris. So in the end I did this after I read Mildred’s thesis.
 196 references were imported with Attachments. Started checking ID at 1523 25102019. Finished 24 by 1741. Break. Starting again at 2058 29102019. Several pathnames were incorrect in the links but could be resolved by inferring the missing path component/s. BEd at 2248 - rate of about 10 per hour. 0111 about 100 to do, do ten and then chore, then ten...
 
@@ -118,8 +121,9 @@ bucket check done, there are 199 records in EN documented on the Excel sheet.
 Spreadsheet of all Documents reviewed is at
 T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
 
+Do I need to set out how I devveloped coding schemata? Probably not so relevant here. Decided to use my skeleton outline to being with. Then working from oldest work forwards.
 
-I decided to read the Thesis first, after I convert it to text and pull it into MAXQDA. Then coded and summarised in ../../Summaries/Shaw recognised the tensions inherent in the need for educational contexts to connect personally meaningful concepts with established traditions and.docx.
+
 
 Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
 
