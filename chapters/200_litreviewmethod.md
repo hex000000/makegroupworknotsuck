@@ -121,7 +121,7 @@ bucket check done, there are 199 records in EN documented on the Excel sheet.
 Spreadsheet of all Documents reviewed is at
 T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
 
-Do I need to set out how I devveloped coding schemata? Probably not so relevant here. Decided to use my skeleton outline to being with. Then working from oldest work forwards.
+Do I need to set out how I developed coding schemata? Probably not so relevant here. Decided to use my skeleton outline to being with. Then working from oldest work forwards.
 
 
 
