@@ -123,6 +123,13 @@ T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the R
 
 Do I need to set out how I developed coding schemata? Probably not so relevant here. Decided to use my skeleton outline to being with. Then working from oldest work forwards.
 
+-- while reviewing the documents to see which mentioned RepGrid/WebGrid, I noted in EndNote those that are either definitely, or may be, relevant to my studies. These occupy their own EN Libraries now and need to be brought into MAXDA. I have started coding in the 2018 version, and now need to convert my project to 2020 and set up a workflow with my new plan to use the iMac as main home machine, and laptop connected to large monitor in the Lab. '
+
+Installing M2020 now, after making sure copy of most recent project is in Dropbox. It looks like the 2020 can leave files in their original EN folder location, so I will do some testing with the SSR method files, exporting them to a new EN folder and linking to 2020. I'm going to re-import the EN files, no, that's not a good idea because I'll have to keep updating the location each time I move computers. So I'll have to keep the EN files in Dropbox. BUT, most of the files are linked to a local EN library PDF folder. FAAAAAAAArk.
+
+Looks like I'm going to have to either EN them on Dropbox or keep bundling them for transfer between computers. I'm going to go with option B, and have the EN Libraries in Dropbox as a backup / share only. BIG DECISION!
+
+So even though the pathname is correct - no it isn't, because as a user here I am j. I should create my own login on this Mac. First I need to make sure the applications folder is top level. Yep, looks like it. Let's try now. 
 
 
 Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
