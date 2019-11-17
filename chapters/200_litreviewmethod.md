@@ -1,5 +1,6 @@
 # Methodology
 ## Systematic scoping review
+
 I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
 
 Before deciding on this methodology I did some preliminary searches to check that it was viable, and discussed the approach at length and in-person with our Faculty Librarian (to whom I am very grateful).
@@ -166,13 +167,18 @@ but now all my Gaines/Shaw are disconnected... So I reckon I'll bring them in ag
 
 Problems with the rdb and tdb folders in EN being protected, stops me saving converted updated library. reopened on laptop, exported, now will try to transfer between comptuers. But 40 references and 56 PDFs? OK wait until tomorrow and try again.
 
- 
+ Re-exported libraries and no problems to exchange folder. Now re-import to 2020. The previous attempt has imported all the PDFs to an Externals folder 2020 created in Documents. Small Epistemonikos import went fine, but realise there is no way I can keep extenrals in their original location. The two Shaw papers I've marked up I need to find a creative way around, maybe through Merge?
+ original PDF location snapshot. Now stuff is all over the place - in the Document folder and in the Applications folder. No rationale that I can see.
 
+ OK now I hae embedded all the PDFs, and then made them all externals to the Blexternals folder. But Did It Work?
 
+ Total of 25 PDFs - how mnay in 2020? so it imported multiples linked to the dups. Have decided to start with a clean improt then merge and see what happens. Saving a copy of 2020 file. OK method done and it seems to be going OK.
+ Now yes and maybe.
+ MyYes and MyMaybe are subsets of all the papers reviewed for RepGrid/WebGrid.
+
+ Well it just kept creating externals so I haveput a support request in.
 
 The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
-
-
 
 
 Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
