@@ -129,7 +129,50 @@ Installing M2020 now, after making sure copy of most recent project is in Dropbo
 
 Looks like I'm going to have to either EN them on Dropbox or keep bundling them for transfer between computers. I'm going to go with option B, and have the EN Libraries in Dropbox as a backup / share only. BIG DECISION!
 
-So even though the pathname is correct - no it isn't, because as a user here I am j. I should create my own login on this Mac. First I need to make sure the applications folder is top level. Yep, looks like it. Let's try now. 
+So even though the pathname is correct - no it isn't, because as a user here I am j. I should create my own login on this Mac. First I need to make sure the applications folder is top level. Yep, looks like it. Let's try now.
+
+OK slight issue with not running multiple versions of Dropbox, tempted to try an Automator script but don't want to stuff up Jay's db so no. New version of file locations spreadsheet and the workflow will be:
+
+1. Do EN on local machine, then copy library in named folder to /Volumes/eb/Dropbox/MAXQDA-Ex/MAXQDA_Exchange. From there, copy to local folder of next computer.
+2. Do 2020 on local machine, then copy folder to the same Exchange folder for copying to local machine but this might not work depending on location of Externals. How can I do this most seamlessly? First see if I can reconnect the method PDFs in the 2020 project and then work backwards First restoring folder name that I had changed for consistency. Then  open the 2020 project. Then drag & drop PDFs missing from their EN folder, because this path should stay table if I copy from Applications folder between Macs. so I changed the folder name (but not library name) back again for consistency. same PDF trick for showing all the files simultaneously. Drag and drop does not replace file. Neither does import. Both look like they work but no effect. While I can't create a real dropnbox folder, I'll try a fake one.
+
+That worked. Now I am left with one folder that points to one location for externals, and the other folders to a different location. And of course I have lots of coded sections in both. And if I bring them all in, they'll go out to a single externals folder instead of staying in their EN PDF folder which is where I'd like to keep them. So I will just have to suck it up with Arksey et al. until I have time to re-do the whole thing from EN, whch might not work the same way in 2020 as it did in 2018.
+
+Now I have to stabilise the files across all the locations. Decided I would do an EN_exchange folder and the subfolder with current version of all files. Will stick with this, as Applications at top level on both Macs should be a stable location (I Hope). so basic structure is that for each of EN and 2020, there is a Folder in the applications folder of each Mac, containing:
+1. the application
+2. necessary support files
+3. a sub-folder with option-f extension containing current project files.
+At the moment, the 2020 folder has PDFs that shouldn't be there. I will use the next import from EN to test the viability of ENfolder location ongoing.
+
+pdf NUMBERs in 2020 FOLDER inconsistent, leave until later as idea is no pdffs.
+
+OK all consistent across MB, iM & Exchange folder.
+
+Now will try new 2020 import from EN for a small set of files. Saved a backup of T&B in versions folder first.
+
+New Library -Converted
+
+Selected epistemonikos as it had a small number of files but more than one.
+- Check that all abstracts are in place
+- Find full text
+- Rename attachments author-date-titles
+- copy to new library (EN-epistemonikos.enl)
+- export RIS
+- import to 2020. I didn't check the 'external' checkbox, so will they import to 2020 and do they just end up loose in the folder? They come in in two new folders "references" and references> attachments. I moved the PDFs into the RIS folder which I retitled epistemonikos.
+
+The links work!
+
+but now all my Gaines/Shaw are disconnected... So I reckon I'll bring them in again to connect them properly.Only one document is really heavily marked up so I'll leave that in the original location and reimport all the others.
+
+Problems with the rdb and tdb folders in EN being protected, stops me saving converted updated library. reopened on laptop, exported, now will try to transfer between comptuers. But 40 references and 56 PDFs? OK wait until tomorrow and try again.
+
+ 
+
+
+
+The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
+
+
 
 
 Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
