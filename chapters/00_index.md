@@ -1,7 +1,8 @@
 ## current in progress list
 1. Lit Review
 2. Scoping Review
-3. Ethics mods? Will discuss with PR 5/11
+3. Ethics mods? Sort out for Ehssan, easy for staff, harder for students. In modification, mention that E students already complete a range of surveys as part of their leadership development. Data from this study will not be identifiable in a way that can be connected with other data collected, and this researcher has no access to any other data other than my own surveys. Guard against over-survyed.
+Argue about taking perspective vav Perkins, about whether or not decision-making is learning? 
 - when ready, demonstrate in touch with line manager head of school
 4. Exercise for Monday, existing plus word cloud investigation?
 - 
