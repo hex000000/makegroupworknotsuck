@@ -1,4 +1,4 @@
-# Methodology
+identical# Methodology
 ## Systematic scoping review
 
 I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
@@ -14,7 +14,9 @@ Following the framework suggested by Arksey and O’Malley (2005), I use a stage
 ## Identifying the research question
 While the broad research question has been established as “How is Repertory Grid Technique used in higher education?”, Arksey and O’Malley (2005) suggest beginning by considering which aspects of the question are most important to develop a search strategy. “Repertory Grid Technique” is unambiguous conceptually and the most important feature.
 
-However, it might be described using different phraseology, for example, RepGrid, and that must be clear in the search parameters. “Education” is potentially more difficult, as it is a very broad field ranging from 0-5 childhood right through to professional education. The target audience for this study is higher education students, instructors and researchers, which might not be specified in accessible search fields, requiring closer reading to establish. This is consistent with Arksey and O’Malley (2005) description of the process of scoping reviews as iterative and reflexive while at the same time comprehensive and documented in detail.
+However, it might be described using different phraseology, for example, RepGrid, and that must be clear in the search parameters. “Education” is potentially more difficult, as it is a very broad field ranging from 0-5 childhood right through to professional education. The target audience for this study is higher education students, instructors and researchers, which might not be specified in accessible search fields, requiring closer reading to establish. This is consistent with Arksey and O’Malley (2005) description of the process of scoping reviews as iterative and reflexive while at the same time comprehensive and documented in detail. While {Booth, 2019 #2} talks to the difficulty of iteration in a systematic way, and suggests that it is still possible to engage in a transparent manner.
+
+{Booth, 2019 #2} realist view is based on six principles which align in many ways with those of Arksey & O'Malley (2005).    
 
 ## Finding relevant studies
 While I had found a range of studies around RGT in education in previous research enterprises, for this systematic scoping review I set those aside as [can’t remember the metaphor for something that should be found through those other searches]. Faculty Librarian suggested a series of expanding database searches focused initially in Australia and about Education, then extending out as far as initial parameters allow.
@@ -176,7 +178,7 @@ Problems with the rdb and tdb folders in EN being protected, stops me saving con
  Now yes and maybe.
  MyYes and MyMaybe are subsets of all the papers reviewed for RepGrid/WebGrid.
 
- Well it just kept creating externals so I haveput a support request in.
+ Well it just kept creating externals so I hav eput a support request in.
 
 The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
 
@@ -187,8 +189,87 @@ One limitation of scoping reviews is that they do not provide an exhaustive and 
 
 Persistent problems occurred with searching caused by cookie and adblocker issues. It was difficult to have effective privacy settings as well as save searches and set alerts. That meant I had to repeat several searches from the beginning, as what ever the problem was would only become clear when I tried to either save or set a search alert or export search results.
 
+Now I am waiting for tech help, work on reducing the sets of files down to relevance.
+
+First set, epistemonikos because the smallest, so a good way to
+
+OK, have an idea to keep the PDFs in place. What about unchecking the "store in folder for external files"?
+
+OK, so now it is leaving the PDFsin EN, which isn't bad, but it doesmean they're inside the file, which IS bad. So there is nO way to keep then in EN. So now, will export to Blexternals.
+
+Slelect PDFs in list, then Exernal Files > Store documents in folder for externalfiles. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
+
+I've sorted that out :-|
+
+So now i have to gently replace the Arksey paper somehow.
+Used  Teamwork> Teamwork Export: Data Exchange file write to create an exchange file with the two documents (RIS & PDF).
+Opened M-Method 2020 and then...  Teamwork> Teamwork Import: reading from Exchange file data. It asked whether I wanted to import the RIS as new, so uncheck that box, andit looks like it recognises the PDFas the name is identical.
+
+With heart in mouth, I click Next, it confirms 22 codes and 8 coded segments. Next. Overwrite existing segement boundaries with imported ones? yes. Other options are inner bounds, outer bounds and keep existing. 52 variables? not sure that I moght eant to delete those. Import.
+
+Automatically creates a backup prior to Merge.
+
+YEAH BABY!!! I've nailed it. So considerations:
+
+a. Saving a copy duplicates the PDFs internally
+b. When I want to bring in a new RIS containing previously coded PDFs, I can use the Export / Import to retain the coding.
+
+OK.
+
+Always start with an empty project file saved as the name of the import you're about to do so the PDFs don't get duplicated. Because I've been working on a version that included the original RIS DUMMY field.
+
+Two more Shaw to come in, coded before I did the systematic thing, defnitiely in the YES set. Ineractive came through alright, might need to adjust the tesis filename. Trid this, didn't automatically find target so manually set a target.
+
+#LEGEND
+
+epistemoff.2020.
+
+From a surface perspective, all the articles are about people in some kind of therapeutic engagement. For me, this is what i categorise as "clinical". I'm reviewing these articles further in 2020 to see which terms I should exclude from the next phase of search strategy.
+
+While 2020 can't do Word Clouds from PDFs, you can select the PDF text and create a document from it, which can then be turned into a word cloud.
+
+So systematically going through epistemonikos... Some PDFs are not textable. What if I modify the original pDF? Doesn't work. So need to run OCR on everything before import. Already done with CPSC. Only a couple of epistemonikos are images.
+
+All text captured from article individually, then individual word clouds, qord frequencies and a consoldiated version to test stoplist words and exclusions. Current stoplist is at https://www.dropbox.com/sh/c17n3w17be32tsn/AACtCqpK-0JBpz4yomBFzkSla?dl=0.
+
+I did have a set of gowords from prewious studies but I think i need to generate a research-led pne.
+By row 100 in the all-epistemoniks the terms were starting to repeat with minor variations. New tab in spreadsheet https://www.dropbox.com/s/3mcz0w21l0ttvex/updated-stoplist-analysis.xlsx?dl=0 with discussion.
+
+New stoplists uploaded: PCP-sometimes.txt
+other-1118.txt
+numbers.txt
+clinical.txt
+
+These can be used to reduce quantity of results in other searches.
+Now another word cloud of the epistemonikos.
+Showd that the stop lists didn't neessarily sto the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list,another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
+
+---
+What are the advantages of a ssr?
+
+What do examples of SSR look like?
+
+
+Why?
+
+RepGrid is not effectively operationalised {McKellar, 2014 #1} in educational contexts where it could be of value.
+
+The search should be inclusive {McKellar, 2014 #1}
+
+
+
+
+
+
+
+
 While manually deleting duplicates, thinking of words to exclude further:
 Clinic*
 Patient*
 Counsel*
 Child*
+
+
+
+
+So I'm bringing the files into 2020 for ths scoping review because it allows me to use machine anlaysis as well as my own views to identify relevant materials.
