@@ -195,9 +195,9 @@ First set, epistemonikos because the smallest, so a good way to
 
 OK, have an idea to keep the PDFs in place. What about unchecking the "store in folder for external files"?
 
-OK, so now it is leaving the PDFsin EN, which isn't bad, but it doesmean they're inside the file, which IS bad. So there is nO way to keep then in EN. So now, will export to Blexternals.
+OK, so now it is leaving the PDFsin EN, which isn't bad, but it does mean they're inside the file, which IS bad. So there is nO way to keep then in EN. So now, will export to Blexternals.
 
-Slelect PDFs in list, then Exernal Files > Store documents in folder for externalfiles. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
+Select PDFs in list, then Exernal Files > Store documents in folder for externalfiles. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
 
 I've sorted that out :-|
 
@@ -205,7 +205,7 @@ So now i have to gently replace the Arksey paper somehow.
 Used  Teamwork> Teamwork Export: Data Exchange file write to create an exchange file with the two documents (RIS & PDF).
 Opened M-Method 2020 and then...  Teamwork> Teamwork Import: reading from Exchange file data. It asked whether I wanted to import the RIS as new, so uncheck that box, andit looks like it recognises the PDFas the name is identical.
 
-With heart in mouth, I click Next, it confirms 22 codes and 8 coded segments. Next. Overwrite existing segement boundaries with imported ones? yes. Other options are inner bounds, outer bounds and keep existing. 52 variables? not sure that I moght eant to delete those. Import.
+With heart in mouth, I click Next, it confirms 22 codes and 8 coded segments. Next. Overwrite existing segment boundaries with imported ones? yes. Other options are inner bounds, outer bounds and keep existing. 52 variables? not sure that I might want to delete those. Import.
 
 Automatically creates a backup prior to Merge.
 
@@ -242,13 +242,13 @@ clinical.txt
 
 These can be used to reduce quantity of results in other searches.
 Now another word cloud of the epistemonikos.
-Showd that the stop lists didn't neessarily sto the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list,another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
+Showed that the stop lists didn't necessarily stop the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list, another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
 
 ---
 What are the advantages of a ssr?
 
 What do examples of SSR look like?
-
+-
 
 Why?
 
