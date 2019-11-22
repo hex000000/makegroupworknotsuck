@@ -307,7 +307,43 @@ AND
 OR
 - collaboration focus (model-building, decision-making)
 OR
-- research focus (educational researchers using repgrid as a survey instrument)
+- research focus (educational researchers using repgrid as a survey instrument) - here "educational" is the tricky bit, because what about transformed sound and other good papers like that. Maybe it's a more nuanced breakdown into things that are hard to research with traditional instruments. So have a category for all those other non-clinical/psych/counselling research which is excluded, and another for other types of research, maybe separate out marketing later, then look within the other papers at types of research which have used the grid where other things don't work.
+
+so does that mean I should look at those tags specifically? go back and look at the studies you've coded so far.
+
+I need two levels of coding again, like with the Shaw & Gaines papers. One level solely for he SSR, and another for me. Do mine on the second pass after first chunking them in or out.
+
+Coding at this time ignores relevnce to me, just inclusion or not. Will re-code those already done as follows and update as we go.
+
+
+| Setting         | Epistemic               | Research |
+|-----------------|-------------------------|----------|
+| Educational     | Knowledge Co/nstruction | Survey   |
+| Clinical        | Metacognition           |          |
+| Therapeutic     | Problem-Solving         |          |
+| Market Research | Decision-Making         |          |
+| Others          | Knowledge Elicitation   |          |
+|                 | Leadership              |          |
+|                 | Collaboration skills    |          |
+|                 | Model Building          |          |
+|                 | Team decision-making    |          |
+
+
+Have made some changes to the code tree which I will update v soon. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
+Consider having some kind of Literacy code along with Inters. Maybe that can come out of text analysis.
+OK realise I need to include in the survey section what the survey was about. Going back over the ten papers  now.
+
+Need to go back and refine all those "student" teachers differently to non pre-service? Text analysis should help with that. Maybe just code them also as HE.
+
+I thnkn I also need to go back to tease out the 'classroom teaching' as tjere are a lot of those. Also need to add who was surveyed, teachers, students, stakeholdes? No, HE means students unless it's also Teacher Ed.
+I have put beliefs in with experiences and perceptions.
+practice goes in with behaviour but might change code named
+
+Forgot to add the idiogrid one to tools - look at end
+
+
+
+
 (This is a note to myself to table up the participants in the studies - low numbers?)
 
 
