@@ -313,35 +313,44 @@ so does that mean I should look at those tags specifically? go back and look at 
 
 I need two levels of coding again, like with the Shaw & Gaines papers. One level solely for he SSR, and another for me. Do mine on the second pass after first chunking them in or out.
 
-Coding at this time ignores relevnce to me, just inclusion or not. Will re-code those already done as follows and update as we go.
+Coding at this time ignores relevance to me, just inclusion or not. Will re-code those already done as follows and update as we go.
+
+| Setting                    | Epistemic Activities         | Research |                                          | Something Else           | Tools |
+|----------------------------|------------------------------|----------|------------------------------------------|--------------------------|-------|
+| Police Training            | Conceptual Mapping           | Survey   | prevailing discourses in police training | Interdisciplinary        |       |
+| Employers & School Leavers | Teaching Tool need more info |          | design activities                        | Intercultural            |       |
+| Teacher Education          | Team decision-making         |          | preferences                              | Focus on PCP             |       |
+| Stakeholders               | Model Building               |          | personal characteristics                 | Professional Development |       |
+| Unsure of level            | Collaboration skills         |          | thinking and behaviour                   |                          |       |
+| Adult Ed                   | Leadership                   |          | experiences and perceptions              |                          |       |
+| Other                      | Knowledge Elicitation        |          | relationships                            |                          |       |
+| Market Research            | Decision-Making              |          | teamwork                                 |                          |       |
+| Therapeutic                | Problem-Solving              |          | conceptual understanding                 |                          |       |
+| Clinical                   | Metacognition                |          | assessment criteria                      |                          |       |
+| School Ed                  | Knowledge Co/nstruction      |          |                                          |                          |       |
+| Higher Ed                  |                              |          |                                          |                          |       |
 
 
-| Setting         | Epistemic               | Research |
-|-----------------|-------------------------|----------|
-| Educational     | Knowledge Co/nstruction | Survey   |
-| Clinical        | Metacognition           |          |
-| Therapeutic     | Problem-Solving         |          |
-| Market Research | Decision-Making         |          |
-| Others          | Knowledge Elicitation   |          |
-|                 | Leadership              |          |
-|                 | Collaboration skills    |          |
-|                 | Model Building          |          |
-|                 | Team decision-making    |          |
-
-
-Have made some changes to the code tree which I will update v soon. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
+Have made some changes to the code tree which I will update every nowand again. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
 Consider having some kind of Literacy code along with Inters. Maybe that can come out of text analysis.
 OK realise I need to include in the survey section what the survey was about. Going back over the ten papers  now.
 
 Need to go back and refine all those "student" teachers differently to non pre-service? Text analysis should help with that. Maybe just code them also as HE.
 
-I thnkn I also need to go back to tease out the 'classroom teaching' as tjere are a lot of those. Also need to add who was surveyed, teachers, students, stakeholdes? No, HE means students unless it's also Teacher Ed.
+I think I also need to go back to tease out the 'classroom teaching' as there are a lot of those. Also need to add who was surveyed, teachers, students, stakeholders? No, HE means students unless it's also Teacher Ed.
 I have put beliefs in with experiences and perceptions.
-practice goes in with behaviour but might change code named
+practice goes in with behaviour but might change code name
+code table updated in /Applications/MAXQDA/MAXQDAƒ/APlus-code-plus-legacy.xlsx and main sheet at https://www.dropbox.com/s/1eiygm8w2ky89se/Termites-and-Butterflies.xlsm?dl=0
 
-Forgot to add the idiogrid one to tools - look at end
+so what is my search plan, given the coding so far... see the T&B spreadhseet logic & strategy tabs
 
+Narrow the search strategy.
+educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stoplist OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
 
+Re-run all prior searches to see if they fit, then re-code.
+Identify new codes required. 
+
+1. Gaines & Shaw were special, but I could re-run that search with the pa
 
 
 (This is a note to myself to table up the participants in the studies - low numbers?)
