@@ -1,4 +1,4 @@
-identical# Methodology
+# Methodology
 ## Systematic scoping review
 
 I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
@@ -243,6 +243,74 @@ clinical.txt
 These can be used to reduce quantity of results in other searches.
 Now another word cloud of the epistemonikos.
 Showed that the stop lists didn't necessarily stop the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list, another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
+
+I am going to use 2020 to analyse those five results as a test base for the next set of records. I have already saved all the epistemonikos PDFs as text to do the word cloud and stop word analysis.
+
+Procedure:
+1. Select all the documents
+1. Click the magnifying glass
+1. Enter educat* (2020 searches for it appearing anywhere within the word). That didn't do anything.
+Now trying the "Lexical Search" function from the Analysis tab.
+Searched for "educat".
+18 results. 9 in the text documents, and 9 in the PDFs. So I only have to search the PDFs, which will make it easier to contextualise the reference.
+
+well, it's not a perfect duplication - they are referrig to the same passsages in the same work, but the PDF version provides a longer context string - that may be a setting: /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Documents/0_Chapters-see GitHub-repgrid/images/Screen Shot 2019-11-21 at 6.31.05 pm.png.
+
+For now, I select the PDF documents and activate them then run search in activated documents only. I now just have 9.
+Clicking the blue lines next to the search results takes you to that place in the document.
+I reviewed each instance o the search string and recorded results in an excel table that I need to convert for here: /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-epistemonikios-results.xlsx
+
+I also selected all the documents and Auto-Coded them as NO-clinical, with the segments including one sentence before and one after (a setting in the AutoCode dialogue).
+
+OK
+Now I need to reduce the next batch of files using the stoplists, and search using that process.
+
+Next, the Cochrane Library things & protocol.
+
+1. Check abstracts and full texts are in EN T&B Library before exporting sub-library.
+2. Export .ris from sub-library into properly named folder
+
+1. Do I need to put them in 2020? it's clear from titles and abstracts they're all clinical except one which is about satiety.
+
+Will put them in and re-think. One PDF wobbly, one not found, two duplicates. Downloaded a related study just for interest on a Quality of Life modelling that is done with RepGrid.
+
+1. Open empty 2020 project, and save as <name matching EN export>.
+
+1. Import bibliographic data - go to ENoptionf and select folder and .RIS
+1. Search educa (to disambiguate from reduc•)
+
+Again, none suitable, but this is too slow.
+
+Realised I should turn my stop lists into global stop lists. Also clear that counselling should be added to the list - added them to the clinical list. I'll add it to the blank sp it will apply to future 2020 projects.
+
+Now reviewing is going to get harder, so I have to come up with some kind of search strategy. Biggest issue is going to be getting the full-text of thousands of papers.
+
+What are my aims? to provide   benchmark of how RepGrid has been opertionalised in educaiton, preferably higher education. This is a descriptive endeavour, with more depth and synthesis of those studies found in HE in my complete Litratur Revie.
+
+OK. Next run is A+ Education. What's your plan? No point bringing into 2020 without th PDFS.
+Realise I also need to add the multiple software packages & webpages at some point.
+Not a single full-text found.
+
+Narrow the search strategy.
+educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stoplist OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
+
+Result is 55 hits in 55 documents (remembering I only have abstracts here). Manual review of the 55 and then I'll have to find the PDFs of those that fit the parameters.
+
+What are the parameters? Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Autralian because Aplus).
+
+This time instead of exporting before I code them and manually noting, I will code first and then export.
+
+Abstracts read thoroughly for alignment with parameters:
+- educational setting (not clinical education, eg adherence to medication regimes)
+AND
+- epistemic focus (knowledge construction or co-construction, metacognition, problem-solving/decision-making - that is a tough distinction, tacit knowledge elicitation)
+OR
+- collaboration focus (model-building, decision-making)
+OR
+- research focus (educational researchers using repgrid as a survey instrument)
+(This is a note to myself to table up the participants in the studies - low numbers?)
+
+
 
 ---
 What are the advantages of a ssr?
