@@ -172,13 +172,13 @@ Problems with the rdb and tdb folders in EN being protected, stops me saving con
  Re-exported libraries and no problems to exchange folder. Now re-import to 2020. The previous attempt has imported all the PDFs to an Externals folder 2020 created in Documents. Small Epistemonikos import went fine, but realise there is no way I can keep extenrals in their original location. The two Shaw papers I've marked up I need to find a creative way around, maybe through Merge?
  original PDF location snapshot. Now stuff is all over the place - in the Document folder and in the Applications folder. No rationale that I can see.
 
- OK now I hae embedded all the PDFs, and then made them all externals to the Blexternals folder. But Did It Work?
+ OK now I have embedded all the PDFs, and then made them all externals to the Blexternals folder. But Did It Work?
 
  Total of 25 PDFs - how mnay in 2020? so it imported multiples linked to the dups. Have decided to start with a clean improt then merge and see what happens. Saving a copy of 2020 file. OK method done and it seems to be going OK.
  Now yes and maybe.
  MyYes and MyMaybe are subsets of all the papers reviewed for RepGrid/WebGrid.
 
- Well it just kept creating externals so I hav eput a support request in.
+ Well it just kept creating externals so I have put a support request in.
 
 The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
 
@@ -197,7 +197,7 @@ OK, have an idea to keep the PDFs in place. What about unchecking the "store in 
 
 OK, so now it is leaving the PDFsin EN, which isn't bad, but it does mean they're inside the file, which IS bad. So there is nO way to keep then in EN. So now, will export to Blexternals.
 
-Select PDFs in list, then Exernal Files > Store documents in folder for externalfiles. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
+Select PDFs in list, then Exernal Files > Store documents in folder for external files. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
 
 I've sorted that out :-|
 
@@ -218,9 +218,10 @@ OK.
 
 Always start with an empty project file saved as the name of the import you're about to do so the PDFs don't get duplicated. Because I've been working on a version that included the original RIS DUMMY field.
 
-Two more Shaw to come in, coded before I did the systematic thing, defnitiely in the YES set. Ineractive came through alright, might need to adjust the tesis filename. Trid this, didn't automatically find target so manually set a target.
+Two more Shaw to come in, coded before I did the systematic thing, definitely in the YES set. Interactive came through alright, might need to adjust the thesis filename. Tried this, didn't automatically find target so manually set a target.
 
 #LEGEND
+summary: save project as makes all files internal
 
 epistemoff.2020.
 
@@ -246,9 +247,9 @@ Showed that the stop lists didn't necessarily stop the words. So now I will go t
 
 I am going to use 2020 to analyse those five results as a test base for the next set of records. I have already saved all the epistemonikos PDFs as text to do the word cloud and stop word analysis.
 
-Procedure:
+## Search Procedure:
 1. Select all the documents
-1. Click the magnifying glass
+1. Click the magnifying glass. Nup.
 1. Enter educat* (2020 searches for it appearing anywhere within the word). That didn't do anything.
 Now trying the "Lexical Search" function from the Analysis tab.
 Searched for "educat".
@@ -276,7 +277,7 @@ Will put them in and re-think. One PDF wobbly, one not found, two duplicates. Do
 
 1. Open empty 2020 project, and save as <name matching EN export>.
 
-1. Import bibliographic data - go to ENoptionf and select folder and .RIS
+1. Import bibliographic data - go to EN option and select folder and .RIS, choose import option but not the store option
 1. Search educa (to disambiguate from reduc•)
 
 Again, none suitable, but this is too slow.
@@ -285,7 +286,7 @@ Realised I should turn my stop lists into global stop lists. Also clear that cou
 
 Now reviewing is going to get harder, so I have to come up with some kind of search strategy. Biggest issue is going to be getting the full-text of thousands of papers.
 
-What are my aims? to provide   benchmark of how RepGrid has been opertionalised in educaiton, preferably higher education. This is a descriptive endeavour, with more depth and synthesis of those studies found in HE in my complete Litratur Revie.
+What are my aims? to provide   benchmark of how RepGrid has been operationalised in education, preferably higher education. This is a descriptive endeavour, with more depth and synthesis of those studies found in HE in my complete Literature Revie.
 
 OK. Next run is A+ Education. What's your plan? No point bringing into 2020 without th PDFS.
 Realise I also need to add the multiple software packages & webpages at some point.
@@ -331,7 +332,7 @@ Coding at this time ignores relevance to me, just inclusion or not. Will re-code
 | Higher Ed                  |                              |          |                                          |                          |       |
 
 
-Have made some changes to the code tree which I will update every nowand again. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
+Have made some changes to the code tree which I will update every now and again. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
 Consider having some kind of Literacy code along with Inters. Maybe that can come out of text analysis.
 OK realise I need to include in the survey section what the survey was about. Going back over the ten papers  now.
 
@@ -348,9 +349,99 @@ Narrow the search strategy.
 educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stoplist OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
 
 Re-run all prior searches to see if they fit, then re-code.
-Identify new codes required. 
+Identify new codes required.
+Export codes from 2020, remove all the auto-assigned ones, keep only the Tools/Setting/Epistemic/Research/Something Else categories for now. Will see what coding S&G adds to this set.
 
-1. Gaines & Shaw were special, but I could re-run that search with the pa
+1. Gaines & Shaw from RepPlus site - all 197 of them :-| Yess and Maybes already in, adding the Nos now. Should I use the same strategy? Run and test. Particularly beccause there are mostly pre-1980s conference papers so abstracts might be short. In A+, all I had was abstracts. I have all the full papers from G&S. I will search the papers rather than abstracts> Or do both and see what the difference is.
+
+1. PDFS from EN-AutoNo. Select, Analysis tab, Extended Lexical search, Open saved search called aPlus-ssearch.sea </Applications/MAXQDA/MAXQDAƒ/aPlus-search.sea> : all educa*; one "repertory grid" repgrid; none patient
+patients
+medication
+medicine
+medicines
+clinical
+clinician
+depression
+surgery
+therapy
+psychosis
+psychoses
+disease
+pgi
+schizophrenia
+clinic
+chronic
+med
+nr
+recovery
+depression
+trial
+counsel
+counselling child children
+
+32 hits in 32 documents and 3 document groups.
+It searched both abstracts and PDFs. The 32 documents are listed in the RepPlus-searched tab of T&B.
+
+Repeat trying RIS only: 6 Results'
+Repeat PDF only expect 32 results - 26 hits 26 docs 3 groups.
+Overlap?
+Coped and pasted into sheet and then realised that the RIS only have author-year and not the document title. So a manual check of the PDF to which the RIS is linked. Activated all the RIS, repeat search, only one overlap. Probably stoplist kicking in.
+Now manual check of those identified, and not identified, so see if search is accurate enough. Repat searches and make a set of each RIS, PDF and NotID.
+Coded
+- Lex-search-PDFs
+- Lex-search-RIS
+
+"Document variables, which display how often a code exists (their source is acknowledged as “code”) can be transformed into a binary variable by clicking on the  “COnvert to boolean variable” button. After it is transformed the variable will not show, how often a code has been assigned in the document, but if it has been assigned in this document or not."
+
+Selected codes, right-click and   "Transform to document variable".
+A column is added for each in the Data Editor window, with the number of codings as an integer.
+In the Document Variables List, click the Categorical checkbox.
+Click the Convert to Boolean button
+Mixed Methods Tab, Activate documents by Variables
+Conditions Lex-search-RIS=0 AND Lex-search-RIS=0 -> Creates a saved set
+Also found on the Code More.. contextual menu an Invert Activation option.
+
+But now activated, how do I apply a code to them?
+Can I do it programmatically through a variable?
+Repeat previous actions with Lex-search-NO
+Can't use normal coding because no text selected in the Documents
+
+In Data Editor for Document Variables, I can click each of the Lex codes in turn to sort by code. Clicking RIS, then PDF, then NO means that all the documents with the first two codes are at the top/bottom of the list. Can't also show only Activated documents.
+
+Can't select multiple documents. Can't input as in the click the NO box manually. I think I will jsut have to leave it as a set for now. The purpose is only to double check the search strategy.
+
+What is my purpose?  To see if all the documents that I want to find were found. So I need to go through all those that didn't make the cut to see any parameters I need to change. A new code for those called Lex-MISS
+
+eek! working in backup and know I can't save as... Repeat.
+
+OK have the set re-created, now will work through all uncoded documents searching for educ* in both abstract and PDF. All documents that "should" have been picked up will be coded with Lex-MISS. Sorted by name because sometimes that turns out to be helpful. Immediately helpful because at least the Folder (which contains both RIS and PDF) and author / year are easy to compare.
+
+Start 20191128 20:20
+Tried Export Components to Project Files produced a detailed xlsx - I wanted the document titles to keep a record as I checked. Sheet "Coded Segments" column C contained the Code, separating those in the "Other" folder from the Lex-search files. This was accidental but useful.
+
+ Problem was that when I filtered the documents to only show "other", I couldn't then subtotal them on the same page. Goto visible
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 (This is a note to myself to table up the participants in the studies - low numbers?)
