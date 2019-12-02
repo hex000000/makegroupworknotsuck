@@ -419,7 +419,7 @@ OK have the set re-created, now will work through all uncoded documents searchin
 Start 20191128 20:20
 Tried Export Components to Project Files produced a detailed xlsx - I wanted the document titles to keep a record as I checked. Sheet "Coded Segments" column C contained the Code, separating those in the "Other" folder from the Lex-search files. This was accidental but useful.
 
- Problem was that when I filtered the documents to only show "other", I couldn't then subtotal them on the same page. Goto visible
+ Problem was that when I filtered the documents to only show "other", I couldn't then subtotal them on the same page. Remove subtotoals.
 
 
 
