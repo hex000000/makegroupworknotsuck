@@ -354,7 +354,7 @@ Export codes from 2020, remove all the auto-assigned ones, keep only the Tools/S
 
 1. Gaines & Shaw from RepPlus site - all 197 of them :-| Yess and Maybes already in, adding the Nos now. Should I use the same strategy? Run and test. Particularly beccause there are mostly pre-1980s conference papers so abstracts might be short. In A+, all I had was abstracts. I have all the full papers from G&S. I will search the papers rather than abstracts> Or do both and see what the difference is.
 
-1. PDFS from EN-AutoNo. Select, Analysis tab, Extended Lexical search, Open saved search called aPlus-ssearch.sea </Applications/MAXQDA/MAXQDAƒ/aPlus-search.sea> : all educa*; one "repertory grid" repgrid; none patient
+1. Search document system. Select, Analysis tab, Extended Lexical search, Open saved search called aPlus-ssearch.sea </Applications/MAXQDA/MAXQDAƒ/aPlus-search.sea> : all educa*; one "repertory grid" repgrid; none patient
 patients
 medication
 medicine
@@ -419,7 +419,58 @@ OK have the set re-created, now will work through all uncoded documents searchin
 Start 20191128 20:20
 Tried Export Components to Project Files produced a detailed xlsx - I wanted the document titles to keep a record as I checked. Sheet "Coded Segments" column C contained the Code, separating those in the "Other" folder from the Lex-search files. This was accidental but useful.
 
- Problem was that when I filtered the documents to only show "other", I couldn't then subtotal them on the same page. Remove subtotoals.
+ Problem was that when I filtered the documents to only show "other", I couldn't then subtotal them on the same page. Remove subtotoals.aha! remembered there's a conditional formatting that colours duplicates. then can I sort by colour? Way too much data, slow to manipulate. Can I export Sets as part of the document system? Nope, not included in the xport/. OK, links export should pick up one document per PDF if I get links just for th ePDFs. Realise it's easier to split into PDF not found and RIS not found, RIS will have extra links like URLs in them.
+
+ Go back to Data Editor - all documents. click by hand NO on everything that's not PDF or RIS. Then I want to repeat the search but without "Psychology" as a stop word and see if I get a comparable list. OK Exported variables out to Excel. Use filters to identify documents with 0 in RIS or PDF variable and add a 1 into NO. Tested and 26 found with 1 in PDF and 6 in RIS so correct set. SORT so sselection is easier. Reimported. It added some new RIS-specific fields, but looks like it worked to set NO to 1. I changed he variable name to indicate that it denotes those works not found by the first pass of searching.
+
+ Now I will re-run the search without psychology in the stop words. It's not there already!
+
+ patient
+ patients
+ medication
+ medicine
+ medicines
+ clinical
+ clinician
+ depression
+ surgery
+ therapy
+ psychosis
+ psychoses
+ disease
+ pgi
+ schizophrenia
+ clinic
+ chronic
+ med
+ nr
+ recovery
+ depression
+ trial
+ counsel
+ counselling
+ child
+ children
+
+Difficult to know what's ruling it out so I am going to hand check all the NOTIDd and code them, Keeping an eye on what the stoppers are, or whether it's accurate.
+I can code with MISS those that should have been found and run a lexical analysis on them.
+I can code with anothe NO those that were rightly ignored.
+Then I can compare with the Variables-Mod sheet if I think I've missed anything.
+
+When NO coding, selecting enough of the document to make it clear why not.
+If MISS and NO together, means should have been picked up for the term but is not relevant to education context.
+
+Decided the feedback trainer papers that are technical are not included. Many of the Gaines papers were about training feedback systems to train control techs, or generally about the usefulness of computers in Ed. Not RepGrid.Mostly also perceptual motor skills, can group by that on another pass. "human controller" search should get all these.human adapive controller, feedback training, learning machine,
+
+Realised that the MISSs so far have been Ed but not RepGrid. Reclassify NO to No RepGrid no Ed aand miss to only those with both.
+
+Coding modelling even if no RepGrid for post-review.
+
+up to etween neuron, culture and logic: explicating the cognitive nexus
+Neurones, culture et logique: vers une connexion cognitive
+(Gaines-1991-Between neuron, culture and logic_, P. 0: 107)
+
+
 
 
 
@@ -467,12 +518,7 @@ The search should be inclusive {McKellar, 2014 #1}
 
 
 
-While manually deleting duplicates, thinking of words to exclude further:
-Clinic*
-Patient*
-Counsel*
-Child*
-
+Remember to go back later on an merge the semi-dup RIS variables.
 
 
 
