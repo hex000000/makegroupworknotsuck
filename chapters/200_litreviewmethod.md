@@ -470,11 +470,48 @@ up to etween neuron, culture and logic: explicating the cognitive nexus
 Neurones, culture et logique: vers une connexion cognitive
 (Gaines-1991-Between neuron, culture and logic_, P. 0: 107)
 
+at Library today thinking I should apply same search strategies to books & book chapters. how can I get all those stop words into my library search? I'll paste them in one by one. Can only have four paramters. test which are the most effective. With frist four terms, >8000 results.
+
+Limiters are definitely not working, chose sixth down in list at random and a keyword is psychotherapy, which should have been caught by my psycho* NOT. Try psychotherapy in full. It is still in the list. Updated search parameters from Any Field to Subject. No effect.
+
+OK new approach is all those, plus filter subject to only include Repertory Grid Technique, Repertory Grid, Education, 
+Repertory Grid Method, Higher Education. only 2943 results, but still including psychotherapy results. Will have to filter by keyword in 2020 using stopwords there. How doI get the ris out of the Library? 
+
+https://sydney.primo.exlibrisgroup.com/discovery/search?query=any,contains,%22repertory%20grid%22,OR&query=any,contains,repgrid,AND&query=sub,contains,education,NOT&query=sub,contains,patient*,NOT&query=sub,contains,psychotherapy,NOT&query=sub,contains,clinic*,NOT&query=sub,contains,counsel*,AND&tab=Everything&search_scope=MyInst_and_CI&sortby=date_a&vid=61USYD_INST:sydney&mfacet=topic,include,Repertory%20Grid%20Technique,1&mfacet=topic,include,Repertory%20Grid,1&mfacet=topic,include,Education,1&mfacet=topic,include,Repertory%20Grid%20Method,1&mfacet=topic,include,Higher%20Education,1&lang=en&mode=advanced&offset=0&pcAvailability=true&came_from=sort
 
 
+Part of what will determine if they're in scope is if they're in an education/research-focused book/journal. Realised the search was returning journal articles, so I reduced it to books and book chapters. 41 results.https://sydney.primo.exlibrisgroup.com/discovery/search?query=any,contains,%22repertory%20grid%22,OR&query=any,contains,repgrid,AND&query=sub,contains,education,NOT&query=sub,contains,patient*,NOT&query=sub,contains,psychotherapy,NOT&query=sub,contains,clinic*,NOT&query=sub,contains,counsel*,AND&tab=Everything&search_scope=MyInst_and_CI&sortby=date_a&vid=61USYD_INST:sydney&mfacet=topic,include,Repertory%20Grid%20Technique,1&mfacet=topic,include,Repertory%20Grid,1&mfacet=topic,include,Education,1&mfacet=topic,include,Repertory%20Grid%20Method,1&mfacet=topic,include,Higher%20Education,1&mfacet=rtype,include,book_chapters,2&mfacet=rtype,include,books,2&lang=en&mode=advanced&offset=0&pcAvailability=true&came_from=sort
 
+41 results still including psychotherapy. Tried to refine publication date to 1955, forces 1975 and increases count to 1828.
+It is putting journal articles in even though I have selected only book chapters and books. 
 
-
+Refine subject again/ PATIENT participation
+PATIENT satisfaction
+HEALTH behavior
+College Instruction x
+Learning Strategies x
+Psychology
+Action Research x
+Self Evaluation (Groups) x
+Instructional Improvement x
+Curriculum Development x
+Program Improvement
+Educational Improvement x
+College Faculty x
+Evaluation Methods x
+Teacher Effectiveness x
+Student Development x
+Helping Behavior
+Interactive Computer Systems x
+Learning x
+Learning P sychology Of
+Meaning Psychology
+Programmed Instruction Methods
+Psychology Educational
+Self Perception
+Psychotherapy
+Repertory grid technique
+Personal Construct Theory
 
 
 
