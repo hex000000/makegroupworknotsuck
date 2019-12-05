@@ -44,3 +44,6 @@ Grid analysis is based on general statistical methods, in particularly the simil
 
 
 [more recent approaches resolve problems that existed then like] reponses of "Not Applicable" were forced to rate a 3 in the {Shaw, 1978 #194}
+
+Spreadsheet of all Documents reviewed is at
+T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
