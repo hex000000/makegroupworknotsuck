@@ -183,10 +183,15 @@ __end too detailed?__
 
 ## Refining your results
 
-Once you run this search, the subset of records that match the search paramaters will display in a _Results_ window. At this point, you can review the context of each hit by clicking the **Detailed list of search hits** button. In the first result found, for example, the full sentence is displayed: "Exploring beliefs about heart failure treatment in adherent patients: use of the repertory grid technique". This shows me it is not the setting I am searching for. I can then select enough text in the document (usually the abstract) to make it clear why I am not including it, and then code it to show it is not to be included in the reported output. 
+Once you run this search, the subset of records that match the search parameters will display in a _Results_ window. At this point, you can review the context of each hit by clicking the **Detailed list of search hits** button. In the first result found, for example, the full sentence is displayed: "Exploring beliefs about heart failure treatment in adherent patients: use of the repertory grid technique". This shows me it is not the setting I am searching for. I can then select enough text in the document (usually the abstract) to make it clear why I am not including it, and then code it to show it is not to be included in the reported output.
 
+Where the result is relevant to context, use a code to categorise where the document belongs in your search. These codes can later be converted to variables for analytical purposes (for example, count how many documents the search terms are in as opposed to how many times the search string occurs).
 
+Figure 1 shows an exmple of coding applied from the Setting, Research and Something Else categories. This document does meet the criteria for inclusion in the review.
 
+/Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Analysis Files/code-assignment-example-APlus.png
+
+Technical note - this record also has the Autocoded segments that all RIS records do. You can turn these off to display selected codes by Activating those codes first, then right-clicking the coding strip, checking _Only Activated Codes_, then **OK**.
 
 
 

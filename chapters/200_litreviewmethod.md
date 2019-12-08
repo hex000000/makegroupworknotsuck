@@ -237,6 +237,29 @@ With the initial approach bedded down, I commenced the database searches in the 
 1. If an abstract is not available, exclude the document only if the title includes a word in the exclusion list
 1. If not excluded, locate and manually download a full text version for review and coding.
 
+From the initial 76 documents found in the database search, my lexical search returned 55 documents containing the search terms. As the APlus database focuses on education research in  Australian settings, this was a useful opportunity to begin a more nuanced coding regime around learning, teaching and research. A manual review of these 55 documents showed that the coding scheme could be expanded to include the setting (for example, school education versus post-school education), epistemic activities (for example, team decision-making and conceptual mapping) (for a broader discussion of what comprises epistemic activities please see the Literature Review chapter), and if used as a survey tool, the topic of the survey (for example, relationships or personal characteristics). Where the focus was at a more abstracted level (for example, interdisciplinarity or intercultural facilitation), that was coded on a case-by-case basis.
+
+Within the 55 results, 45 had enough information to determine a setting, with 15 in higher education, with an additional 17 in teacher education.
+
+/Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/example-of-subcode-summary-aplus.png
+
+While containing the search term educa*, neither research nor instruction was necessarily  about education, and while those studies have fed into the Literature Review chapter, they are excluded from the results of this review. The Lit Review also discuses the difference between "metacognition" and "reflection" in the context of Higher Education. In the meantime, it's all coded as metacognition.
+
+Figure 1 shows an example of coding applied from the Setting, Research and Something Else categories. This document does meet the criteria for inclusion in the review.
+
+/Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Analysis Files/code-assignment-example-APlus.png
+
+
+Teacher Education separated into in-service (Professional Development) and Higher Education. I am considering whether to include or not include Teacher Education, particularly where there's a research component. I think this is more for the broader literature review, and this SSR is just about RepGrid in Higher Education.
+
+One example is
+The application of repertory grid methodology to educational research
+ (Lee, T.-//-Monash University - 1979 , Pos. 2), a thesis that looks interesting. However, it appears on the surface to focus on personality testing, but has the keyword "educational research".
+
+ For resolving that question, I really need the full-text. However, there are still 20 documents for which this is not available. I am trying to export the titles but while I can search for memos with "Christine" I can't export the RIS variable TI. So I'm going to manually code that 20 with "full-text needed" across the citation to be able to export for Christine's help. '  
+
+and then I'll have to find the PDFs of those that fit the parameters. What are the parameters? Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Australian because APlus is a geographically-situated database).
+
 - _Use of a repertory grid technique to help people with a common problem describe their needs_ (Ainge, D. et al. - 1990 , Pos. 2) could be relevant, but I have not been able to access a full-text version. I have contacted the publisher.
 **memo in 2020 but can't remember correct style for flagging this so have used [ ! ]**
 
@@ -244,9 +267,9 @@ With the initial approach bedded down, I commenced the database searches in the 
 
 [for the UML diagram, 76 results, 0 relevant]
 
-Result is 55 hits in 55 documents (remembering I only have abstracts here). Manual review of the 55 and then I'll have to find the PDFs of those that fit the parameters.
 
-What are the parameters? Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Autralian because Aplus).
+
+
 
 This time instead of exporting before I code them and manually noting, I will code first and then export.
 
