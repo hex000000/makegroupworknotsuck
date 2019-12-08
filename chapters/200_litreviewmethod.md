@@ -97,6 +97,7 @@ _Table n: Results from the RepPlus website._
  | http://pages.cpsc.ucalgary.ca/~gaines/repplus/markdown/        | 49 (1 duplicate = 48, Carol tutorial not file, just HTML folder = 47)                                                                                                                                                                                           |
 | http://pages.cpsc.ucalgary.ca/~gaines/BooseBradshaw/index.html | 28 (no duplicates)                                                                                                                                                                                                                                               |
 
+All results for each search set are set out at /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews
 
 All PDF and Microsoft Word document files were downloaded from each web page. Folder contents were saved as text and compared with the links in each web page to identify duplicates or non-document files. One HTML page was saved as PDF and the embedded movie converted to current MP4 standards; two duplicates were removed.
 
@@ -108,187 +109,140 @@ Following the thesis, I download and reviewed all documents from the RepPlus web
 
 Where there were discrepancies in publication titles, years or provenance between my record and the citation at http://pages.cpsc.ucalgary.ca/~gaines/reports/, the  information available in the document itself was was used.
 
-After double checking all documents, I recorded the subset each record was in on the RepPlus site (for example, "Education and Learning" or "Modelling Psychological and  Social Systems") , although they are quite loosely construed and should not be considered prescriptive in my opinion. The content of the website itself (Home page, History page) was not a part of this standalone review. 
+After double checking all documents, I recorded the subset each record was in on the RepPlus site (for example, "Education and Learning" or "Modelling Psychological and  Social Systems") , although they are quite loosely construed and should not be considered prescriptive in my opinion. The content of the website itself (Home page, History page) was not a part of this standalone review.
+
+As the body of work from Shaw and Gaines was substantial, I elected to test the MAXQDA import with a smaller document set until my workflow was established. I selected the epistemonikos output as it had a small number of files but more than one. In EN, I checked all abstracts were in place and attached full-text where available. I renamed all attachments to author-date-title format as this is the document title that will display in MAXQDA and consistency is helpful, and with the understanding that the next import will bring a substantial number of documents in with identical authors and years it is necessary to tell one from another easily. After saving these as a new Library and exporting the file data as .RIS, I opened MAXQDA2020 and used the EndNote import function to select the .RIS, then the .ENL, to import both the "References" and References> Attachments. I moved the PDFs (Attachments) into the RIS (References) folder which I retitled epistemonikos.
+
+From a surface perspective, all the article titles are about people in some kind of therapeutic engagement. For me, this is what I categorise as "clinical". I then reviewed each articles further in 2020 to see which terms I should exclude from the next phase of search strategy. At the same time, I had the opportunity to contribute to my broader Literature Review by using this sample data set to also find terms to exclude from data analysis. As the two sets of terms were likely to be substantially similar, I chose a data-driven approach to identifying terms within this set of records which could be useful to limit results in future searches and provide cleaner data for analysis.
+
+I first created individual word clouds and word frequency tables for each document in the epistemonikos project to identify terms were not relevant to this review. To reduce clutter in these reports, it is customary to use a list of "stop" words not relevant to the researchers analytical frame.
+
+MAXQDA2020 offers one set of pre-configured stop list words in English, principally "definite and indefinite articles, conjunctions, or numerals". {VERBI Software, 2019 #7616}. Even though these lists had been uploaded, the clouds and tables showed that several variations were still included. To remedy this, I used the application's interface to manually add words already established as stop words (for example, "a", "the" and "did") to the stop list. This is appropriate to use for my review, but is not adequate to exclude the range of clinical or therapeutic contexts which are not relevant to higher education learning, teaching and research, particularly for databases with large output sets such as PSYCHINFO.
+
+Once I had uploaded the additional stop word list to MAXQDA2020, I re-ran the word frequency analysis to check that the result foregrounded more relevant terms, such as "self", "group", and "cognitive". While these terms may be found in a clinical context, they are also potentially relevant to educational research and could not be excluded at this stage of the review.
+
+My next step was to work through the frequency table line by line, and develop a custom stop list based on my research aim - to provide a benchmark of how RepGrid has been operationalised in education, preferably higher education. By the 100th row of the frequency output, variations on the previous terms were frequent and I concluded it was likely I had reached saturation of these terms, at least for this data set.
+
+After reviewing these 100 terms, I then broke them down into categories, and determined those that may be too relevant to exclude. The data from this is at Table N.
+
+| possessives | articles | conjunctions | generic research words | tech  | other   | numbers  | clinical terms from epistemonikos-all | add to specific stop list just for RepGrid terms | retained       | reason                                                                |
+|-------------|----------|--------------|------------------------|-------|---------|----------|---------------------------------------|--------------------------------------------------|----------------|-----------------------------------------------------------------------|
+| their       | the      | and          | found                  | https | yes     | one      | patient                               |                                                  | self           | PCP foundation                                                        |
+| our         |          | of           | research               | http  | had     | two      | patients                              |                                                  | heart          | may be used in another context, but add to stop if continual clinical |
+|             |          | also         | reported               | doi   | using   | three    | medication                            |                                                  | adherence      | difficult to contextualise                                            |
+|             |          | for          | measures               | www   | to      | four     | medicine                              |                                                  | belief/s       | PCP foundation                                                        |
+|             |          | with         | used                   | com   | related | five     | medicines                             |                                                  | grid           | RepGrid                                                               |
+|             |          |              | review                 |       | life    | six      | clinical                              |                                                  | group          | important for my context                                              |
+|             |          |              | results                |       | in      | seven    | clinician                             |                                                  | study          | difficult to contextualise                                            |
+|             |          |              | people                 |       | non     | eight    | depression                            |                                                  | failure        | difficult to contextualise                                            |
+|             |          |              | data                   |       | years   | nine     | surgery                               | constructs                                       |                | PCP foundation                                                        |
+|             |          |              | compare                |       | would   | ten      | therapy                               | elements                                         |                | PCP foundation                                                        |
+|             |          |              | compares               |       | there   | twenty   | psychosis                             |                                                  | treatment      | may be used in another context, but add to stop if continual clinical |
+|             |          |              | compared               |       | weight  | thirty   | psychoses                             | personal                                         |                | PCP foundation                                                        |
+|             |          |              | analysis               |       | aqlq    | forty    | disease                               |                                                  | score/s        | difficult to contextualise                                            |
+|             |          |              | outcome                |       | did     | fifty    | pgi                                   |                                                  | adherent       | difficult to contextualise                                            |
+|             |          |              | based                  |       | use     | sixty    | schizophrenia                         |                                                  | individual/s   | difficult to contextualise                                            |
+|             |          |              | studies                |       | used    | seventy  | clin                                  |                                                  | cognitive      | difficult to contextualise                                            |
+|             |          |              | study                  |       | seiqol  | eighty   | chronic                               |                                                  | subject/s      | may be used in another context, but add to stop if continual clinical |
+|             |          |              | journal                |       | na      | ninety   | med                                   |                                                  | care           | difficult to contextualise                                            |
+|             |          |              | sample                 |       | new     | hundred  | nr                                    |                                                  | generated      | difficult to contextualise                                            |
+|             |          |              | et                     |       | age     | thousand | recovery                              |                                                  | health         | difficult to contextualise                                            |
+|             |          |              | al                     |       | time    | million  | depression                            | technique                                        |                | PCP foundation                                                        |
+|             |          |              |                        |       | could   | number   | trial                                 |                                                  | months         | difficult to contextualise                                            |
+|             |          |              |                        |       | were    | numbers  |                                       |                                                  | quality        | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | scale          | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | control/s      | may be used in another context, but add to stop if continual clinical |
+|             |          |              |                        |       |         |          |                                       |                                                  | identity       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | mean           | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | activities     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | fluid          | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | social         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | management     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       | rgt                                              |                | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | mars           | may be used in another context, but add to stop if continual clinical |
+|             |          |              |                        |       |         |          |                                       |                                                  | â              | impossible to contextualise                                           |
+|             |          |              |                        |       |         |          |                                       | elicited                                         |                | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | important      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | intervention   | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | necessity      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | water          | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | affect         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | higher         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | positive       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | significant/ly | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | different      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | behavioural    | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | overall        | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | perception/s   | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       | psychology                                       |                | PCP foundation - but not looking to focus on this.                    |
+|             |          |              |                        |       |         |          |                                       |                                                  | statements     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | change/s       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | concern/s      | difficult to contextualise                                            |
+
+
+The complete output of word clouds, frequency analysis and pre- and post- stop lists from this stage is at /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/updated-stoplist-analysis.xlsx. These will be used to reduce the quantity of results in other searches.
+
+The current stop list is at https://www.dropbox.com/sh/c17n3w17be32tsn/AACtCqpK-0JBpz4yomBFzkSla?dl=0.
+
+The next step was to search for anything in the set that was relevant to my research aim. The stop word lists are not applicable to the Lexical Search function in MAXQDA, so I used the list to develop a search strategy for exclusion, while looking for the terms "educa*" (to avoid finding variations of reduc*), and "repgrid" or "repertory" or "grid". This search was later slightly modified, as "grid"   explained below. After modification, the lexical search is at Table N.
+
+| Lexical search parameters |                |
+|------|------------------------|
+| ALL: | educa*                 |
+| ANY: | "repertory grid" repgrid |
+| NOT: | patient                |
+|      | patients               |
+|      | medication             |
+|      | medicine               |
+|      | medicines              |
+|      | clinical               |
+|      | clinician              |
+|      | depression             |
+|      | surgery                |
+|      | therapy                |
+|      | psychosis              |
+|      | psychoses              |
+|      | disease                |
+|      | pgi                    |
+|      | schizophrenia          |
+|      | clinic                 |
+|      | chronic                |
+|      | med                    |
+|      | nr                     |
+|      | recovery               |
+|      | depression             |
+|      | trial                  |
+|      | counsel                |
+|      | counselling            |
+|      | child                  |
+|      | children               |
 
-Resolved modelling & supporting is a separate document which should be listed on page instead of duplicate title & abstract.
+After running the search, I then reviewed the displayed results, which include the full sentence in which the term is found. I coded the abstract of each result that was not relevant to this research report as NO (or enough  text to see why it was not included if there was no abstract).
 
-Cross check of 198 records complete.
-Now check that I have them in the right buckets
-bucket check done, there are 199 records in EN documented on the Excel sheet.
+In the epistemonikos set, none of the four retrieved results were in a higher education settting.
 
-Spreadsheet of all Documents reviewed is at
-T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
+Summary for this search is at /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-epistemonikios-results.xlsx
 
-Do I need to set out how I developed coding schemata? Probably not so relevant here. Decided to use my skeleton outline to being with. Then working from oldest work forwards.
+[for the UML diagram, 9 results, 0 relevant]
 
--- while reviewing the documents to see which mentioned RepGrid/WebGrid, I noted in EndNote those that are either definitely, or may be, relevant to my studies. These occupy their own EN Libraries now and need to be brought into MAXDA. I have started coding in the 2018 version, and now need to convert my project to 2020 and set up a workflow with my new plan to use the iMac as main home machine, and laptop connected to large monitor in the Lab. '
+Cochrane Library search returned 16 Trials and one Protocol.
+Using the method above, none of these results were in the scope of this review. However, this stage highlighted the need to add variations of "counselling" to the search strategy exclusions.
 
-Installing M2020 now, after making sure copy of most recent project is in Dropbox. It looks like the 2020 can leave files in their original EN folder location, so I will do some testing with the SSR method files, exporting them to a new EN folder and linking to 2020. I'm going to re-import the EN files, no, that's not a good idea because I'll have to keep updating the location each time I move computers. So I'll have to keep the EN files in Dropbox. BUT, most of the files are linked to a local EN library PDF folder. FAAAAAAAArk.
+[for the UML diagram, 17 results, 0 relevant]
 
-Looks like I'm going to have to either EN them on Dropbox or keep bundling them for transfer between computers. I'm going to go with option B, and have the EN Libraries in Dropbox as a backup / share only. BIG DECISION!
 
-So even though the pathname is correct - no it isn't, because as a user here I am j. I should create my own login on this Mac. First I need to make sure the applications folder is top level. Yep, looks like it. Let's try now.
+With the initial approach bedded down, I commenced the database searches in the order recommended by the Faculty Librarian. An important consideration for these larger datasets is the absence of an associated full-text. While EndNote has a feature to access full-text from the university Library, system issues prevented this from being usable. I address this in this review by:
 
-OK slight issue with not running multiple versions of Dropbox, tempted to try an Automator script but don't want to stuff up Jay's db so no. New version of file locations spreadsheet and the workflow will be:
+1. If an abstract is available, search the abstract
+1. If an abstract is not available, exclude the document only if the title includes a word in the exclusion list
+1. If not excluded, locate and manually download a full text version for review and coding.
 
-1. Do EN on local machine, then copy library in named folder to /Volumes/eb/Dropbox/MAXQDA-Ex/MAXQDA_Exchange. From there, copy to local folder of next computer.
-2. Do 2020 on local machine, then copy folder to the same Exchange folder for copying to local machine but this might not work depending on location of Externals. How can I do this most seamlessly? First see if I can reconnect the method PDFs in the 2020 project and then work backwards First restoring folder name that I had changed for consistency. Then  open the 2020 project. Then drag & drop PDFs missing from their EN folder, because this path should stay table if I copy from Applications folder between Macs. so I changed the folder name (but not library name) back again for consistency. same PDF trick for showing all the files simultaneously. Drag and drop does not replace file. Neither does import. Both look like they work but no effect. While I can't create a real dropnbox folder, I'll try a fake one.
+- _Use of a repertory grid technique to help people with a common problem describe their needs_ (Ainge, D. et al. - 1990 , Pos. 2) could be relevant, but I have not been able to access a full-text version. I have contacted the publisher.
+**memo in 2020 but can't remember correct style for flagging this so have used [ ! ]**
 
-That worked. Now I am left with one folder that points to one location for externals, and the other folders to a different location. And of course I have lots of coded sections in both. And if I bring them all in, they'll go out to a single externals folder instead of staying in their EN PDF folder which is where I'd like to keep them. So I will just have to suck it up with Arksey et al. until I have time to re-do the whole thing from EN, whch might not work the same way in 2020 as it did in 2018.
 
-Now I have to stabilise the files across all the locations. Decided I would do an EN_exchange folder and the subfolder with current version of all files. Will stick with this, as Applications at top level on both Macs should be a stable location (I Hope). so basic structure is that for each of EN and 2020, there is a Folder in the applications folder of each Mac, containing:
-1. the application
-2. necessary support files
-3. a sub-folder with option-f extension containing current project files.
-At the moment, the 2020 folder has PDFs that shouldn't be there. I will use the next import from EN to test the viability of ENfolder location ongoing.
 
-pdf NUMBERs in 2020 FOLDER inconsistent, leave until later as idea is no pdffs.
-
-OK all consistent across MB, iM & Exchange folder.
-
-Now will try new 2020 import from EN for a small set of files. Saved a backup of T&B in versions folder first.
-
-New Library -Converted
-
-Selected epistemonikos as it had a small number of files but more than one.
-- Check that all abstracts are in place
-- Find full text
-- Rename attachments author-date-titles
-- copy to new library (EN-epistemonikos.enl)
-- export RIS
-- import to 2020. I didn't check the 'external' checkbox, so will they import to 2020 and do they just end up loose in the folder? They come in in two new folders "references" and references> attachments. I moved the PDFs into the RIS folder which I retitled epistemonikos.
-
-The links work!
-
-but now all my Gaines/Shaw are disconnected... So I reckon I'll bring them in again to connect them properly.Only one document is really heavily marked up so I'll leave that in the original location and reimport all the others.
-
-Problems with the rdb and tdb folders in EN being protected, stops me saving converted updated library. reopened on laptop, exported, now will try to transfer between comptuers. But 40 references and 56 PDFs? OK wait until tomorrow and try again.
-
- Re-exported libraries and no problems to exchange folder. Now re-import to 2020. The previous attempt has imported all the PDFs to an Externals folder 2020 created in Documents. Small Epistemonikos import went fine, but realise there is no way I can keep extenrals in their original location. The two Shaw papers I've marked up I need to find a creative way around, maybe through Merge?
- original PDF location snapshot. Now stuff is all over the place - in the Document folder and in the Applications folder. No rationale that I can see.
-
- OK now I have embedded all the PDFs, and then made them all externals to the Blexternals folder. But Did It Work?
-
- Total of 25 PDFs - how mnay in 2020? so it imported multiples linked to the dups. Have decided to start with a clean improt then merge and see what happens. Saving a copy of 2020 file. OK method done and it seems to be going OK.
- Now yes and maybe.
- MyYes and MyMaybe are subsets of all the papers reviewed for RepGrid/WebGrid.
-
- Well it just kept creating externals so I have put a support request in.
-
-The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
-
-
-Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
-
-One limitation of scoping reviews is that they do not provide an exhaustive and formal appraisal of evidence across the body of research {Arksey, 2005 #7}. This is a significant issue for health and medical research with randomised and controlled trials, but less problematic for this study, as any evaluative methods are likely to be highly variable and context-dependent. The systematic process of scoping is likely to be beneficial to our understanding of those evaluative methods and the situations in which they are found.
-
-Persistent problems occurred with searching caused by cookie and adblocker issues. It was difficult to have effective privacy settings as well as save searches and set alerts. That meant I had to repeat several searches from the beginning, as what ever the problem was would only become clear when I tried to either save or set a search alert or export search results.
-
-Now I am waiting for tech help, work on reducing the sets of files down to relevance.
-
-First set, epistemonikos because the smallest, so a good way to
-
-OK, have an idea to keep the PDFs in place. What about unchecking the "store in folder for external files"?
-
-OK, so now it is leaving the PDFsin EN, which isn't bad, but it does mean they're inside the file, which IS bad. So there is nO way to keep then in EN. So now, will export to Blexternals.
-
-Select PDFs in list, then Exernal Files > Store documents in folder for external files. But they are already "external files", in the EN location. I think it's the Saving As that is embedding the files.YES!!!! THAT'S THE PROBLEM!!!!!
-
-I've sorted that out :-|
-
-So now i have to gently replace the Arksey paper somehow.
-Used  Teamwork> Teamwork Export: Data Exchange file write to create an exchange file with the two documents (RIS & PDF).
-Opened M-Method 2020 and then...  Teamwork> Teamwork Import: reading from Exchange file data. It asked whether I wanted to import the RIS as new, so uncheck that box, andit looks like it recognises the PDFas the name is identical.
-
-With heart in mouth, I click Next, it confirms 22 codes and 8 coded segments. Next. Overwrite existing segment boundaries with imported ones? yes. Other options are inner bounds, outer bounds and keep existing. 52 variables? not sure that I might want to delete those. Import.
-
-Automatically creates a backup prior to Merge.
-
-YEAH BABY!!! I've nailed it. So considerations:
-
-a. Saving a copy duplicates the PDFs internally
-b. When I want to bring in a new RIS containing previously coded PDFs, I can use the Export / Import to retain the coding.
-
-OK.
-
-Always start with an empty project file saved as the name of the import you're about to do so the PDFs don't get duplicated. Because I've been working on a version that included the original RIS DUMMY field.
-
-Two more Shaw to come in, coded before I did the systematic thing, definitely in the YES set. Interactive came through alright, might need to adjust the thesis filename. Tried this, didn't automatically find target so manually set a target.
-
-#LEGEND
-summary: save project as makes all files internal
-
-epistemoff.2020.
-
-From a surface perspective, all the articles are about people in some kind of therapeutic engagement. For me, this is what i categorise as "clinical". I'm reviewing these articles further in 2020 to see which terms I should exclude from the next phase of search strategy.
-
-While 2020 can't do Word Clouds from PDFs, you can select the PDF text and create a document from it, which can then be turned into a word cloud.
-
-So systematically going through epistemonikos... Some PDFs are not textable. What if I modify the original pDF? Doesn't work. So need to run OCR on everything before import. Already done with CPSC. Only a couple of epistemonikos are images.
-
-All text captured from article individually, then individual word clouds, qord frequencies and a consoldiated version to test stoplist words and exclusions. Current stoplist is at https://www.dropbox.com/sh/c17n3w17be32tsn/AACtCqpK-0JBpz4yomBFzkSla?dl=0.
-
-I did have a set of gowords from prewious studies but I think i need to generate a research-led pne.
-By row 100 in the all-epistemoniks the terms were starting to repeat with minor variations. New tab in spreadsheet https://www.dropbox.com/s/3mcz0w21l0ttvex/updated-stoplist-analysis.xlsx?dl=0 with discussion.
-
-New stoplists uploaded: PCP-sometimes.txt
-other-1118.txt
-numbers.txt
-clinical.txt
-
-These can be used to reduce quantity of results in other searches.
-Now another word cloud of the epistemonikos.
-Showed that the stop lists didn't necessarily stop the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list, another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
-
-I am going to use 2020 to analyse those five results as a test base for the next set of records. I have already saved all the epistemonikos PDFs as text to do the word cloud and stop word analysis.
-
-## Search Procedure:
-1. Select all the documents
-1. Click the magnifying glass. Nup.
-1. Enter educat* (2020 searches for it appearing anywhere within the word). That didn't do anything.
-Now trying the "Lexical Search" function from the Analysis tab.
-Searched for "educat".
-18 results. 9 in the text documents, and 9 in the PDFs. So I only have to search the PDFs, which will make it easier to contextualise the reference.
-
-well, it's not a perfect duplication - they are referrig to the same passsages in the same work, but the PDF version provides a longer context string - that may be a setting: /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Documents/0_Chapters-see GitHub-repgrid/images/Screen Shot 2019-11-21 at 6.31.05 pm.png.
-
-For now, I select the PDF documents and activate them then run search in activated documents only. I now just have 9.
-Clicking the blue lines next to the search results takes you to that place in the document.
-I reviewed each instance o the search string and recorded results in an excel table that I need to convert for here: /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-epistemonikios-results.xlsx
-
-I also selected all the documents and Auto-Coded them as NO-clinical, with the segments including one sentence before and one after (a setting in the AutoCode dialogue).
-
-OK
-Now I need to reduce the next batch of files using the stoplists, and search using that process.
-
-Next, the Cochrane Library things & protocol.
-
-1. Check abstracts and full texts are in EN T&B Library before exporting sub-library.
-2. Export .ris from sub-library into properly named folder
-
-1. Do I need to put them in 2020? it's clear from titles and abstracts they're all clinical except one which is about satiety.
-
-Will put them in and re-think. One PDF wobbly, one not found, two duplicates. Downloaded a related study just for interest on a Quality of Life modelling that is done with RepGrid.
-
-1. Open empty 2020 project, and save as <name matching EN export>.
-
-1. Import bibliographic data - go to EN option and select folder and .RIS, choose import option but not the store option
-1. Search educa (to disambiguate from reduc•)
-
-Again, none suitable, but this is too slow.
-
-Realised I should turn my stop lists into global stop lists. Also clear that counselling should be added to the list - added them to the clinical list. I'll add it to the blank sp it will apply to future 2020 projects.
-
-Now reviewing is going to get harder, so I have to come up with some kind of search strategy. Biggest issue is going to be getting the full-text of thousands of papers.
-
-What are my aims? to provide   benchmark of how RepGrid has been operationalised in education, preferably higher education. This is a descriptive endeavour, with more depth and synthesis of those studies found in HE in my complete Literature Revie.
-
-OK. Next run is A+ Education. What's your plan? No point bringing into 2020 without th PDFS.
-Realise I also need to add the multiple software packages & webpages at some point.
-Not a single full-text found.
-
-Narrow the search strategy.
-educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stoplist OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
+[for the UML diagram, 76 results, 0 relevant]
 
 Result is 55 hits in 55 documents (remembering I only have abstracts here). Manual review of the 55 and then I'll have to find the PDFs of those that fit the parameters.
 
@@ -341,7 +295,7 @@ code table updated in /Applications/MAXQDA/MAXQDAƒ/APlus-code-plus-legacy.xlsx 
 so what is my search plan, given the coding so far... see the T&B spreadhseet logic & strategy tabs
 
 Narrow the search strategy.
-educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stoplist OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
+educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stop list OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
 
 Re-run all prior searches to see if they fit, then re-code.
 Identify new codes required.
@@ -380,7 +334,7 @@ It searched both abstracts and PDFs. The 32 documents are listed in the RepPlus-
 Repeat trying RIS only: 6 Results'
 Repeat PDF only expect 32 results - 26 hits 26 docs 3 groups.
 Overlap?
-Coped and pasted into sheet and then realised that the RIS only have author-year and not the document title. So a manual check of the PDF to which the RIS is linked. Activated all the RIS, repeat search, only one overlap. Probably stoplist kicking in.
+Coped and pasted into sheet and then realised that the RIS only have author-year and not the document title. So a manual check of the PDF to which the RIS is linked. Activated all the RIS, repeat search, only one overlap. Probably stop list kicking in.
 Now manual check of those identified, and not identified, so see if search is accurate enough. Repat searches and make a set of each RIS, PDF and NotID.
 Coded
 - Lex-search-PDFs
@@ -653,6 +607,14 @@ Give up and go back to RepPlus.
 What are the advantages of a ssr?
 
 What do examples of SSR look like?
+
+
+
+One limitation of scoping reviews is that they do not provide an exhaustive and formal appraisal of evidence across the body of research {Arksey, 2005 #7}. This is a significant issue for health and medical research with randomised and controlled trials, but less problematic for this study, as any evaluative methods are likely to be highly variable and context-dependent. The systematic process of scoping is likely to be beneficial to our understanding of those evaluative methods and the situations in which they are found.
+
+Persistent problems occurred with searching caused by cookie and adblocker issues. It was difficult to have effective privacy settings as well as save searches and set alerts. That meant I had to repeat several searches from the beginning, as what ever the problem was would only become clear when I tried to either save or set a search alert or export search results. The university Library system is also incompletely operational, with search results inconsistent and/or unavailable for 1475 of the 2395 found results.
+
+
 -
 
 Why?

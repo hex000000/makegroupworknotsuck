@@ -18,7 +18,7 @@ I decided that for each application, I would create a projects folder in the loc
 - necessary support files
 - a sub-folder with option-f extension containing current project files.
 
-Then, in Dropbox, for each applicaiton an an _Exchange folder, which contains the sub-folder, which will be copied from the current and to the next current device as needed, and back again.
+Then, in Dropbox, for each applicaiton an an "_Exchange"_ folder, which contains the sub-folder, which will be copied from the current and to the next current device as needed, and back again.
 
 ### Workflow
 
@@ -29,7 +29,7 @@ Then, in Dropbox, for each applicaiton an an _Exchange folder, which contains th
 
 It's REALLY important to note that once documents (or videos, or audio) are imported to MAXQDA they can't be modified, only coded and annotated. Quality Assurance should be carried out at each stage to avoid multiple versions of a document with different details.
 
-I began with the output from epistemonikos as it had a small number of files but more than one.
+The next set of files to export from EN should be a small, exploratory set, with procedure replicable as part of the SSR. I began with the output from epistemonikos as it had a small number of files but more than one.
 
 ### EndNote preparation
 1. Export results from database as .RIS
@@ -41,21 +41,159 @@ I began with the output from epistemonikos as it had a small number of files but
 1. Select all documents and Export as .RIS (RefMan output option, will have a .txt extension on filename)
 
 ### MAXQDA import
-1. Import to 2020. I didn't check the 'external' checkbox, so will they import to 2020 and do they just end up loose in the folder? They come in in two new folders "references" and references> attachments. I moved the PDFs into the RIS folder which I retitled epistemonikos.
+1. Import > Reference Manager Data > Import from EndNote to import both the "References" and References> Attachments.
+*Leave the 'external' box unchecked, so the original PDFs will stay in the EndNote PDF folder and still be accessible within EN but won't show your coding in EN.*
+2. (optional) I moved the PDFs (Attachments) into the RIS (References) folder which I retitled epistemonikos so all documents were co-located and the relationship between reference and document was easy to identify.
 
-The links work!
+#### Mistakes happen
+After some technical issues related to Mac-only MAXQDA installations, I needed to replace an already-coded PDF that had become embedded in the project with a linked PDF to be consistent with the others.
+
+From a Library specifically created just for this addition to the project, I used **Teamwork> Teamwork Export: Data Exchange file write** to create an exchange file with the two documents (RIS & PDF) of this specific paper.
+
+I then opened the destination project and used **Teamwork> Teamwork Import: reading from Exchange file data**. It asked whether I wanted to import the RIS as new, and wanting to retain the original, I unchecked that box, and it recognises the PDF as the name is identical so correctly replaces it, confirming 22 codes and 8 coded segments. Next. Overwrite existing segment boundaries with imported ones? yes. Other options are inner bounds, outer bounds and keep existing. 52 variables? not sure that I might want to delete those. Import.
+
+Automatically creates a backup prior to Merge.
+
+#### Technical points to note, potentially only Mac
+a. Always start with an empty project file saved as the name of the import you're about to do so the PDFs don't get duplicated.
+Saving a copy duplicates the PDFs internally
+b. When you want to replace previously coded documents, create a project with those files, then use Export / Import to retain the coding.
+
+### Reviewing the Documents
+
+For content analysis of any data type, there is a balance between breadth and detail, and you will need to select what is relevant to you and what is simply background. MAXQDA Dictio's stop list feature {VERBI Software, 2019 #7616} allows you to exclude terms from analysis either by manually entering them into the system or by uploading text files. More details about how you might do this is below.
+
+For text document reading and review, while prior versions of MAXQDA required you to manually convert each PDF to text to make it searchable, the 2020 update searches PDF text provided it has been created using a text editor or has been though a character recognition process. It is still important to develop a search strategy you will use consistently, in order for your work to be replicable. MAXQDA2020's Lexical Search feature {VERBI Software, 2018 #7617} allows you to save complex boolean searches that can be applied in other projects. More information about creating a search strategy is below.
+
+__Too detailed? make available somewhere else?__
+
+#### Creating a "stop list"
+
+Depending on the purpose of your review, you could create either a pre-developed list of terms to exclude (for example, if you definitely didn't want analysis to include the words "random" or "trial" as data). For an exploratory review like mine, you might chose a data-driven approach to identifying terms within this set of records which could be useful to limit results in future searches and provide cleaner data for analysis. An example of this is below.
+
+##### Example of data-driven stop list development
+
+MAXQDA2020 offers one set of pre-configured stop list words in English, principally "definite and indefinite articles, conjunctions, or numerals". {VERBI Software, 2019 #7616}. Even though these lists had been uploaded, the clouds and tables showed that several variations were still included. To remedy this, I used the application's interface to manually add words already established as stop words (for example, "a", "the" and "did") to the stop list. This is appropriate to use for my review, but is not adequate to exclude the range of clinical or therapeutic contexts which are not relevant to higher education learning, teaching and research, particularly for databases with large output sets such as PSYCHINFO.
+
+Once I had uploaded the additional stop word list to MAXQDA2020, I re-ran the word frequency analysis to check that the result foregrounded more relevant terms, such as "self", "group", and "cognitive". While these terms may be found in a clinical context, they are also potentially relevant to educational research and could not be excluded at this stage of the review.
+
+My next step was to work through the frequency table line by line, and develop a custom stop list based on my research aim - to provide a benchmark of how RepGrid has been operationalised in education, preferably higher education. By the 100th row of the frequency output, variations on the previous terms were frequent and I concluded it was likely I had reached saturation of these terms, at least for this data set.
+
+After reviewing these 100 terms, I then broke them down into categories, and determined those that may be too relevant to exclude. The data from this is at Table N.
+
+| possessives | articles | conjunctions | generic research words | tech  | other   | numbers  | clinical terms from epistemonikos-all | add to specific stop list just for RepGrid terms | retained       | reason                                                                |
+|-------------|----------|--------------|------------------------|-------|---------|----------|---------------------------------------|--------------------------------------------------|----------------|-----------------------------------------------------------------------|
+| their       | the      | and          | found                  | https | yes     | one      | patient                               |                                                  | self           | PCP foundation                                                        |
+| our         |          | of           | research               | http  | had     | two      | patients                              |                                                  | heart          | may be used in another context, but add to stop if continual clinical |
+|             |          | also         | reported               | doi   | using   | three    | medication                            |                                                  | adherence      | difficult to contextualise                                            |
+|             |          | for          | measures               | www   | to      | four     | medicine                              |                                                  | belief/s       | PCP foundation                                                        |
+|             |          | with         | used                   | com   | related | five     | medicines                             |                                                  | grid           | RepGrid                                                               |
+|             |          |              | review                 |       | life    | six      | clinical                              |                                                  | group          | important for my context                                              |
+|             |          |              | results                |       | in      | seven    | clinician                             |                                                  | study          | difficult to contextualise                                            |
+|             |          |              | people                 |       | non     | eight    | depression                            |                                                  | failure        | difficult to contextualise                                            |
+|             |          |              | data                   |       | years   | nine     | surgery                               | constructs                                       |                | PCP foundation                                                        |
+|             |          |              | compare                |       | would   | ten      | therapy                               | elements                                         |                | PCP foundation                                                        |
+|             |          |              | compares               |       | there   | twenty   | psychosis                             |                                                  | treatment      | may be used in another context, but add to stop if continual clinical |
+|             |          |              | compared               |       | weight  | thirty   | psychoses                             | personal                                         |                | PCP foundation                                                        |
+|             |          |              | analysis               |       | aqlq    | forty    | disease                               |                                                  | score/s        | difficult to contextualise                                            |
+|             |          |              | outcome                |       | did     | fifty    | pgi                                   |                                                  | adherent       | difficult to contextualise                                            |
+|             |          |              | based                  |       | use     | sixty    | schizophrenia                         |                                                  | individual/s   | difficult to contextualise                                            |
+|             |          |              | studies                |       | used    | seventy  | clin                                  |                                                  | cognitive      | difficult to contextualise                                            |
+|             |          |              | study                  |       | seiqol  | eighty   | chronic                               |                                                  | subject/s      | may be used in another context, but add to stop if continual clinical |
+|             |          |              | journal                |       | na      | ninety   | med                                   |                                                  | care           | difficult to contextualise                                            |
+|             |          |              | sample                 |       | new     | hundred  | nr                                    |                                                  | generated      | difficult to contextualise                                            |
+|             |          |              | et                     |       | age     | thousand | recovery                              |                                                  | health         | difficult to contextualise                                            |
+|             |          |              | al                     |       | time    | million  | depression                            | technique                                        |                | PCP foundation                                                        |
+|             |          |              |                        |       | could   | number   | trial                                 |                                                  | months         | difficult to contextualise                                            |
+|             |          |              |                        |       | were    | numbers  |                                       |                                                  | quality        | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | scale          | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | control/s      | may be used in another context, but add to stop if continual clinical |
+|             |          |              |                        |       |         |          |                                       |                                                  | identity       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | mean           | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | activities     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | fluid          | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | social         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | management     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       | rgt                                              |                | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | mars           | may be used in another context, but add to stop if continual clinical |
+|             |          |              |                        |       |         |          |                                       |                                                  | â              | impossible to contextualise                                           |
+|             |          |              |                        |       |         |          |                                       | elicited                                         |                | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       |                                                  | important      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | intervention   | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | necessity      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | water          | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | affect         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | higher         | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | positive       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | significant/ly | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | different      | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | behavioural    | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | overall        | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | perception/s   | PCP foundation                                                        |
+|             |          |              |                        |       |         |          |                                       | psychology                                       |                | PCP foundation - but not looking to focus on this.                    |
+|             |          |              |                        |       |         |          |                                       |                                                  | statements     | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | change/s       | difficult to contextualise                                            |
+|             |          |              |                        |       |         |          |                                       |                                                  | concern/s      | difficult to contextualise                                            |
+
+
+
+#### Creating a search strategy
+
+Depending on the purpose of your review, you may have a pre-developed search strategy such as "random control trial" AND "breast cancer". Again, for an exploratory review, a data-driven approach can provide insights into how a search might be most effective.
+
+
+##### Example of data-driven search strategy
+
+For me, the next step was to search for anything in the set that was relevant to my research aim. The stop word lists are not applicable to the Lexical Search function in MAXQDA, so I used the list to develop a search strategy for exclusion, while looking for the terms "educa*" (to avoid finding variations of reduc*), and "repertory grid" or "repgrid" or "grid". The lexical search parameters I used are at Table N.
+
+| Lexical search parameters |                |
+|------|------------------------|
+| ALL: | educa*                 |
+| ANY: | "repertory grid" repgrid |
+| NOT: | patient                |
+|      | patients               |
+|      | medication             |
+|      | medicine               |
+|      | medicines              |
+|      | clinical               |
+|      | clinician              |
+|      | depression             |
+|      | surgery                |
+|      | therapy                |
+|      | psychosis              |
+|      | psychoses              |
+|      | disease                |
+|      | pgi                    |
+|      | schizophrenia          |
+|      | clinic                 |
+|      | chronic                |
+|      | med                    |
+|      | nr                     |
+|      | recovery               |
+|      | depression             |
+|      | trial                  |
+|      | counsel                |
+|      | counselling            |
+|      | child                  |
+|      | children               |
+
+__end too detailed?__
+
+
+
+## Refining your results
+
+Once you run this search, the subset of records that match the search paramaters will display in a _Results_ window. At this point, you can review the context of each hit by clicking the **Detailed list of search hits** button. In the first result found, for example, the full sentence is displayed: "Exploring beliefs about heart failure treatment in adherent patients: use of the repertory grid technique". This shows me it is not the setting I am searching for. I can then select enough text in the document (usually the abstract) to make it clear why I am not including it, and then code it to show it is not to be included in the reported output. 
 
 
 
 
 
-The next set of files to export from EN should be a small set, with procedure replicable as part of the SSR.
 
 
-Then there are the books. I focused on the most recent volume of the most cited? Work by Fransella, Bay & Bannister.
 
-One limitation of scoping reviews is that they do not provide an exhaustive and formal appraisal of evidence across the body of research {Arksey, 2005 #7}. This is a significant issue for health and medical research with randomised and controlled trials, but less problematic for this study, as any evaluative methods are likely to be highly variable and context-dependent. The systematic process of scoping is likely to be beneficial to our understanding of those evaluative methods and the situations in which they are found.
 
+---
 Persistent problems occurred with searching caused by cookie and adblocker issues. It was difficult to have effective privacy settings as well as save searches and set alerts. That meant I had to repeat several searches from the beginning, as what ever the problem was would only become clear when I tried to either save or set a search alert or export search results.
 
 Now I am waiting for tech help, work on reducing the sets of files down to relevance.
@@ -112,7 +250,8 @@ clinical.txt
 
 These can be used to reduce quantity of results in other searches.
 Now another word cloud of the epistemonikos.
-Showed that the stop lists didn't necessarily stop the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list, another frequency list and word cloud were created. Searching the frequency list for "education" returned five results - I need to output these with commentary tomorrow :-)
+Showed that the stop lists didn't necessarily stop the words. So now I will go through and manually remove them from the frequ dialog in 2020. After manually adding those identified to the stop list, I created another frequency list and word cloud for each document and confirmed the stop words were being excluded.
+
 
 I am going to use 2020 to analyse those five results as a test base for the next set of records. I have already saved all the epistemonikos PDFs as text to do the word cloud and stop word analysis.
 
