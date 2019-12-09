@@ -239,7 +239,12 @@ With the initial approach bedded down, I commenced the database searches in the 
 
 From the initial 76 documents found in the database search, my lexical search returned 55 documents containing the search terms. As the APlus database focuses on education research in  Australian settings, this was a useful opportunity to begin a more nuanced coding regime around learning, teaching and research. A manual review of these 55 documents showed that the coding scheme could be expanded to include the setting (for example, school education versus post-school education), epistemic activities (for example, team decision-making and conceptual mapping) (for a broader discussion of what comprises epistemic activities please see the Literature Review chapter), and if used as a survey tool, the topic of the survey (for example, relationships or personal characteristics). Where the focus was at a more abstracted level (for example, interdisciplinarity or intercultural facilitation), that was coded on a case-by-case basis.
 
-Within the 55 results, 45 had enough information to determine a setting, with 15 in higher education, with an additional 17 in teacher education.
+Quick check of the 21 to see if any were missed. Stop words around children excluding most school and early childhood settings which is good. I coded the SPERA as School Ed because it is likely that "remote" as opposed to "online" means school as opposed to higher ed.
+
+  
+
+
+Within the 55 results, 45 had enough information to determine a setting,
 
 /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/example-of-subcode-summary-aplus.png
 
@@ -249,19 +254,15 @@ Figure 1 shows an example of coding applied from the Setting, Research and Somet
 
 /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Analysis Files/code-assignment-example-APlus.png
 
-
-Teacher Education separated into in-service (Professional Development) and Higher Education. I am considering whether to include or not include Teacher Education, particularly where there's a research component. I think this is more for the broader literature review, and this SSR is just about RepGrid in Higher Education.
+Teacher Education separated into in-service (Professional Development) and Higher Education. I am considering whether to include or not include Teacher Education, particularly where there's a research component. I think this is more for the broader literature review, and this SSR is just about RepGrid in Higher Education. Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Australian because APlus is a geographically-situated database).
 
 One example is
 The application of repertory grid methodology to educational research
  (Lee, T.-//-Monash University - 1979 , Pos. 2), a thesis that looks interesting. However, it appears on the surface to focus on personality testing, but has the keyword "educational research".
 
- For resolving that question, I really need the full-text. However, there are still 20 documents for which this is not available. I am trying to export the titles but while I can search for memos with "Christine" I can't export the RIS variable TI. So I'm going to manually code that 20 with "full-text needed" across the citation to be able to export for Christine's help. '  
+ For resolving that question, I really need the full-text. However, there are still 20 documents for which this is not available. I am trying to export the titles but while I can search for memos with "Christine" I can't export the RIS variable TI. So I'm going to manually code that 21 with "full-text needed" across the citation to be able to export for Christine's help. Of these, 10 are PhDs, 5 Journal Articles, 5 Conference papers and 1 Report.  
 
-and then I'll have to find the PDFs of those that fit the parameters. What are the parameters? Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Australian because APlus is a geographically-situated database).
 
-- _Use of a repertory grid technique to help people with a common problem describe their needs_ (Ainge, D. et al. - 1990 , Pos. 2) could be relevant, but I have not been able to access a full-text version. I have contacted the publisher.
-**memo in 2020 but can't remember correct style for flagging this so have used [ ! ]**
 
 
 
@@ -349,7 +350,9 @@ recovery
 depression
 trial
 counsel
-counselling child children
+counselling
+child
+children
 
 32 hits in 32 documents and 3 document groups.
 It searched both abstracts and PDFs. The 32 documents are listed in the RepPlus-searched tab of T&B.
