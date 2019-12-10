@@ -111,6 +111,7 @@ Where there were discrepancies in publication titles, years or provenance betwee
 
 After double checking all documents, I recorded the subset each record was in on the RepPlus site (for example, "Education and Learning" or "Modelling Psychological and  Social Systems") , although they are quite loosely construed and should not be considered prescriptive in my opinion. The content of the website itself (Home page, History page) was not a part of this standalone review.
 
+## epistemonikos
 As the body of work from Shaw and Gaines was substantial, I elected to test the MAXQDA import with a smaller document set until my workflow was established. I selected the epistemonikos output as it had a small number of files but more than one. In EN, I checked all abstracts were in place and attached full-text where available. I renamed all attachments to author-date-title format as this is the document title that will display in MAXQDA and consistency is helpful, and with the understanding that the next import will bring a substantial number of documents in with identical authors and years it is necessary to tell one from another easily. After saving these as a new Library and exporting the file data as .RIS, I opened MAXQDA2020 and used the EndNote import function to select the .RIS, then the .ENL, to import both the "References" and References> Attachments. I moved the PDFs (Attachments) into the RIS (References) folder which I retitled epistemonikos.
 
 From a surface perspective, all the article titles are about people in some kind of therapeutic engagement. For me, this is what I categorise as "clinical". I then reviewed each articles further in 2020 to see which terms I should exclude from the next phase of search strategy. At the same time, I had the opportunity to contribute to my broader Literature Review by using this sample data set to also find terms to exclude from data analysis. As the two sets of terms were likely to be substantially similar, I chose a data-driven approach to identifying terms within this set of records which could be useful to limit results in future searches and provide cleaner data for analysis.
@@ -223,13 +224,26 @@ In the epistemonikos set, none of the four retrieved results were in a higher ed
 
 Summary for this search is at /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-epistemonikios-results.xlsx
 
-[for the UML diagram, 9 results, 0 relevant]
+| epistemonikos  |   |
+|----------------|---|
+| found          | 9 |
+| met criteria   | 0 |
+
+
+## Cochrane Library
 
 Cochrane Library search returned 16 Trials and one Protocol.
 Using the method above, none of these results were in the scope of this review. However, this stage highlighted the need to add variations of "counselling" to the search strategy exclusions.
 
-[for the UML diagram, 17 results, 0 relevant]
+Summary for this search is at
+/Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-Cochrane-results.xlsx
 
+| Cochrane Library |    |
+|------------------|----|
+| found            | 17 |
+| met criteria     | 0  |
+
+## A+ database
 
 With the initial approach bedded down, I commenced the database searches in the order recommended by the Faculty Librarian. An important consideration for these larger datasets is the absence of an associated full-text. While EndNote has a feature to access full-text from the university Library, system issues prevented this from being usable. I address this in this review by:
 
@@ -237,122 +251,146 @@ With the initial approach bedded down, I commenced the database searches in the 
 1. If an abstract is not available, exclude the document only if the title includes a word in the exclusion list
 1. If not excluded, locate and manually download a full text version for review and coding.
 
-From the initial 76 documents found in the database search, my lexical search returned 55 documents containing the search terms. As the APlus database focuses on education research in  Australian settings, this was a useful opportunity to begin a more nuanced coding regime around learning, teaching and research. A manual review of these 55 documents showed that the coding scheme could be expanded to include the setting (for example, school education versus post-school education), epistemic activities (for example, team decision-making and conceptual mapping) (for a broader discussion of what comprises epistemic activities please see the Literature Review chapter), and if used as a survey tool, the topic of the survey (for example, relationships or personal characteristics). Where the focus was at a more abstracted level (for example, interdisciplinarity or intercultural facilitation), that was coded on a case-by-case basis.
+The next database output for review was the APlus database, which focuses on education research in  Australian settings, this was a useful opportunity to begin a more nuanced coding regime around learning, teaching and research.
 
-Quick check of the 21 to see if any were missed. Stop words around children excluding most school and early childhood settings which is good. I coded the SPERA as School Ed because it is likely that "remote" as opposed to "online" means school as opposed to higher ed.
+Returning to my defined scope of RepGrid in Higher Education, I narrowed my search strategy slightly with the aim of reducing irrelevant results within 2020:
 
-  
+educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stop list OR child OR children. Screen shot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
 
-
-Within the 55 results, 45 had enough information to determine a setting,
+From the initial 76 documents found in the database search, my lexical search returned 55 documents containing the search terms.  A manual review of these 55 documents showed that the coding scheme could be expanded to include the setting (for example, school education versus post-school education), epistemic activities (for example, team decision-making and conceptual mapping) (for a broader discussion of what comprises epistemic activities please see the Literature Review chapter), and if used as a survey tool, the topic of the survey (for example, relationships or personal characteristics). Where the focus was at a more abstracted level (for example, interdisciplinarity or intercultural facilitation), that was coded on a case-by-case basis.
 
 /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/example-of-subcode-summary-aplus.png
 
-While containing the search term educa*, neither research nor instruction was necessarily  about education, and while those studies have fed into the Literature Review chapter, they are excluded from the results of this review. The Lit Review also discuses the difference between "metacognition" and "reflection" in the context of Higher Education. In the meantime, it's all coded as metacognition.
+While found containing the search term educa*, neither research nor instruction was necessarily  about education, and while those studies have fed into the Literature Review chapter, they are excluded from the results of this review. The Lit Review also discuses the difference between "metacognition" and "reflection" in the context of Higher Education. In the meantime, it's all coded as metacognition.
+
+I coded the SPERA as School Ed because it is likely that "remote" as opposed to "online" means school as opposed to Higher Ed.
+
+I have combined beliefs with experiences and perceptions, as they are toward the inner and less intentional end of a continuum, with practice combined with thinking and behaviour at the more external and more intentional end.
 
 Figure 1 shows an example of coding applied from the Setting, Research and Something Else categories. This document does meet the criteria for inclusion in the review.
 
 /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Analysis Files/code-assignment-example-APlus.png
 
-Teacher Education separated into in-service (Professional Development) and Higher Education. I am considering whether to include or not include Teacher Education, particularly where there's a research component. I think this is more for the broader literature review, and this SSR is just about RepGrid in Higher Education. Used in what Lina would call an epistemic activity (see notes) in research and practice conducted in higher education. (And these studies will be mostly Australian because APlus is a geographically-situated database).
+Teacher Education has been separated into Professional Development (in-service) and Higher Education for the purposes of this review. While beyond the scope of this review, the body of Teacher Education is substantial, and I am considering whether to create a simple table of all Teacher Education, particularly where there's a research component.
 
-One example is
-The application of repertory grid methodology to educational research
- (Lee, T.-//-Monash University - 1979 , Pos. 2), a thesis that looks interesting. However, it appears on the surface to focus on personality testing, but has the keyword "educational research".
+I then reviewed the 21 documents not found in the Lexical search, and found two records that met the criteria for inclusion but did have the term child/ren.  This exclusion had the unintended effect of excluding teacher education in higher education where this term was mentioned in the title or abstract.
 
- For resolving that question, I really need the full-text. However, there are still 20 documents for which this is not available. I am trying to export the titles but while I can search for memos with "Christine" I can't export the RIS variable TI. So I'm going to manually code that 21 with "full-text needed" across the citation to be able to export for Christine's help. Of these, 10 are PhDs, 5 Journal Articles, 5 Conference papers and 1 Report.  
+While it is manageable to manually check this small number of documents for inclusion, the search strategy for PSYCHINFO will need to include these terms and then be coded depending on whether it is ALSO a Higher Education or PD/stakeholder/other setting. This will require a two stage process, set out below.
 
+Of the 55 records identified by search, 25 met the inclusion criteria, plus two not initially identified. Of these, full text has not yet been located for 12. While pointing to full text is not necessary for doing a systematic scoping review, as many of the documents are more than 20 years old and are not available through our University Libraries, I consider it an affordance for users of this review, and consistent with my goal of establishing a "baseline" of data about Repertory Grid Technique in Higher Education. I also want them for my broader Literature Review.
 
+Summary for this search is at
 
+/Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/Document-Reviews/M-APlus-results.xlsx
 
+| A+           |    |
+|--------------|----|
+| found        | 76 |
+| met criteria | 27 |
 
-[for the UML diagram, 76 results, 0 relevant]
+## Shaw and/or Gaines at RepPlus
 
-
-
-
-
-This time instead of exporting before I code them and manually noting, I will code first and then export.
+While I reviewed the RepPlus papers from Shaw and Gaines prior to re-reviewing the database outputs above, I reviewed them again after the minor changes to search strategy made above. I also considered whether to be as broad as:
 
 Abstracts read thoroughly for alignment with parameters:
 - educational setting (not clinical education, eg adherence to medication regimes)
 AND
-- epistemic focus (knowledge construction or co-construction, metacognition, problem-solving/decision-making - that is a tough distinction, tacit knowledge elicitation)
+__- epistemic focus (knowledge construction or co-construction, metacognition, problem-solving/decision-making - that is a tough distinction, tacit knowledge elicitation)
 OR
 - collaboration focus (model-building, decision-making)
-OR
-- research focus (educational researchers using repgrid as a survey instrument) - here "educational" is the tricky bit, because what about transformed sound and other good papers like that. Maybe it's a more nuanced breakdown into things that are hard to research with traditional instruments. So have a category for all those other non-clinical/psych/counselling research which is excluded, and another for other types of research, maybe separate out marketing later, then look within the other papers at types of research which have used the grid where other things don't work.
+OR__
+- research focus (educational researchers using repgrid as a survey instrument) - here "educational" is the tricky bit, because what about transformed sound and other good papers like that.
 
-so does that mean I should look at those tags specifically? go back and look at the studies you've coded so far.
+or to omit the italicised documents from the SSR (but include them in my own LR) My conclusion is to not read closely enough to gain that depth of insight, except for my own Literature Review. Papers in scope are only Repertory Grid in and Higher Education- but the research angle is nuanced.
 
-I need two levels of coding again, like with the Shaw & Gaines papers. One level solely for he SSR, and another for me. Do mine on the second pass after first chunking them in or out.
+While with the A+ output all I had was abstracts, and some records lacked those, I have all the full papers from RepPlus. This allowed searching the full-text rather than the abstracts to more closely target relevant studies. I removed the terms child / children from the exclusion list with the aim of then searching that term and manually assigning a code.
 
-Coding at this time ignores relevance to me, just inclusion or not. Will re-code those already done as follows and update as we go.
+ During the test stages of my initial search, I noted  that several documents in this set may not use the term "repertory grid", but may use either the platform title "webgrid", or the title of one of the components, such as "PEGAUS", "FOCUS", or "SOCIOGRIDS".
 
-| Setting                    | Epistemic Activities         | Research |                                          | Something Else           | Tools |
-|----------------------------|------------------------------|----------|------------------------------------------|--------------------------|-------|
-| Police Training            | Conceptual Mapping           | Survey   | prevailing discourses in police training | Interdisciplinary        |       |
-| Employers & School Leavers | Teaching Tool need more info |          | design activities                        | Intercultural            |       |
-| Teacher Education          | Team decision-making         |          | preferences                              | Focus on PCP             |       |
-| Stakeholders               | Model Building               |          | personal characteristics                 | Professional Development |       |
-| Unsure of level            | Collaboration skills         |          | thinking and behaviour                   |                          |       |
-| Adult Ed                   | Leadership                   |          | experiences and perceptions              |                          |       |
-| Other                      | Knowledge Elicitation        |          | relationships                            |                          |       |
-| Market Research            | Decision-Making              |          | teamwork                                 |                          |       |
-| Therapeutic                | Problem-Solving              |          | conceptual understanding                 |                          |       |
-| Clinical                   | Metacognition                |          | assessment criteria                      |                          |       |
-| School Ed                  | Knowledge Co/nstruction      |          |                                          |                          |       |
-| Higher Ed                  |                              |          |                                          |                          |       |
+ Adding relevant technical terms to the search params:
+- ARGUS
+- SOCIOGRIDS
+- CORE
+- MINUS
+- PEGASUS
+- SPACED
+- FOCI
+- FOCUS
+
+Checking which excluded terms impacted the finding of relevant documents:
+
+patient* (11 records)
+medic* (2 records)
+clinic* (2)
+child* (2)
+
+On closer review, those records tend to be large works which provide deep background to Repertory Grid Technique, which began in a therapeutic context. I decide to retain those words in the exclusion list and manually check for them in the unidentified record set.
+
+| Lexical search parameters |                |
+|---------------------------|----------------|
+| ALL:                      | educa*         |
+| ANY:                      | repertory grid |
+|                           | repgrid        |
+|                           | ARGUS          |
+|                           | SOCIOGRIDS     |
+|                           | CORE           |
+|                           | MINUS          |
+|                           | PEGASUS        |
+|                           | SPACED         |
+|                           | FOCI           |
+|                           | FOCUS          |
+|                           | webgrid        |
+| NOT:                      | patient        |
+|                           | patients       |
+|                           | medication     |
+|                           | medicine       |
+|                           | medicines      |
+|                           | clinical       |
+|                           | clinician      |
+|                           | depression     |
+|                           | surgery        |
+|                           | therapy        |
+|                           | psychosis      |
+|                           | psychoses      |
+|                           | disease        |
+|                           | pgi            |
+|                           | schizophrenia  |
+|                           | clinic         |
+|                           | chronic        |
+|                           | med            |
+|                           | nr             |
+|                           | recovery       |
+|                           | depression     |
+|                           | trial          |
+|                           | counsel        |
+|                           | counselling    |
+
+Run updated search in the 196 PDFs, returning 46 documents.
+
+Autocode all those with Autocode - ALL: educa* ANY: repertory grid repgrid ARGUS
+SOCIO.
+Activate those autocoded documents, then refining search as above:
+Autocode - ANY: university graduate higher
+
+Clear from the first document that it picked up the term "university" in the author institution. I don't think the refinement is helpful. Instead, activate those documents not found by the search, and search them for those terms.
+
+Manually code those 46 results only around their relevance to this review. [ran overall documents including RIS, 52 results, coded for cross-check of additional 8 coded segments].
+
+In each document, scan abstract first for "repertory grid", then establish setting. [not to self about auto-coding the list of knowledge acquisition/elicitiation terms] While AI and personal and inter-personal reflection not in a HE setting are outside the scope of this review, they are important in a Learning Sciences frame and are discussed further in the Literture Review chapter. Also review the term 'entailment' in this context. Also need to create a new code for Expert Systems and go back over this and other document sets after the SSR is complete. Expertise modelling. Deeper think about the idea of mapping through the tools specificlly as envisaged for collaboration. Also go back through SG for tools specifically as most of their work develops in that direction.
+
+Knowledge structures - need to address the idea of "knowledge". Shaw "Active Documents" code these as meeting support and go back to Zacklad etc. for LR chapter. In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of someting else first. And all these documents are knowledge models of a sort. Shaw very much about htracking the development of collaborative semantic networks.
+
+break for dentist at
+\EN-MyYes\Shaw-1978-Interactive computer programs for el 
+
+In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of someting else first.
+In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of someting else first.
 
 
-Have made some changes to the code tree which I will update every now and again. Decided I would not separate TAFE and Higher Ed settings as there are enough common features - especially about survey research rather than teaching. Schools coded as such hen referred to as "school" in Abstract or keywords, Unsure codes will check to confirm.
-Consider having some kind of Literacy code along with Inters. Maybe that can come out of text analysis.
-OK realise I need to include in the survey section what the survey was about. Going back over the ten papers  now.
 
-Need to go back and refine all those "student" teachers differently to non pre-service? Text analysis should help with that. Maybe just code them also as HE.
 
-I think I also need to go back to tease out the 'classroom teaching' as there are a lot of those. Also need to add who was surveyed, teachers, students, stakeholders? No, HE means students unless it's also Teacher Ed.
-I have put beliefs in with experiences and perceptions.
-practice goes in with behaviour but might change code name
-code table updated in /Applications/MAXQDA/MAXQDAƒ/APlus-code-plus-legacy.xlsx and main sheet at https://www.dropbox.com/s/1eiygm8w2ky89se/Termites-and-Butterflies.xlsm?dl=0
 
-so what is my search plan, given the coding so far... see the T&B spreadhseet logic & strategy tabs
 
-Narrow the search strategy.
-educa* (avoiding the reduce trap) AND "repgrid" OR "repertory grid" BUT NOT words in the clinical stop list OR child OR children. Screen snot  at /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/APlus-search_strategy.png
-
-Re-run all prior searches to see if they fit, then re-code.
-Identify new codes required.
-Export codes from 2020, remove all the auto-assigned ones, keep only the Tools/Setting/Epistemic/Research/Something Else categories for now. Will see what coding S&G adds to this set.
-
-1. Gaines & Shaw from RepPlus site - all 197 of them :-| Yess and Maybes already in, adding the Nos now. Should I use the same strategy? Run and test. Particularly beccause there are mostly pre-1980s conference papers so abstracts might be short. In A+, all I had was abstracts. I have all the full papers from G&S. I will search the papers rather than abstracts> Or do both and see what the difference is.
-
-1. Search document system. Select, Analysis tab, Extended Lexical search, Open saved search called aPlus-ssearch.sea </Applications/MAXQDA/MAXQDAƒ/aPlus-search.sea> : all educa*; one "repertory grid" repgrid; none patient
-patients
-medication
-medicine
-medicines
-clinical
-clinician
-depression
-surgery
-therapy
-psychosis
-psychoses
-disease
-pgi
-schizophrenia
-clinic
-chronic
-med
-nr
-recovery
-depression
-trial
-counsel
-counselling
-child
-children
 
 32 hits in 32 documents and 3 document groups.
 It searched both abstracts and PDFs. The 32 documents are listed in the RepPlus-searched tab of T&B.
@@ -403,6 +441,9 @@ Tried Export Components to Project Files produced a detailed xlsx - I wanted the
  Going back and double-checking this document, there were 362 records, one of which will have been the duplicate PDF. So the 361 00 is correct. On checking, I found 32 records that weren't in any of the three sets (my manual intervention clearly failed.) I did this in Excel, but how should I do i in 2020? [now finds 7 RIS, still 26 PDF, NOTIDd1 301; there are 393 named documents]
 
  Used mixed methods activate by variable with all three AND=0; there are the 60 documents, all EN except one; the PDF uncoded, EN coded. Go to Analysis, summary grid with EN activated to see if any had been "set" coded NOPE none. I think this was just error on my part, still not sure about the odd number of records. But now will code that unfound set and it should then be empty. Not quite accurate to say missed here, but investigation worthwhile and so was review.
+
+ see the T&B spreadhseet logic & strategy tabs
+
 
 
 
