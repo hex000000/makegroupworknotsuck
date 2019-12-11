@@ -42,6 +42,16 @@ When Mildred Shaw developed the WebGrid software, she was guided by the key prin
 Grid analysis is based on general statistical methods, in particularly the similarity and correlation matrices between the columns of elements and rows of constructs {Shaw, 1978 #194}. Traditionally, multi-dimensional scaling, principal component analysis, factor analysis and cluster analysis are used to interrogate grid data, and Shaw finds that despite limitations of psycho-physical scales generally, the mathematical process for focusing the grid is robust {Shaw, 1978 #194}.
 
 
+Remember broader coding schema development for the previous project which may still be relevant is at MaxMaps.
+
+In each document, scan abstract first for "repertory grid", then establish setting. [not to self about auto-coding the list of knowledge acquisition/elicitation terms] While AI and personal and inter-personal reflection not in a HE setting are outside the scope of this review, they are important in a Learning Sciences frame and are discussed further in the Literture Review chapter. Also review the term 'entailment' in this context. Also need to create a new code for Expert Systems and go back over this and other document sets after the SSR is complete. Expertise modelling. Deeper think about the idea of mapping through the tools specifically as envisaged for collaboration. Also go back through SG for tools specifically as most of their work develops in that direction.
+
+Knowledge structures - need to address the idea of "knowledge". Shaw "Active Documents" code these as meeting support and go back to Zacklad etc. for LR chapter. In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of something else first. And all these documents are knowledge models of a sort. Shaw very much about tracking the development of collaborative semantic networks. also conversation heuristics, decision/collaboration support.
+
+In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of someting else first.
+In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of something else first.
+
+
 
 [more recent approaches resolve problems that existed then like] reponses of "Not Applicable" were forced to rate a 3 in the {Shaw, 1978 #194}
 
