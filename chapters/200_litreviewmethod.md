@@ -326,6 +326,8 @@ child* (2)
 
 On closer review, those records tend to be large works which provide deep background to Repertory Grid Technique, which began in a therapeutic context. I decide to retain those words in the exclusion list and manually check for them in the unidentified record set.
 
+Final search parameters are at Table N
+
 | Lexical search parameters |                |
 |---------------------------|----------------|
 | ALL:                      | educa*         |
@@ -388,7 +390,18 @@ Summary for this search is at
 | met criteria | 13 |
 
 
+##  ERIC
 
+Previous adjustments should mean the search is now calibrated correctly. I won't separate PDF from RIS at this stage as I only have 2 PDFs. Ran Lex search with application names (eg FOCUS) and without excluding child/ren.
+
+4 duplicates of the Buckley-Walker paper. Need to review full-text for several dcuments to check if HE or not. Criteria for exclusion: teacher ed or PD not in HE, vocational setting not related to HE, research setting not related to HE. Generic Adult Ed not in a HE setting. Surveys of teachers about their beliefs excluded if the setting not hE. Although surveys of teachers are coded teacher education so I might need to revisit that. Won't impact on the HE set. Tagging management for Ehssan.
+
+Lots of work o using RepGrid for inter-rater assessment or criteria elaboration
+
+Now I am getting dups need to add a process into the worlkflow. title? year? 10 dups of von Treuer,
+
+dups within the found set ->
+dups to previous sets ->
 
 
 ---
