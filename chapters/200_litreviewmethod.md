@@ -398,10 +398,20 @@ Previous adjustments should mean the search is now calibrated correctly. I won't
 
 Lots of work o using RepGrid for inter-rater assessment or criteria elaboration
 
-Now I am getting dups need to add a process into the worlkflow. title? year? 10 dups of von Treuer,
+Now I am getting dups need to add a process into the worlkflow. title? year? ,
 
-dups within the found set ->
-dups to previous sets ->
+dups within the found set -> 4 Buckley-Walker; 1 Yeung; 10 von Treuer; = 15
+dups to previous sets -> need to think more about how I do this and when - EN or MAXQDA2020
+
+| ERIC         |     |
+|--------------|-----|
+| found        | 199 |
+| met criteria |  60 |
+(61 docs less 1 Yeung dup) (found in 2020 64 because, 1 Thoda 2 codes, 1 Askill 2 codes = 1 Terjesen 2 code)
+
+## JSTOR
+
+
 
 
 ---
