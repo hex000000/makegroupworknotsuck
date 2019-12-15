@@ -409,12 +409,55 @@ dups to previous sets -> need to think more about how I do this and when - EN or
 | met criteria |  60 |
 (61 docs less 1 Yeung dup) (found in 2020 64 because, 1 Thoda 2 codes, 1 Askill 2 codes = 1 Terjesen 2 code)
 
+need full-text for 11, either for research or to check if HE
+
 ## JSTOR
 
+255 found. 85 have no abstract. Full text was located for all 85 documents that met that criterion in order to search for inclusion.
+
+PDF not available for
+- Historical Artifacts as Recreational Resources (pp. 393-416)
+From: Recreational Land Use: Perspectives on Its Evolution in Canada
+VICTOR A. KONRAD
+McGill-Queen's University Press (1982)
+
+- Intergroup Communication on Religion and the Troubles among University Students in Northern Ireland
+Maurice Stringer, Olaf Hvattum
+The Irish Journal of Education / Iris Eireannach an Oideachais, Vol. 24, No. 2 (Winter, 1990), pp. 48-61
+Topics: Catholicism, Protestantism, The Troubles, Questionnaires, Interpersonal interaction, Depth perception, College students, Friendship
+
+- The Applicability of Personal Construct Theory and Repertory Grid in Studies of Tourism Development - A Methodological Evaluation / ישומה של תאורית "המבנה האישי" במחקרי תפיסה של תהליכי פתוח תיירות - הערכה מתודולוגית
+עודד גינוסר, יואל מנספלד, Oded Ginosar, Yoel Mansfeld
+Horizons in Geography / אופקים בגאוגרפיה‎, No. 37/38 (תשנ"ג - 1993), pp. 35-49
+
+- Performance Issues in U.S.–China Joint Ventures
+Gregory E. Osland, S. Tamer Cavusgil
+California Management Review, Vol. 38, No. 2 (Winter 1996), pp. 106-130
+Topics: Joint ventures, Parent companies, Prices, Government officials, Technology transfer, Consumer goods industries, Financial management, High technology industries, Government performance
+
+- BOOK CHAPTER
+The Letter Project – students’ own stories (pp. 163-198)
+From: Cultural warfare and trust: Fighting the Mafia in Palermo
+CARINA GUNNARSON
+Manchester University Press (2008)
+Topics: Teachers, Social classes, Warfare, Socioeconomics, Trust, Friendship, Questionnaires, Secondary schools, Peer relations, Classroom environment
+
+Library website bumped me on page 10, still need pdfs from p 11.
+
+pdf not found for
+- Volume information. (2009). International Journal of Electronic Commerce, 13(4).
 
 
 
+-
 ---
+duplicate avoidance process?
+1. export all completed M- projects as sxls
+
+2. experimenting with macro to highlight any value that is on any other sheet
+
+
+
 What are the advantages of a ssr?
 
 What do examples of SSR look like?
