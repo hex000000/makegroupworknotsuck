@@ -398,7 +398,6 @@ Previous adjustments should mean the search is now calibrated correctly. I won't
 
 Lots of work of using RepGrid for inter-rater assessment or criteria elaboration
 
-Now I am getting dups need to add a process into the worlkflow. title? year? ,
 
 dups within the found set -> 4 Buckley-Walker; 1 Yeung; 10 von Treuer; = 15
 dups to previous sets -> need to think more about how I do this and when - EN or MAXQDA2020
@@ -407,62 +406,35 @@ dups to previous sets -> need to think more about how I do this and when - EN or
 |--------------|-----|
 | found        | 199 |
 | met criteria |  60 |
+
 (61 docs less 1 Yeung dup) (found in 2020 64 because, 1 Thoda 2 codes, 1 Askill 2 codes = 1 Terjesen 2 code)
 
 need full-text for 11, either for research or to check if HE
 
 ## JSTOR
 
-255 found. 85 have no abstract. Full text was located for all 85 documents that met that criterion in order to search for inclusion.
+266 found. 85 have no abstract. Full text was located for all 85 documents that met that criterion in order to search for inclusion.
 
-PDF not available for some; only one relevant:
+Of those 266, 74 were found by lexical search, and 13 met the criteria, with * one full-text still needed.
 
-- Intergroup Communication on Religion and the Troubles among University Students in Northern Ireland
-Maurice Stringer, Olaf Hvattum
-The Irish Journal of Education / Iris Eireannach an Oideachais, Vol. 24, No. 2 (Winter, 1990), pp. 48-61
-Topics: Catholicism, Protestantism, The Troubles, Questionnaires, Interpersonal interaction, Depth perception, College students, Friendship
-
-not relevant for these:
-
-- Historical Artifacts as Recreational Resources (pp. 393-416)
-From: Recreational Land Use: Perspectives on Its Evolution in Canada
-VICTOR A. KONRAD
-McGill-Queen's University Press (1982)
-
-
-- The Applicability of Personal Construct Theory and Repertory Grid in Studies of Tourism Development - A Methodological Evaluation / ישומה של תאורית "המבנה האישי" במחקרי תפיסה של תהליכי פתוח תיירות - הערכה מתודולוגית
-עודד גינוסר, יואל מנספלד, Oded Ginosar, Yoel Mansfeld
-Horizons in Geography / אופקים בגאוגרפיה‎, No. 37/38 (תשנ"ג - 1993), pp. 35-49
-
-- Performance Issues in U.S.–China Joint Ventures
-Gregory E. Osland, S. Tamer Cavusgil
-California Management Review, Vol. 38, No. 2 (Winter 1996), pp. 106-130
-Topics: Joint ventures, Parent companies, Prices, Government officials, Technology transfer, Consumer goods industries, Financial management, High technology industries, Government performance
-
-- BOOK CHAPTER
-The Letter Project – students’ own stories (pp. 163-198)
-From: Cultural warfare and trust: Fighting the Mafia in Palermo
-CARINA GUNNARSON
-Manchester University Press (2008)
-Topics: Teachers, Social classes, Warfare, Socioeconomics, Trust, Friendship, Questionnaires, Secondary schools, Peer relations, Classroom environment
---
-
-1 result found in text and followed up Calderhead 1983 in case not found eric paper at /Users/eb/Downloads/ED229366.pdf
-1 result found in text and followed up Laaksolathi in case not found at /Users/eb/Downloads/KwNLE05-Laaksolahti.pdf
-
-2 results in review  
-
-Ryle, A. and Breen, D. (1974), 'Change in the course of social work training: a
- repertory grid study', British Journal of Medical Psychology, 47, 139-47.
- Idem, 'Social work tutors' judgements of their students', British Journal of Medical
- Psychol PDF and RIS at /Users/eb/Downloads
-
- 
-
-|JSTOR         |     |
+| JSTOR        |     |
 |--------------|-----|
-| found        |  72 |
-| met criteria |   |
+| found        |  74 |
+| met criteria |  13*|
+
+
+##
+
+--
+Termites-ALL to check for duplicates
+Use outer Segments
+Replace even if not identical
+dups-ALL
+
+APlus
+Cochrane
+
+
 
 
 
@@ -473,7 +445,14 @@ duplicate avoidance process?
 
 2. experimenting with macro to highlight any value that is on any other sheet
 
+f
+repgrid overcomes interviewer bias/power imbalance
 
+opportunity for problem structuring works well with PF because it starts with low structure.
+
+We know that knowledge is constructed socially so the elicitation of tacit knowledge helps knowledge advancement
+
+also a cognitive process, so hlep with cognitive problesm
 
 What are the advantages of a ssr?
 
