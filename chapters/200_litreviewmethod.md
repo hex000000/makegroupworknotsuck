@@ -394,9 +394,9 @@ Summary for this search is at
 
 Previous adjustments should mean the search is now calibrated correctly. I won't separate PDF from RIS at this stage as I only have 2 PDFs. Ran Lex search with application names (eg FOCUS) and without excluding child/ren.
 
-4 duplicates of the Buckley-Walker paper. Need to review full-text for several dcuments to check if HE or not. Criteria for exclusion: teacher ed or PD not in HE, vocational setting not related to HE, research setting not related to HE. Generic Adult Ed not in a HE setting. Surveys of teachers about their beliefs excluded if the setting not hE. Although surveys of teachers are coded teacher education so I might need to revisit that. Won't impact on the HE set. Tagging management for Ehssan.
+4 duplicates of the Buckley-Walker paper. Need to review full-text for several documents to check if HE or not. Criteria for exclusion: teacher ed or PD not in HE, vocational setting not related to HE, research setting not related to HE. Generic Adult Ed not in a HE setting. Surveys of teachers about their beliefs excluded if the setting not hE. Although surveys of teachers are coded teacher education so I might need to revisit that. Won't impact on the HE set. Tagging management for Ehssan.
 
-Lots of work o using RepGrid for inter-rater assessment or criteria elaboration
+Lots of work of using RepGrid for inter-rater assessment or criteria elaboration
 
 Now I am getting dups need to add a process into the worlkflow. title? year? ,
 
@@ -415,16 +415,20 @@ need full-text for 11, either for research or to check if HE
 
 255 found. 85 have no abstract. Full text was located for all 85 documents that met that criterion in order to search for inclusion.
 
-PDF not available for
-- Historical Artifacts as Recreational Resources (pp. 393-416)
-From: Recreational Land Use: Perspectives on Its Evolution in Canada
-VICTOR A. KONRAD
-McGill-Queen's University Press (1982)
+PDF not available for some; only one relevant:
 
 - Intergroup Communication on Religion and the Troubles among University Students in Northern Ireland
 Maurice Stringer, Olaf Hvattum
 The Irish Journal of Education / Iris Eireannach an Oideachais, Vol. 24, No. 2 (Winter, 1990), pp. 48-61
 Topics: Catholicism, Protestantism, The Troubles, Questionnaires, Interpersonal interaction, Depth perception, College students, Friendship
+
+not relevant for these:
+
+- Historical Artifacts as Recreational Resources (pp. 393-416)
+From: Recreational Land Use: Perspectives on Its Evolution in Canada
+VICTOR A. KONRAD
+McGill-Queen's University Press (1982)
+
 
 - The Applicability of Personal Construct Theory and Repertory Grid in Studies of Tourism Development - A Methodological Evaluation / ישומה של תאורית "המבנה האישי" במחקרי תפיסה של תהליכי פתוח תיירות - הערכה מתודולוגית
 עודד גינוסר, יואל מנספלד, Oded Ginosar, Yoel Mansfeld
@@ -441,11 +445,24 @@ From: Cultural warfare and trust: Fighting the Mafia in Palermo
 CARINA GUNNARSON
 Manchester University Press (2008)
 Topics: Teachers, Social classes, Warfare, Socioeconomics, Trust, Friendship, Questionnaires, Secondary schools, Peer relations, Classroom environment
+--
 
-Library website bumped me on page 10, still need pdfs from p 11.
+1 result found in text and followed up Calderhead 1983 in case not found eric paper at /Users/eb/Downloads/ED229366.pdf
+1 result found in text and followed up Laaksolathi in case not found at /Users/eb/Downloads/KwNLE05-Laaksolahti.pdf
 
-pdf not found for
-- Volume information. (2009). International Journal of Electronic Commerce, 13(4).
+2 results in review  
+
+Ryle, A. and Breen, D. (1974), 'Change in the course of social work training: a
+ repertory grid study', British Journal of Medical Psychology, 47, 139-47.
+ Idem, 'Social work tutors' judgements of their students', British Journal of Medical
+ Psychol PDF and RIS at /Users/eb/Downloads
+
+ 
+
+|JSTOR         |     |
+|--------------|-----|
+| found        |  72 |
+| met criteria |   |
 
 
 
