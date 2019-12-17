@@ -423,7 +423,39 @@ Of those 266, 74 were found by lexical search, and 13 met the criteria, with * o
 | met criteria |  13*|
 
 
-##
+## Web of Science
+
+165 found, of which 60 have no abstract. Titles scanned prior to full-text search. Of those 43 not HE, 3 duplicates, and 4 I need full-text for to know whether HE or not.
+
+Caputi, P., & Stevens, C. (2001). Testing the bipolarity of constructs: A comparison of repertory grid technique and multiple sorting technique. Australian Journal of Psychology, 53, 91-91. Retrieved from <Go to ISI>://WOS:000202876000408
+
+Knowles, J. B., & Purves, C. (1965). THE USE OF A REPERTORY GRID TECHNIQUE TO ASSESS THE INFLUENCE OF THE EXPERIMENTER-SUBJECT RELATIONSHIP ON VERBAL-CONDITIONING. Bulletin of the British Psychological Society, 18(59), A23-A23. Retrieved from <Go to ISI>://WOS:A1965CJB6900065
+
+Riemann, R. (1983). A STUDY OF THE VALIDITY OF REPERTORY GRID TECHNIQUE. Psychologische Beitrage, 25(3-4), 385-396. Retrieved from <Go to ISI>://WOS:A1983TC87100007
+
+Ryle, A., & Lunghi, M. (1972). PARENTAL AND SEX-ROLE IDENTIFICATION OF STUDENTS MEASURED WITH A REPERTORY GRID TECHNIQUE. British Journal of Social and Clinical Psychology, 11(JUN), 149-&. doi:10.1111/j.2044-8260.1972.tb00796.x
+
+duplicates - Scherl (1987/88) (one a memo one an article), Wiedebusch (1994), Fransella & Adams (1966)
+
+Within the 165-43=121 documents not already excluded the lexical search returned 36.
+
+Of that 36, * 8 need full text to establish whether HE; 6 are HE.
+
+| WOK/S        |     |
+|--------------|-----|
+| found        |  36 |
+| met criteria |   6*|
+
+
+## PSYCINFO
+
+As mentioned above, the location of RGT in cognitive psychology made it inevitable that a large number of results would be located in this database search. For this database, the search looked for "repertory grid" in either the Title or Abstract field to limit the studies to those with the grid process foregrounded. 957 text and 16 multimedia results were found.
+
+Of those, 13 had no abstract. Titles were scanned for relevance and none of the 13 was in a higher education setting.
+
+The 957 text documents were analysed first. 197 documents met the criteria of the Lexical search /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/lex-search-03-inc-apps.sea
+
+
 
 --
 Termites-ALL to check for duplicates
