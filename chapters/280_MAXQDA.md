@@ -196,3 +196,5 @@ Technical note - this record also has the Autocoded segments that all RIS record
 A useful method for double-checking your coding if you have a search strategy is to select the code you want to check, then right-click to activate all documents containing that code. Then use a Lexical Search to search only those documents for terms that should be included or excluded. For example, I wanted to double check that I had manually reviewed all records that would not have been found because they contained "child*", and added the "Higher Education" code if it should be applied.
 
 Alternatively, use the Code Matrix Browser to display a table of all (or activated) documents and codes.
+
+Each time I updated the EN Libary, I could re-import th RIS to add only new or updated records in 2020. 

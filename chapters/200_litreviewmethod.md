@@ -1,4 +1,4 @@
-# Methodology
+
 ## Systematic scoping review
 
 I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
@@ -454,6 +454,62 @@ As mentioned above, the location of RGT in cognitive psychology made it inevitab
 Of those, 13 had no abstract. Titles were scanned for relevance and none of the 13 was in a higher education setting.
 
 The 957 text documents were analysed first. 197 documents met the criteria of the Lexical search /Volumes/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/lex-search-03-inc-apps.sea
+
+Of those, 65 were in a HE setting, with 21 requiring full-text to establish the setting (10 of these are dissertations so text may be more or less relevant as a whole and some may not be available) Sheet PSYCALL-FTR lists all those for which are dissertations, with red highlighting those that are coded HE and/or have full-text required.
+
+| PSYCINFO     |     |
+|--------------|-----|
+| found        | 197 |
+| met criteria | 65* |
+
+## PROSPERO
+
+Two papers found, titles made clear not HE.
+
+| PROSPERO     |     |
+|--------------|-----|
+| found        |   2 |
+| met criteria |   0 |
+
+
+## PROQUEST
+
+603 found, of which 17 had no abstract. Of those 17, 4 were in a HE seting.
+
+follow up if these papers which are reported on
+
+- For more information on this research see: Determining the Components of Cohesion Using the Repertory Grid Technique. Group Dynamics-Theory Research and Practice, 2018;22(2):108-128. Group Dynamics-Theory Research and Practice can be contacted at: Educational Publishing Foundation-American Psychological Assoc, 750 First St, NE, Washington, DC 20002-4242, USA.
+
+
+ - A Novel Use of Honey's Aggregation Approach To the Analysis of Repertory Grids. Field Methods, 2019;31(2):150-166. Field Methods can be contacted at: Sage Publications Inc, 2455 Teller Rd, Thousand Oaks, CA 91320, USA. (Sage Publications - www.sagepub.com/; Field Methods - fmx.sagepub.com)
+
+ - GYMNASTIC LITERACY COMPONENTS VERIFIED THROUGH REPERTORY
+GRID TECHNIQUE – CASE STUDY, Iveta Holá, Jan Chrudimský, Viléma Novotná
+
+breakdown of no abstract coding is on the pq tab of T&B xlsm
+
+import to MAXQDA first error ever!
+
+The following files could not be imported:
+
+- 2018-Science - Social Science%3B Study Results f.pdf
+but it is a news article, not HE.
+
+At this point, very important to reduce double-handling of duplicates. Because the .RIS records should be fairly consistent, this time I'll pull the HE into a comparison before coding? But this won't mark them as dups. Neither does anytingt else so far except screen shots and videos.
+
+Once my Lex search is complete, I need to compare it with the full document set, without actually  importing it. And do I really want the whole Library? Need a dummy code, coded, then teamwork export activated. In the end just did same .mov. Time to convert those. 
+
+| PROQUEST     |     |
+|--------------|-----|
+| found        | 188 |
+| met criteria |   0 |
+
+
+
+
+difficult to check for population in long theses, not always clear from abstract if original research or meta-review so both included.
+
+in those not HE, load of teacher ed, social work ed, assessment criteria agreement, nursing PD, While not HE, the assessment criteria would make good HE PD. School Ed should really be divided between school-age kids and teachers in schools. Haven't assigned Health Care to nursing because some nursing specific disciplin.
 
 
 
