@@ -474,19 +474,18 @@ Two papers found, titles made clear not HE.
 
 ## PROQUEST
 
-603 found, of which 17 had no abstract. Of those 17, 4 were in a HE seting.
+603 found, of which 17 had no abstract. Of those 17, 4 were in a HE setting.
 
-follow up if these papers which are reported on
+_follow up if these papers which are reported on in there are elsewhere in the set:
 
 - For more information on this research see: Determining the Components of Cohesion Using the Repertory Grid Technique. Group Dynamics-Theory Research and Practice, 2018;22(2):108-128. Group Dynamics-Theory Research and Practice can be contacted at: Educational Publishing Foundation-American Psychological Assoc, 750 First St, NE, Washington, DC 20002-4242, USA.
-
 
  - A Novel Use of Honey's Aggregation Approach To the Analysis of Repertory Grids. Field Methods, 2019;31(2):150-166. Field Methods can be contacted at: Sage Publications Inc, 2455 Teller Rd, Thousand Oaks, CA 91320, USA. (Sage Publications - www.sagepub.com/; Field Methods - fmx.sagepub.com)
 
  - GYMNASTIC LITERACY COMPONENTS VERIFIED THROUGH REPERTORY
 GRID TECHNIQUE – CASE STUDY, Iveta Holá, Jan Chrudimský, Viléma Novotná
 
-breakdown of no abstract coding is on the pq tab of T&B xlsm
+breakdown of no abstract coding is on the pq tab of T&B xlsm_
 
 import to MAXQDA first error ever!
 
@@ -495,14 +494,21 @@ The following files could not be imported:
 - 2018-Science - Social Science%3B Study Results f.pdf
 but it is a news article, not HE.
 
-At this point, very important to reduce double-handling of duplicates. Because the .RIS records should be fairly consistent, this time I'll pull the HE into a comparison before coding? But this won't mark them as dups. Neither does anytingt else so far except screen shots and videos.
+At this point, very important to reduce double-handling of duplicates. Because the .RIS records should be fairly consistent, this time I'll pull the HE into a comparison before coding? But this won't mark them as dups. Neither does anything else so far except screen shots and videos.
 
-Once my Lex search is complete, I need to compare it with the full document set, without actually  importing it. And do I really want the whole Library? Need a dummy code, coded, then teamwork export activated. In the end just did same .mov. Time to convert those. 
+Once my Lex search is complete, I need to compare it with the full document set, without actually  importing it. And do I really want the whole Library? Need a dummy code, coded, then teamwork export activated. In the end just did same .mov. Time to convert those. In the end, screen shots of duplicates manually counted. 68 duplicates (as in already in the document library)
+
+All those found using the Lexical search exported as teamwork file. 62 dups weren't the same.
+coudn't see new set becuse I forgot to select them. Go back and make sure my counts are just the records themselves, not both RIS and PDF, eg this is 92 not 188 if we just count RIS. Further coding in Termites-ALL.
 
 | PROQUEST     |     |
 |--------------|-----|
 | found        | 188 |
 | met criteria |   0 |
+
+
+Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
+For me, that included Teacher Ed, Parenting & School Ed. But not HE.
 
 
 

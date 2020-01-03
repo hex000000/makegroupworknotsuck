@@ -57,3 +57,9 @@ In my my mind I am creating an expert model in RepGrid then ABM, then animating 
 
 Spreadsheet of all Documents reviewed is at
 T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the Repertory Grid Technique. An EN Library of those 69 is at https://www.dropbox.com/sh/odh50wf5iapxj6t/AABeaZbFjGcvkh3c6A4T-DkXa?dl=0
+
+[  ] search 2020 for "decision support"
+[  ] also discuss tacit beliefs/experiences
+[  ] added new code for 'performnce' in PQ lots of team performance papers but only added code at PQ Senior 1996 - need to go back over other papers for myself but not HE.
+[  ]increasing focus on sustainability
+[  ] career guidance not coded specifically but plenty 
