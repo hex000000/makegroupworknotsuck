@@ -501,23 +501,47 @@ Once my Lex search is complete, I need to compare it with the full document set,
 All those found using the Lexical search exported as teamwork file. 62 dups weren't the same.
 coudn't see new set becuse I forgot to select them. Go back and make sure my counts are just the records themselves, not both RIS and PDF, eg this is 92 not 188 if we just count RIS. Further coding in Termites-ALL.
 
+I genuinely don't think this was a helpful way to deal with large data quantities.
+
+lex-search did not pick up "Impacts of integrating the repertory grid into an augmented reality-based learning design on students’ learning achievements, cognitive load and degree of satisfaction". Shows need for manual visual review of unfound papers. Because of this, after coding PQ I went back to the original EN and did a text search of all results for Title OR Abstract contains "student". of the 48 papers found in this search, 7 were relevant, but used did not use the term "educ*""; instead "medical school", "business school", "vocational school", "college".  Given the irrelevant records that would be returned if "school" was added to the search parameters, this manual check is appropriately diligent, with only 1.13% of records not found on the first pass.
+
+Trying to get only the additional attachments in to 2020, so have exported only those EN records with an attachment to a new .RIS file, so the Library PDF folder in place. Then created a new library with just those documents. Then exported a teamwork mex from that project.  Then imported that to Termites-ALL. I took screen shots of "not identical" and some are replacing files in other database folders. Does this matter? The count in PQ will be accurate, as will those in other folders, provided I do the count on just the PDFs + fulltext needed. Realised needed to save to new Library before export to find attachments. Re-do. Then coded new documents in 2020. Realised because I brought all attachments in, brought the associated non-HE RIS in too. Working alongside EN to only code those required.
+
+
+Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 32 met the criteria. An additional 7 were found to be relevant on manual review of the EN.
+
+
 | PROQUEST     |     |
 |--------------|-----|
 | found        | 188 |
-| met criteria |   0 |
+| met criteria | 32* |
 
 
 Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
 For me, that included Teacher Ed, Parenting & School Ed. But not HE.
 
+pretty sure these are duplicates
+Kreber, C., & Klampfleitner, M. (2012). Construing the Meaning of Authenticity in University Teaching: Comparing Explicit to Implicit Theories. Journal of Constructivist Psychology, 25(1), 34-69. doi:http://dx.doi.org/10.1080/10720537.2012.629114
 
+Kreber, C., & Klampfleitner, M. (2013). Lecturers' and students' conceptions of authenticity in teaching and actual teacher actions and attributes students perceive as helpful. Higher Education, 66(4), 463-487. doi:http://dx.doi.org/10.1007/s10734-013-9616-x
 
 
 difficult to check for population in long theses, not always clear from abstract if original research or meta-review so both included.
 
-in those not HE, load of teacher ed, social work ed, assessment criteria agreement, nursing PD, While not HE, the assessment criteria would make good HE PD. School Ed should really be divided between school-age kids and teachers in schools. Haven't assigned Health Care to nursing because some nursing specific disciplin.
+in those not HE, load of teacher ed, social work ed, assessment criteria agreement, nursing PD, While not HE, the assessment criteria would make good HE PD. School Ed should really be divided between school-age kids and teachers in schools. Haven't assigned Health Care to nursing because some nursing specific disciplines.
 
 
+
+
+
+
+
+-
+*so I will have to do this for the previous libraries too*
+--
+
+An unexpected result of full-text disambiguation was the revelation that in China, the Repertory Grid Technique may be known as "Kelly's squares, squares, Kelly's squares,
+Checkered technology, Kelly square talk technology, etc." {Yu-Ren, 2016 #598} (p. 44) [original translated by Google Translate: 凱利方格分析技術在中文學界被使用的譯名包含：凱利方格法、方格法、凱利方格技術、方格技術、凱利方格晤談技術等，本研究則採用凱利方格法一詞作為代表。]
 
 --
 Termites-ALL to check for duplicates

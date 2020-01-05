@@ -197,4 +197,7 @@ A useful method for double-checking your coding if you have a search strategy is
 
 Alternatively, use the Code Matrix Browser to display a table of all (or activated) documents and codes.
 
-Each time I updated the EN Libary, I could re-import th RIS to add only new or updated records in 2020. 
+Each time I updated the EN Libary, I could re-import th RIS to add only new or updated records in 2020.
+
+Trying to get only the additional attachments in to 2020, so have exported those as a Library and will then do a new project and then export for merge,
+Trying to get only the additional attachments in to 2020, so have exported only those EN records with an attachment to a new .RIS file, so the Library PDF folder in place. Then created a new library with just those documents. Then exported a teamwork mex from that project.  Then imported that to Termites-ALL. I took screen shots of "not identical" and some are eplacing files in other database folders. Does this matter? The count in PQ will be accurate, as will those in other folders, provided I do the count on just the PDFs + fulltext needed. Realised needed to save to new Library before export to find attachments. Re-do. Didn't go smoothly as it did not recognise it to be the same set of documents. Had to manually move files in PQ folders for manual removal of duplicates. So while this seemed like a good way to deal with a very large dataset it wasn't.
