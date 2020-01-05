@@ -508,13 +508,13 @@ lex-search did not pick up "Impacts of integrating the repertory grid into an au
 Trying to get only the additional attachments in to 2020, so have exported only those EN records with an attachment to a new .RIS file, so the Library PDF folder in place. Then created a new library with just those documents. Then exported a teamwork mex from that project.  Then imported that to Termites-ALL. I took screen shots of "not identical" and some are replacing files in other database folders. Does this matter? The count in PQ will be accurate, as will those in other folders, provided I do the count on just the PDFs + fulltext needed. Realised needed to save to new Library before export to find attachments. Re-do. Then coded new documents in 2020. Realised because I brought all attachments in, brought the associated non-HE RIS in too. Working alongside EN to only code those required.
 
 
-Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 32 met the criteria. An additional 7 were found to be relevant on manual review of the EN.
+Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 35 met the criteria. Kreber and Lester are both duplicates.
 
 
 | PROQUEST     |     |
 |--------------|-----|
 | found        | 188 |
-| met criteria | 32* |
+| met criteria | 35* |
 
 
 Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
