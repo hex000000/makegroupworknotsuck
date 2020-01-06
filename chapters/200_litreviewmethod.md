@@ -505,16 +505,29 @@ I genuinely don't think this was a helpful way to deal with large data quantitie
 
 lex-search did not pick up "Impacts of integrating the repertory grid into an augmented reality-based learning design on students’ learning achievements, cognitive load and degree of satisfaction". Shows need for manual visual review of unfound papers. Because of this, after coding PQ I went back to the original EN and did a text search of all results for Title OR Abstract contains "student". of the 48 papers found in this search, 7 were relevant, but used did not use the term "educ*""; instead "medical school", "business school", "vocational school", "college".  Given the irrelevant records that would be returned if "school" was added to the search parameters, this manual check is appropriately diligent, with only 1.13% of records not found on the first pass.
 
-Trying to get only the additional attachments in to 2020, so have exported only those EN records with an attachment to a new .RIS file, so the Library PDF folder in place. Then created a new library with just those documents. Then exported a teamwork mex from that project.  Then imported that to Termites-ALL. I took screen shots of "not identical" and some are replacing files in other database folders. Does this matter? The count in PQ will be accurate, as will those in other folders, provided I do the count on just the PDFs + fulltext needed. Realised needed to save to new Library before export to find attachments. Re-do. Then coded new documents in 2020. Realised because I brought all attachments in, brought the associated non-HE RIS in too. Working alongside EN to only code those required.
-
-
 Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 35 met the criteria. Kreber and Lester are both duplicates.
-
 
 | PROQUEST     |     |
 |--------------|-----|
 | found        | 188 |
 | met criteria | 35* |
+
+*I need to reimport PQ to 2020 once I have tidied the EN Library & connected PDFs.*
+
+## Scopus
+
+eek- forgot about Scopus.
+
+## Books
+I used a similar strategy on the Libraries Australia search platform to locate books which might feature RGT in a higher education setting. Search parameters were "Title" all the words "repertory grid"
+"Keyword" all the words "repertory grid".
+59 results [books], plus a report not available online [1978, English, Article, Report edition:
+Repertory grid manual / Marie Walton, Pat Wilson, Harry Pickett.
+Walton, Marie.], a video about using it in performance appraisal, [1988-1990, English, Video edition:
+Repertory grid in performance appraisal [videorecording].]
+
+
+
 
 
 Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
