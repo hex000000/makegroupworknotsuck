@@ -516,22 +516,42 @@ Of the 188 found by lexical search, 1 requires full-text to establish the settin
 
 ## Scopus
 
-eek- forgot about Scopus.
+Scopus was the largest search database, with the broadest
+ TI = "repertory grid" OR Abstract  = "repertory grid" OR keywords -"repertory grid" OR AllFields = Repertory grid technique" returning 3529 results. This was refined to include only social sciences, psychology, arts, decision science, neuroscience, multidisciplinary and undefined, in order to be most likely to capture higher education settings (higher education/education is not available as a filter). This returned 1946 results.
+
+ Of those 1946, 176 did not have an abstract.
+
+| Scopus       |     |
+|--------------|-----|
+| found        | 188 |
+| met criteria | 35* |
 
 ## Books
 I used a similar strategy on the Libraries Australia search platform to locate books which might feature RGT in a higher education setting. Search parameters were "Title" all the words "repertory grid"
 "Keyword" all the words "repertory grid".
-59 results [books], plus a report not available online [1978, English, Article, Report edition:
+59 results [books], which turned out to be 54 when duplicates were removed, plus:
+
+A report not available online [1978, English, Article, Report edition:
 Repertory grid manual / Marie Walton, Pat Wilson, Harry Pickett.
-Walton, Marie.], a video about using it in performance appraisal, [1988-1990, English, Video edition:
-Repertory grid in performance appraisal [videorecording].]
+Walton, Marie.],
+
+Two videos about using it in performance appraisal, [1988-1990, English, Video edition:
+Repertory grid in performance appraisal [videorecording].] & [1980-1990, English, Video edition:
+Repertory grid in performance appraisal [videorecording].], which appear to be duplicates; also not available online.
+
+No book had an abstract, so initial exclusion was done on the basis of title alone, and 16 documents potentially met the criteria. Unfortunately, of these, full-text is needed for 13, and seven are theses and may not be readily available. A consistent practical issue in this review is the difficulty of obtaining full-texts of older materials, and it would add to the usefulness of the technique if they were digitised.[Perhaps a travel grant ;-)]
+
+Trove results will be the final set added to 2020.
 
 
-
-
+--
+Realise should also search JLS specifically. Have done, 0 results as access provided via JSTOR (already searched).
+--
 
 Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
 For me, that included Teacher Ed, Parenting & School Ed. But not HE.
+
+Inconsistency in titling and in citation conventions made duplicate identification a complex and manual process.
 
 pretty sure these are duplicates
 Kreber, C., & Klampfleitner, M. (2012). Construing the Meaning of Authenticity in University Teaching: Comparing Explicit to Implicit Theories. Journal of Constructivist Psychology, 25(1), 34-69. doi:http://dx.doi.org/10.1080/10720537.2012.629114
