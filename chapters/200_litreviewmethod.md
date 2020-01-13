@@ -517,14 +517,18 @@ Of the 188 found by lexical search, 1 requires full-text to establish the settin
 ## Scopus
 
 Scopus was the largest search database, with the broadest
- TI = "repertory grid" OR Abstract  = "repertory grid" OR keywords -"repertory grid" OR AllFields = Repertory grid technique" returning 3529 results. This was refined to include only social sciences, psychology, arts, decision science, neuroscience, multidisciplinary and undefined, in order to be most likely to capture higher education settings (higher education/education is not available as a filter). This returned 1946 results.
+ TI = "repertory grid" OR Abstract  = "repertory grid" OR keywords -"repertory grid" OR AllFields = Repertory grid technique" returning 3529 results. This was refined to include only social sciences, psychology, arts, decision science, neuroscience, multidisciplinary and undefined, in order to be most likely to capture higher education settings (higher education/education is not available as a filter). This returned 1986 results.
 
- Of those 1946, 176 did not have an abstract.
+ Of those 1986, 176 did not have an abstract. Difficult to find full-text to establish the nature of the studies as there are persistent problems accessing papers help by Emerald, we have rights through the Library, but the Library website is not correctly configured to access the papers, consistently returning 404 errors for all Emerald links.After my experience with the PQ database I decided to do this the same way as the smaller datasets.
 
-| Scopus       |     |
-|--------------|-----|
-| found        | 188 |
-| met criteria | 35* |
+ Lexical search found 1304 hits not including the 23 already manually identified as HE. It's likely that many of these are duplicates. Taking a break to think through the best option for de-duping, given the complexities identified with the pQ dataset.
+
+
+
+| Scopus       |            |
+|--------------|------------|
+| found        |  1304+23   |
+| met criteria |            |
 
 ## Books
 I used a similar strategy on the Libraries Australia search platform to locate books which might feature RGT in a higher education setting. Search parameters were "Title" all the words "repertory grid"
