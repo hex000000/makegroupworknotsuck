@@ -523,6 +523,12 @@ Scopus was the largest search database, with the broadest
 
  Lexical search found 1304 hits not including the 23 already manually identified as HE. It's likely that many of these are duplicates. Taking a break to think through the best option for de-duping, given the complexities identified with the pQ dataset.
 
+ I have followed up the 111 items with full-text required, and either accessed the text or requested it (45) from the university Library. Because the Library system is not operating to standard, several items are not accessible.  
+
+ I now need to put the Scopus library into 2020, then compare it with the existing 2020 full dataset to avoid importing duplicates. But as there are likely to be hundreds of duplicates, how do I ensure that I don't have to hand-count and remove them like in PQ. My first thought is to create a Scopus-only 2020 document set, as I did with PQ, but in PQ I only added those documents that I considered HE. That means a manual check needs to be done in retrospect. I thought about exporting both sets and comparing them in Excel, but that still requires manual de-duplication. If only 2020 had a built-in duplicate reporting function. The extra fields in EN don't get imported to 2020, we know. Re-exported all the Scopus records to replace the previous EN Library.
+
+
+
 
 
 | Scopus       |            |
