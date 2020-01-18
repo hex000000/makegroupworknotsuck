@@ -8,3 +8,7 @@ https://gsuite.google.com/u/0/marketplace/app/document_studio/429444628321
 https://gsuite.google.com/u/0/marketplace/app/form_workflow_plus_addon/448262164641
 https://gsuite.google.com/u/0/marketplace/app/monkeylearn/76050487453
 https://gsuite.google.com/u/0/marketplace/app/%E2%93%A3_text_analytics_text2datacom/645992223827
+
+Otter.ai txt can be uploaded to 2020, or placed in Google Sheet for WordCloud addin, or run through Wordle. If the Speakers can be identified, then it should also reflect who is doing the talking.
+
+Have installed Text2Data for testing, asking for 50% $USD19/month fee.
