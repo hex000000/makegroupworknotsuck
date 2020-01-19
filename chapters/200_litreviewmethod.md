@@ -474,7 +474,9 @@ Two papers found, titles made clear not HE.
 
 ## PROQUEST
 
-603 found, of which 17 had no abstract. Of those 17, 4 were in a HE setting.
+603 found, of which 17 had no abstract. Of those 17, 4 were in a HE setting. Once I reimported with attachments, this went down to 597 because it removed dup: Wright, Sampson, Mayo, Gray, Balduck, Heart Diseases, = 6;
+
+Reimported to 2020, added 1 reference (probably just renamed, and 59 new attachments.
 
 _follow up if these papers which are reported on in there are elsewhere in the set:
 
@@ -498,14 +500,27 @@ At this point, very important to reduce double-handling of duplicates. Because t
 
 Once my Lex search is complete, I need to compare it with the full document set, without actually  importing it. And do I really want the whole Library? Need a dummy code, coded, then teamwork export activated. In the end just did same .mov. Time to convert those. In the end, screen shots of duplicates manually counted. 68 duplicates (as in already in the document library)
 
+
+
 All those found using the Lexical search exported as teamwork file. 62 dups weren't the same.
-coudn't see new set becuse I forgot to select them. Go back and make sure my counts are just the records themselves, not both RIS and PDF, eg this is 92 not 188 if we just count RIS. Further coding in Termites-ALL.
+couldn't see new set because I forgot to select them. Go back and make sure my counts are just the records themselves, not both RIS and PDF, eg this is 92 not 188 if we just count RIS. Further coding in Termites-ALL. Coding did not save as 2020 crashed.
 
 I genuinely don't think this was a helpful way to deal with large data quantities.
 
 lex-search did not pick up "Impacts of integrating the repertory grid into an augmented reality-based learning design on students’ learning achievements, cognitive load and degree of satisfaction". Shows need for manual visual review of unfound papers. Because of this, after coding PQ I went back to the original EN and did a text search of all results for Title OR Abstract contains "student". of the 48 papers found in this search, 7 were relevant, but used did not use the term "educ*""; instead "medical school", "business school", "vocational school", "college".  Given the irrelevant records that would be returned if "school" was added to the search parameters, this manual check is appropriately diligent, with only 1.13% of records not found on the first pass.
 
-Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 35 met the criteria. Kreber and Lester are both duplicates.
+Of the 188 found by lexical search, 1 requires full-text to establish the setting, and 35 met the criteria. Kreber and Lester are both duplicates. Lester PDF but not RIS in. Same with Potthoff. Shaw and Cassell needs a PDF. Williams needs a RIS. Wright and Zhang are both dups of other sets?.
+
+?2001 was the intro to a chapter, not HE. Recode*
+Diamond & Borthwick PDF needs to be imported, but in Scopus, and there is a dup. Shuld I just call this a dup and dlete the Scopus version*
+Hopper x 2 need ft but not coded as such, PDF is in but link broken
+. 603 reduced to 597
+
+Realised after a good cry that I can sort out dups from the EN libraries later.
+
+Did not update LIbrary path to pdf - need to manually change. Merge o'clock. Worked but now I have duplicate uncoded PDFs. Delete PDFs then merge.Åt last that worked.  
+
+Hola ft unlikely to be found
 
 | PROQUEST     |     |
 |--------------|-----|
@@ -527,7 +542,24 @@ Scopus was the largest search database, with the broadest
 
  I now need to put the Scopus library into 2020, then compare it with the existing 2020 full dataset to avoid importing duplicates. But as there are likely to be hundreds of duplicates, how do I ensure that I don't have to hand-count and remove them like in PQ. My first thought is to create a Scopus-only 2020 document set, as I did with PQ, but in PQ I only added those documents that I considered HE. That means a manual check needs to be done in retrospect. I thought about exporting both sets and comparing them in Excel, but that still requires manual de-duplication. If only 2020 had a built-in duplicate reporting function. The extra fields in EN don't get imported to 2020, we know. Re-exported all the Scopus records to replace the previous EN Library.
 
+ Use strategy from re-do of PQ. Has all the same issues. Duplicate PDFs. start again. done.
 
+ Manually code those found in previous? Or delete rubbish from old and re-import? Since it's a large file, just code the 32.
+
+ Added new code to add to HE when only because subject are students.
+
+Also new code for interactive/feedback/tech-enabled stuff even if not RepGrid.
+
+All Expertise stuff under Knowledge Acqusition.
+
+OK have manually coded the 32. Now to eliminate duplicates before I code whatever the remainders is. Worth doing with the whole dataset a there will be lots of crossover with PQ. (Recommend next time to start with large datasets). It's going to have to be manual replacment-click. Because I want to retain those I have already coded, I need to export OUT from Termites-ALL, and bring in to Scopus. #MTFBWY
+
+153 files from the ALL export matched Scopus documents. Screen shots of list in folder on Desktop. Now time to sync before Lex search. Many backup.
+
+- create list from screenshots when can't think any moar
+
+Now to Lex-search Scopus.2020 crashing because dataset too lrge. export Scopus as mex, code and re-import.
+ 
 
 
 
