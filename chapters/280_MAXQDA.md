@@ -203,3 +203,5 @@ Trying to get only the additional attachments in to 2020, so have exported those
 Trying to get only the additional attachments in to 2020, so have exported only those EN records with an attachment to a new .RIS file, so the Library PDF folder in place. Then created a new library with just those documents. Then exported a teamwork mex from that project.  Then imported that to Termites-ALL. I took screen shots of "not identical" and some are eplacing files in other database folders. Does this matter? The count in PQ will be accurate, as will those in other folders, provided I do the count on just the PDFs + fulltext needed. Realised needed to save to new Library before export to find attachments. Re-do. Then coded new files in 2020.
 
 When I finish getting all th ful-texts, it's better to import the first EN into the second, so it deletes the non-attachment records.
+
+With the really big datasets (>1000), need to chunk Lexical search into smaller sets of activated documents to avoid crashing.

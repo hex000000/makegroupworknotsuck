@@ -532,9 +532,9 @@ Hola ft unlikely to be found
 ## Scopus
 
 Scopus was the largest search database, with the broadest
- TI = "repertory grid" OR Abstract  = "repertory grid" OR keywords -"repertory grid" OR AllFields = Repertory grid technique" returning 3529 results. This was refined to include only social sciences, psychology, arts, decision science, neuroscience, multidisciplinary and undefined, in order to be most likely to capture higher education settings (higher education/education is not available as a filter). This returned 1986 results.
+ TI = "repertory grid" OR Abstract  = "repertory grid" OR keywords -"repertory grid" OR AllFields = Repertory grid technique" returning 3529 results. This was refined to include only social sciences, psychology, arts, decision science, neuroscience, multidisciplinary and undefined, in order to be most likely to capture higher education settings (higher education/education is not available as a filter). This returned 1946 results.
 
- Of those 1986, 176 did not have an abstract. Difficult to find full-text to establish the nature of the studies as there are persistent problems accessing papers help by Emerald, we have rights through the Library, but the Library website is not correctly configured to access the papers, consistently returning 404 errors for all Emerald links.After my experience with the PQ database I decided to do this the same way as the smaller datasets.
+ Of those 1946, 176 did not have an abstract. Difficult to find full-text to establish the nature of the studies as there are persistent problems accessing papers help by Emerald, we have rights through the Library, but the Library website is not correctly configured to access the papers, consistently returning 404 errors for all Emerald links.After my experience with the PQ database I decided to do this the same way as the smaller datasets.
 
  Lexical search found 1304 hits not including the 23 already manually identified as HE. It's likely that many of these are duplicates. Taking a break to think through the best option for de-duping, given the complexities identified with the pQ dataset.
 
@@ -550,7 +550,7 @@ Scopus was the largest search database, with the broadest
 
 Also new code for interactive/feedback/tech-enabled stuff even if not RepGrid.
 
-All Expertise stuff under Knowledge Acqusition.
+All Expertise stuff under Knowledge Acquisition.
 
 OK have manually coded the 32. Now to eliminate duplicates before I code whatever the remainders is. Worth doing with the whole dataset a there will be lots of crossover with PQ. (Recommend next time to start with large datasets). It's going to have to be manual replacment-click. Because I want to retain those I have already coded, I need to export OUT from Termites-ALL, and bring in to Scopus. #MTFBWY
 
@@ -559,14 +559,55 @@ OK have manually coded the 32. Now to eliminate duplicates before I code whateve
 - create list from screenshots when can't think any moar
 
 Now to Lex-search Scopus.2020 crashing because dataset too lrge. export Scopus as mex, code and re-import.
- 
+
+Really should have a tag for gender studies. Some studies only reference other studies in HE. Most frequently included where they're not relevant are clinical, offender, market research and management studies. Offender studies don't use a common term: children in care, people recently released from prison. Adjusted search slightly for RIS component of Scopus.
+Returned 1065 hits. Now I need to exclude or autocode all those already coded as HE in PDF. Reduced results to 669 which is manageable.
+
+Offenders disappeared so will have to rec-doe all those. Need to compact psych + Clinical, depression, psychother,
+
+career counselling
+how do i discuss other-language versions, just be specific I guess.
+
+leave out identity change studies - self construal as opposed to conceputal change.
+
+manual lexical search for last 669 documents, finding those that are definitely NOT HE
+1. Offenders -> 71 documents
+2. Psychotherapy -> 383 documents to check later - specific problem with this might be an anthology where one author is part of the school of psychotherapy (hence not able to eliminate School)
+
+
+443 Results
+
+be more consistent on peer review versus peer facilitation Coding
+Management + school = principals/admin etc
+
+Need a specific code for vocatational guidance
+also UX, under market researach; HCI? or knowledge elicitation (need to sp lit between expert and other)
+also tourism or visitor experience
+
+
+focus on where there is active use of the grids for problem structuring, decision-making, collaboration, intercultural or interdisciplianry knowledge elicitation"
+
+with fulltext, check other articles by same author
+I will already have most
+
+culd probably eliminate "customer experience"
+
+nursing, social work and teaching are seen as a continuum, with no clear break between training and work. also studies frequently mix in- and pre-service participants.
+
+If the cohort is not described. the study is not included. eg
+An important prerequisite for the success of any online service is ensuring that customers' experience - via the interface - satisfies both sensory and functional needs. Developing interfaces that are responsive to customers' needs requires a perspective on interface design as well as a deep understanding of the customers themselves. Drawing upon research in consumer behavior concerning consumer beliefs about technology, we deploy an alternative way to describe customers based on psychographic characteristics. Technology readiness (TR), a multidimensional psychographic construct, offers a way to segment online customers based upon underlying positive and negative technology beliefs. The core premise of this study is that the beliefs form the foundation for expectations of how things should work and how specific online service interfaces are evaluated by customers. At the same time, usability evaluations of specific online services might be contingent on contextual factors, specifically the type of site (hedonic vs. utilitarian) and access method (Web vs. wireless Web). The aspects of usability examined here are those incorporated into the usability metric and instrument based on the Microsoft Usability Guidelines (MUG). The results of an empirical study with 160 participants indicate that (i) TR customer segments vary in usability requirements and (ii) usability evaluations of specific online service interfaces are influenced by complex interactions among site type, access method, and TR segment membership. As organizations continue to expand their online service offerings, managers must recognize that the interface exists to serve the customers, so their design must be matched to market needs and TR. © 2007, Decision Sciences Institute. (Massey, A. P. et al. - 2007 , Pos. 11)
+
+
+269 + 202 FTR - but many of these are duplicates and have full text in other databases. Checking this now.
+
+
 
 
 
 | Scopus       |            |
 |--------------|------------|
 | found        |  1304+23   |
-| met criteria |            |
+| met criteria |    269*    |
 
 ## Books
 I used a similar strategy on the Libraries Australia search platform to locate books which might feature RGT in a higher education setting. Search parameters were "Title" all the words "repertory grid"
@@ -593,6 +634,8 @@ Realise should also search JLS specifically. Have done, 0 results as access prov
 Very difficult to find specific focus as many studies are individual in their participants and methods, meaning it's very difficult to compare or consolidate studies. For example, Kolodnicki (2017) involved teacher-experts who teach high school students construing parenting behaviours including but not limited to their involvement in adolescent education.
 For me, that included Teacher Ed, Parenting & School Ed. But not HE.
 
+Another difficult area is 'research', where it's not clear whether it's done by someone at a uni, or where it's not related to education, just done to a student sample. Think I will exclude. Have decided that the only targets are teaching & learning at uni, with teacher educational uncomofortably sitting on the edge and requiring a meta-analysis. Also remove those which offer direction without evidence to HE. Limitation is anglo bias. So exclude those where the tertiary cohort or setting is incidental to the research. Really should have a tag for gender studies. Some studies only reference other studies in HE. Most frequently included where they're not relevant are clinical, offender, market research and management studies. Offender studies don't use a common term: children in care, people recently released from prison. Adjusted search slightly for RIS component of Scopus.
+
 Inconsistency in titling and in citation conventions made duplicate identification a complex and manual process.
 
 pretty sure these are duplicates
@@ -605,10 +648,14 @@ difficult to check for population in long theses, not always clear from abstract
 
 in those not HE, load of teacher ed, social work ed, assessment criteria agreement, nursing PD, While not HE, the assessment criteria would make good HE PD. School Ed should really be divided between school-age kids and teachers in schools. Haven't assigned Health Care to nursing because some nursing specific disciplines.
 
+also several reviews to date which are old enough to be the basis for new review, eg An Evaluation of Repertory Grid Technique in Social Work Education
 
+another not identified in search: Grayson, A., Clarke, D. D., & Miller, H. (1998). Help-seeking among students: Are lecturers seen as a potential source of help? Studies in Higher Education, 23(2), 143-155. doi:10.1080/03075079812331380354
 
-
-
+Where participants are drawn from multiple backgrounds (eg pre- and in-service teachers, pre- and in-service social workers, "enterprise training programs
+for graduates, two groups from a management improvement
+course targeted at potential and existing small business owners, a group from the Open Business School's distance learning program for start ups, one group of small business owners who have not attended training courses, a group of unemployed persons who do not seek self-employment, and a group of personnel management
+students who prefer to work for large firms" {Gray, 1992 #3472} p 315) the study will not be included, as the focus is on the discipline rather than the higher education process.
 
 
 -
