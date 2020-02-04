@@ -652,15 +652,35 @@ also several reviews to date which are old enough to be the basis for new review
 
 another not identified in search: Grayson, A., Clarke, D. D., & Miller, H. (1998). Help-seeking among students: Are lecturers seen as a potential source of help? Studies in Higher Education, 23(2), 143-155. doi:10.1080/03075079812331380354
 
+another not identified in search: Easterby-Smith, Mark. “How to Use Repertory Grids in HRD.” Journal of European Industrial Training 4.2 (1980): 2–32. Web.
+not HE, but "learning" and "research".
+
+in refs: Woehr, D. J., Miller, M. J., and Lane, J. A. S. (1998). The development and evaluation
+of computer-administered measure of cognitive complexity. Personality
+and Individual Diff erences, 25, 1037–1049)
+
+Also in refs: Winer Vasquez 1997
+
 Where participants are drawn from multiple backgrounds (eg pre- and in-service teachers, pre- and in-service social workers, "enterprise training programs
 for graduates, two groups from a management improvement
 course targeted at potential and existing small business owners, a group from the Open Business School's distance learning program for start ups, one group of small business owners who have not attended training courses, a group of unemployed persons who do not seek self-employment, and a group of personnel management
 students who prefer to work for large firms" {Gray, 1992 #3472} p 315) the study will not be included, as the focus is on the discipline rather than the higher education process.
+-> single population studies, repeated measures or comparison between groups
+-> no limit on time because part of the point is to use the valuable insights of pre-computerisation studies.
 
+Also because methodology varies too widely to be comparable; cf nurses.
+
+__So the framing is whether RepGrid is used as a pedagogical tool, in a higher education setting, with participants limited to either staff or students at Bachelor level or above.__
+
+Also need to note in this review which studies used pure grid, modified grid, or grid plus other instruments + whether the study did pre-post or just survey.
+
+Maybe even just those that used WebGrid? Too limiting. Contrast interview, with form? Also analysis method.
 
 -
 *so I will have to do this for the previous libraries too*
 --
+
+the recommendation system approach is a knowledge grid model | expert | concept map | causal map | modelling for knowledge advancement
 
 An unexpected result of full-text disambiguation was the revelation that in China, the Repertory Grid Technique may be known as "Kelly's squares, squares, Kelly's squares,
 Checkered technology, Kelly square talk technology, etc." {Yu-Ren, 2016 #598} (p. 44) [original translated by Google Translate: 凱利方格分析技術在中文學界被使用的譯名包含：凱利方格法、方格法、凱利方格技術、方格技術、凱利方格晤談技術等，本研究則採用凱利方格法一詞作為代表。]
