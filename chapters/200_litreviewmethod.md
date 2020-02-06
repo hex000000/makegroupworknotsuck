@@ -647,7 +647,7 @@ An important prerequisite for the success of any online service is ensuring that
 
 269 + 202 FTR - but many of these are duplicates and have full text in other databases. Checking this now.
 
-I have coded HE in 2020, and searched all FTR, noting whether they are HE in the Excel sheet but not yet EN. I need to think about how I go about getting that into 2020. Option 1 is to add it in to EN to the Research Notes field (where the manual review of abstracts/titles is), but that field isn't exported with RIS. Can I make it so? Test with empty 2020 project.
+I have coded HE in 2020, and searched all FTR, noting whether they are HE in the Excel sheet but not yet EN. I need to think about how I go about getting that into 2020. Option 1 is to add it in to EN to the Research Notes field (where the manual review of abstracts/titles is), but that field isn't exported with RIS. Can I make it so? Test with empty 2020 project. Moved Research Notes field into N1 field in EN, then exported the Scopus-RISPDF file to .mex. Then blank project and imported the RISPDF.mex Then, imported the updated EN-Scopus RIS and PDFs. Result? crash Try creating a second empty thenmerge. Scopus brught in 1944 references and 511 attachments [screen shot on desktop]. Nope. this won't import and replace records I have updated. Export/i,port seems to be best thest option. Worked but lots of clicking.
 
 
 
