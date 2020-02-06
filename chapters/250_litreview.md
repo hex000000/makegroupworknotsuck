@@ -62,4 +62,5 @@ T-and-B-Gaines-Shaw.xlsm. Of 197 documents located at /reports, 69 mention the R
 [  ] also discuss tacit beliefs/experiences
 [  ] added new code for 'performnce' in PQ lots of team performance papers but only added code at PQ Senior 1996 - need to go back over other papers for myself but not HE.
 [  ]increasing focus on sustainability
-[  ] career guidance not coded specifically but plenty 
+[  ] career guidance not coded specifically but plenty
+[  ] seeing modeling knowledge & knowledge creation
