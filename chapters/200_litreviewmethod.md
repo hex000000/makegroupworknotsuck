@@ -24,6 +24,52 @@ While I had found a range of studies around RGT in education in previous researc
 ![](../images/Christine_search.png)
 Figure 1: Database search sequence & strategy
 
+--- UML for diagram
+@startuml
+
+title Simple Object Diagram
+
+object "APlus Search"
+object ERIC_Search
+object PSYCINFO_Search
+object JSTOR_Search
+object Web_of_Science_Search
+object Proquest_Search
+object Scopus_Search
+object Libraries_Australia_Search
+object APlus_Excluded
+object ERIC_Excluded
+object PSYCINFO_Excluded
+object JSTOR_Excluded
+object Web_of_Science_Excluded
+object Proquest_Excluded
+object Scopus_Excluded
+object Libraries_Australia_Excluded
+
+APlus_Search --|> APlus_Excluded
+ERIC_Search --|> ERIC_Excluded
+PSYCINFO_Search --|> PSYCINFO_Excluded
+JSTOR_Search --|> JSTOR_Excluded
+Web_of_Science_Search --|> Web_of_Science_Excluded
+Proquest_Search --|> Proquest_Excluded
+Scopus_Search --|> Scopus_Excluded
+Libraries_Australia_Search --|> Libraries_Australia_Excluded
+
+
+Germany : Liquor = Jagermeister
+France : Liquor = Wine
+Spain : Liquor = Wine
+USA : Liquor = BudLight
+Mexico : Liquor = Taquilla
+Russia : Liquor = Vodka
+Canada : Liquor = Beer
+Japan : Liquor = Sake
+
+@enduml
+
+---
+
+
 I blended this with additional possible sources listed in the University of Sydney Library’s [Systematic Review Toolkit](https://library.sydney.edu.au/research/systematic-review/?section=before-you-start). In addition to database searching, a key website was also used to find relevant studies. < http://pages.cpsc.ucalgary.ca/~gaines/repplus/> contains years of research by Gaines & Shaw, conceptual and technical experts and developers of the technical and statistical infrastructure on which computerised implementation of the Repertory Grid Technique can be deployed.
 
 Before I finalised my research question, I checked for registration of systematic reviews at Joanna Briggs Institute at 1138 on Saturday 28 Sep. 19 using the search term “repertory”, and no titles were returned. I also checked PROSPERO at 1140 on the same day, identifying three registrations of systematic review in progress. Two were related to specific medical interventions, and the other to psychotherapy {Helena García-Mieres,  #68;Lauren Brown,  #67;Mozart Walz,  #66} so they are outside the scope of this review.
@@ -575,7 +621,8 @@ manual lexical search for last 669 documents, finding those that are definitely 
 2. Psychotherapy -> 383 documents to check later - specific problem with this might be an anthology where one author is part of the school of psychotherapy (hence not able to eliminate School)
 
 
-443 Results
+443 Results? 472 for both and HE, how many HE all up is what counts. So M-Scopus-RISPDF has the most recent coding. I'm going to have to get the Excel notes into EN, then replace a standard RIS field with the RN field, then export for import back to test in RISPDF and then Termites-all.
+
 
 be more consistent on peer review versus peer facilitation Coding
 Management + school = principals/admin etc
@@ -600,6 +647,7 @@ An important prerequisite for the success of any online service is ensuring that
 
 269 + 202 FTR - but many of these are duplicates and have full text in other databases. Checking this now.
 
+I have coded HE in 2020, and searched all FTR, noting whether they are HE in the Excel sheet but not yet EN. I need to think about how I go about getting that into 2020. Option 1 is to add it in to EN to the Research Notes field (where the manual review of abstracts/titles is), but that field isn't exported with RIS. Can I make it so? Test with empty 2020 project.
 
 
 
