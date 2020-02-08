@@ -647,7 +647,23 @@ An important prerequisite for the success of any online service is ensuring that
 
 269 + 202 FTR - but many of these are duplicates and have full text in other databases. Checking this now.
 
-I have coded HE in 2020, and searched all FTR, noting whether they are HE in the Excel sheet but not yet EN. I need to think about how I go about getting that into 2020. Option 1 is to add it in to EN to the Research Notes field (where the manual review of abstracts/titles is), but that field isn't exported with RIS. Can I make it so? Test with empty 2020 project. Moved Research Notes field into N1 field in EN, then exported the Scopus-RISPDF file to .mex. Then blank project and imported the RISPDF.mex Then, imported the updated EN-Scopus RIS and PDFs. Result? crash Try creating a second empty thenmerge. Scopus brught in 1944 references and 511 attachments [screen shot on desktop]. Nope. this won't import and replace records I have updated. Export/i,port seems to be best thest option. Worked but lots of clicking.
+I have coded HE in 2020, and searched all FTR, noting whether they are HE in the Excel sheet but not yet EN. I need to think about how I go about getting that into 2020. Option 1 is to add it in to EN to the Research Notes field (where the manual review of abstracts/titles is), but that field isn't exported with RIS. Can I make it so? Test with empty 2020 project. Moved Research Notes field into N1 field in EN, then exported the Scopus-RISPDF file to .mex. Then blank project and imported the RISPDF.mex Then, imported the updated EN-Scopus RIS and PDFs. Result? crash Try creating a second empty thenmerge. Scopus brught in 1944 references and 511 attachments [screen shot on desktop]. Nope. this won't import and replace records I have updated. Export/import seems to be best option. Worked but lots of clicking for those that wre not identical (eg all the RIS).
+
+OK now comes the really hard bit. I have to re-integrate the updated Scopus with T&B-ALL. I am going to use the export import thing again and expect lots more clicking.In the new Scopus, I ended up with two new folders labelled "References" in stead of Scopus. Should I code all the HE before export import? That would make sense. First I select all the attachments in the new folder, some of which are duplicates of references in the previous folde, but which haven't been coded in 2020. Only three RIS, so I will move those individually and compare with the previous. Two had new link to PDF, Thota 2011 CONF didn't. Can I auto-code the PDFs?Not in the same way imported have been coded. Not sure why.
+
+a bit frustrating that sets don't export with the mex file.
+
+Activated all documents, and the N1 RIS code. Then sorted resulting list so all the HEs in N1 were together. Selected the HEs and coded with new Higher Ed code, which I then merged with existing Higher Ed code. Then undid the merge as reslide dthe HE was not case specific.
+
+Could be creat if I could lex search in a specific field. Tried sorting and dragging, didn't work. Tried sorting and coding? Coded all. Looks like the EN N1 move/copy didn't work. Back to EN. Replaced instead of added, and did not replace in 2020. Have to accept loss of Notes. Tried RIS export again. Then RIS import. Checked Notes field had the HE in. Then exported just tthose to a mex. Then deleted document group. Then imported that mex. Realised I should't check overwrite code segments as none of the RIS will be coded. Still didn't work. Going to have to try the other way around.  Renamed RISPDF as Scopus; 1946 RIS and 384 PDF. Go back to merge as my current documents are most recent? Nope because I will have coded those for which FT not required. Need to find operational Scopus pre-FTR. Can't!
+
+Blank Scopus, try merge with project that has linked PDFs. Start with blank, merge completed EN ouptut and check notes field contents ok. Now to get the previously coded RIS and PDF in without losing th ecurrnet set. Old with dups ha broken PDF path. If I go back to the old scopus there are only 41 coded as HE. 22 RIS and others PDF I am going to merge with th e new project using merge and not importing the PDFs just coding. Used parameters opened, opened, not not import existing. Did bring in existing. I am going to give up and hand-code the 41 manually. 1944 in RIS, 511 PDFs.
+Then Lexical search for HE in activated (RIS) set only. FINALLY!!! Sorted and used ignore red circle on the not HEs. Select all, then autocode HE in 2020...... 125 document segments coded out of 341. I think that's a goer.
+
+Ready to export mex and then back in Termites-ALL, then I will export only HE. Must double check that I have matching RIS and PDF after that. 169 documents will replace existing; I wish I could report on this or invert the selection. I don't want to replace docs already coded. I need to work out which are existing by screen shots, then only import the new ones, then check the 169. after import new, go back to socpus and check whether those not important have different / important coding. Woudl be soooo good to sort by Target and be able to export a report. Inverted manually 169 entreis.
+
+
+
 
 
 
@@ -674,6 +690,7 @@ No book had an abstract, so initial exclusion was done on the basis of title alo
 
 Trove results will be the final set added to 2020.
 
+Imported all 59 to 2020, then lex-searched for "not HE", activate and invert. Forgot to do the move to N1 notes. Re-do.
 
 --
 Realise should also search JLS specifically. Have done, 0 results as access provided via JSTOR (already searched).
