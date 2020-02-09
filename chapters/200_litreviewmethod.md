@@ -741,6 +741,8 @@ Also need to note in this review which studies used pure grid, modified grid, or
 
 Maybe even just those that used WebGrid? Too limiting. Contrast interview, with form? Also analysis method.
 
+Then made an EN for only Method, and emptied out the Termites-empty so it contains only the RIS fields to de-bloat. Need to make sure I pay attention to specific coding from here on in after writing up above.
+Brand new. then when import, merge codes that are also RIS.
 -
 *so I will have to do this for the previous libraries too*
 --
