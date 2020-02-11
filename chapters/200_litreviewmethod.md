@@ -517,6 +517,15 @@ Two papers found, titles made clear not HE.
 | found        |   2 |
 | met criteria |   0 |
 
+##TRIP
+
+33 papers found, titles made clear not HE except 1.
+
+| TRIP         |     |
+|--------------|-----|
+| found        |  33 |
+| met criteria |   1 |
+
 
 ## PROQUEST
 
@@ -670,7 +679,7 @@ Ready to export mex and then back in Termites-ALL, then I will export only HE. M
 
 | Scopus       |            |
 |--------------|------------|
-| found        |  1304+23   |
+| found        |  1946   |
 | met criteria |    269*    |
 
 ## Books
