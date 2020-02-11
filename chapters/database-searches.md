@@ -12,12 +12,12 @@ object Cochrane_Library {
    Exclusion 1 = 999
  }
 object APlus {
-   Search Result 1 = 999
-   Exclusion 1 = 999
+   Search Result 1 = 76
+   Exclusion 1 = 27
  }
 object ERIC {
-   Search Result 1 = 999
-   Exclusion 1 = 999
+   Search Result 1 = 199
+   Exclusion 1 = 60
  }
 object JSTOR {
    Search Result 1 = 999
