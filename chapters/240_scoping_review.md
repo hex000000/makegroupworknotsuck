@@ -1,4 +1,3 @@
-
 ## Systematic scoping review
 
 I chose the systematic scoping review as a methodological approach with the aim of providing a “baseline” for research on Repertory Grid Technique (RGT) at this point in time. A true systematic review requires multiple researchers, often working across institutions, thus unsuitable for a single PhD candidate. Even scoping reviews are sometimes done by multiple researchers, particularly if the topic has a large literature base.
