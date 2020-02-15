@@ -205,3 +205,5 @@ Trying to get only the additional attachments in to 2020, so have exported only 
 When I finish getting all th ful-texts, it's better to import the first EN into the second, so it deletes the non-attachment records.
 
 With the really big datasets (>1000), need to chunk Lexical search into smaller sets of activated documents to avoid crashing.
+
+When coding, its helpful to use the citation for the FTR code, but if you want to be able to search effectively, you need to apply the codes to a single segment rather than to the variables. 
