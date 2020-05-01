@@ -207,3 +207,7 @@ When I finish getting all th ful-texts, it's better to import the first EN into 
 With the really big datasets (>1000), need to chunk Lexical search into smaller sets of activated documents to avoid crashing.
 
 When coding, its helpful to use the citation for the FTR code, but if you want to be able to search effectively, you need to apply the codes to a single segment rather than to the variables.
+
+## If you do want to use 2020 for interaction Analysis
+# Importing transcripts
+For non-timestamp transcrips from otter.ai, select all the times, and apply para style. Then search for the ^p in that para style and replace with "#^pSpeaker: ". Then ^p^p -> " #"
