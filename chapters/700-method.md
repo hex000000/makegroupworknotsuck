@@ -22,7 +22,7 @@ So I will download them all in rgrid and work on this as a problem to be solved.
 ### from "survey locations" tab 1444 on Sunday 3 November 2019.
 
 step 1
-which surveys did I use? go to speadsheet, access each cache and download all grids into folder named with survey number.
+which surveys did I use? go to spreadsheet, access each cache and download all grids into folder named with survey number.
 
 done all dowloaded into folder by survey number, - summarised on https://www.dropbox.com/s/pvzayaw5cuhof5a/EDPC5024-survey-data-20191103.xlsx?dl=0
 now I need to know which are relevant to the study and why

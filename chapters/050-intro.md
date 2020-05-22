@@ -1,7 +1,7 @@
 I am finding it hard not to include papers that didn't address RepGrid but which made predictions or suggestions about computation or learning, and specifically artificial intelligence, that were insightful and useful and were written 40 years ago.
 
 
-Consider why decision-making is an epistemic activity for the purpose of this thesis. Have to decide whether it's an epistemic, actional thing or dot. Argument needs to address: 
+Consider why decision-making is an epistemic activity for the purpose of this thesis. Have to decide whether it's an epistemic, actional thing or dot. Argument needs to address:
 
 Perkins Epistemic Games are restrictive from epistemic POV decision-making isn’t learning, not constructing knowledge.
 How can decision-making provide epistemic values?
