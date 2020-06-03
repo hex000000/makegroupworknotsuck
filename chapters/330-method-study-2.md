@@ -44,13 +44,13 @@ linked from class slides |
 
 All documents and artefacts such as diagrams and notes, including the resources for project and group management, were managed by the single team in their GitHub wiki. The class repo was used for lighter weight scaffolding resources than in Study 1. An example of the resources provided in each group&#39;s GitHub repository is shown at Figure [F].
 
-![](RackMultipart20200525-4-w6bxjy_html_30d59aa91d34f63b.png)
+![](RackMultipart20200603-4-1hygy83_html_30d59aa91d34f63b.png)
 
 _Figure 1: Example of the activity templates in each group&#39;s GitHub repo._
 
 Fewer meetlet resources were explicitly provided in this study as they were not widely adopted in Study 1 and we wanted to simplify the environment. However, the meetlets were available as links from the design steps. The design steps were retained as a higher-level summaries of options for team activities. An screen shot of the _Convergent_ design step and the links to meetlet resources is at Figure [F].
 
-![](RackMultipart20200525-4-w6bxjy_html_4aa661d07fa86c1c.png)
+![](RackMultipart20200603-4-1hygy83_html_4aa661d07fa86c1c.png)
 
 _Figure 2: Lightweight group regulation and epistemic acitivity meetlets as links from overview._
 
@@ -62,11 +62,11 @@ Aligned with the unit Learning Outcomes and major assessment task, student group
 
 While ABM at a sophisicated level is complex, and model construction was not mandated in the group task, learners in this unit were scaffolded with in-class demonstrations, partial models to complete, and a tutorial devoted to learning ABM from a professional programmer (thanks Erica!) in Week 4. In this workshop we used templates from the [NetLogo website](https://ccl.northwestern.edu/netlogo/) {Wilensky, 1999 #8039} and pre-made each-stage models to do a hands-on progamming task under the tutor&#39;s guidance. The was was representative of the concepts involved in the team project model, individual actors – pickpockets in the task, employees in the project model – interacting with others and changing their state by a specified parameter – money theft in the task, technology adoption in the project model. Like UML models, the NetLogo programming environment offers synchronised representations of both code and result, allowing instant feedback on the impact altering a variable has on the system. Screen shots of the code and interface displays are at Figures [FF].
 
-![](RackMultipart20200525-4-w6bxjy_html_a025518ca91a917d.png)
+![](RackMultipart20200603-4-1hygy83_html_a025518ca91a917d.png)
 
 _Figure 3: Graphic representation of code output in the ABM workshop for Study 2._
 
-![](RackMultipart20200525-4-w6bxjy_html_ed3bf01f815a85e8.png)
+![](RackMultipart20200603-4-1hygy83_html_ed3bf01f815a85e8.png)
 
 _Figure 4: Code view in the ABM workshop for Study 2._
 
@@ -113,7 +113,7 @@ The _elements_ presented were:
 
 The first survey in this study was intended to find the concepts students found most difficult to differentiate, the &quot;muddiest points&quot;. Of the six participants, one generated four constructs, three generated three constructs, one two constructs and one participant one construct. Raw participant responses are at Figure [F] below.
 
-![](RackMultipart20200525-4-w6bxjy_html_46d303d05cf0a34a.png)
+![](RackMultipart20200603-4-1hygy83_html_46d303d05cf0a34a.png)
 
 _Figure 5: Raw responses. Data/5024-S2-2019/5024-0-3-muddyp-DEID/EDPC5024-muddyp-1.rgrids -\&gt; Composite -\&gt; Display_
 
@@ -121,7 +121,7 @@ _Figure 5: Raw responses. Data/5024-S2-2019/5024-0-3-muddyp-DEID/EDPC5024-muddyp
 
 In this study, in contrast to Study 1, our &quot;eyeball analysis&quot;, shows fewer &quot;?&quot; responses, and fewer ratinga in the middle of the continuum. We could consider that to indicate that even though these are difficult terminologies, participants are more certain about how they think about them, although there is a certain counter-intuitivity to that suggestion. As Study 1 showed the RepGrid clustering to be a fair equivalent for manual thematic analysis, we move directly here to the FOCUS output from the survey, with both contructs and elements sorted so that the most similar across both data types are together, shown at Figure [F] below. As participant &quot;bunul&quot;&#39;s response is not meaningful, with &quot;person&quot; and &quot;5&quot; as the continuum poles, that has been removed from the analysis, but will be kept in mind when we analyse subsequent data collections, again to see if paucity of responses can be indicative of subsequent performance.
 
-![](RackMultipart20200525-4-w6bxjy_html_e46038a06a5d0f02.png)
+![](RackMultipart20200603-4-1hygy83_html_e46038a06a5d0f02.png)
 
 _Figure 6: FOCUS cluster of responses. Data/5024-S2-2019/5024-0-3-muddyp-DEID/EDPC5024-muddyp-1.rgrids -\&gt; Composite -\&gt; Focus Cluster_
 
@@ -131,7 +131,7 @@ The elements _pattern, model_ and _system_ also provide an interesting set of co
 
 Overall, the distinction is between active and passive constructs, different kind of rules_creates, defining, conducting_ versus _occurs, result, controlled, made, manipulated_. As in Study 1, several participants provided very similar constructs in multiple responses. The length of the construct descriptions in themselves give an indication of how challenging the participants found this disentangling of concepts that in many cases were relatively new to them. The cluster grid after removing these near-duplicates which in almost all cases referred to the idea of creator versus creation is below at Figure [F].
 
-![](RackMultipart20200525-4-w6bxjy_html_1ce8c3f5c3831221.png)
+![](RackMultipart20200603-4-1hygy83_html_1ce8c3f5c3831221.png)
 
 _Figure 7: FOCUS cluster of responses. /Data/5024-S2-2019/5024-0-3-muddyp-DEID/EDPC5024-muddyp-1-pruned2.rgrid -\&gt; Focus Cluster_
 
@@ -141,7 +141,7 @@ Even with those constructs removed, the element clustering is retained, with _mo
 
 As in Study 1, we return to the dataset modelled at Figure [F6], with the meaningless response removed but very similar responses retained. Why is this helpful? In the Principal Components Analysis at Figure [F] below, the spatial representation of elements and constructs does not have the grid constraints of FOCUS.This makes it possible to see the relationship between those very similar responses, and a more nuanced understanding of how they might be different in the eyes of the participant, while to me they seem very close. For example, participant &quot;yanada&quot; places _creates the model_ at the pole of two constructs, with the other poles being _both a result of the modeller_ for _pattern, model_ and _system,_ and _part of the model_ for _agent_ and _system_ with &quot;?&quot; ratings for _pattern_ and _model_. They also repeat _result of the modeller_ at the pole of _modeller_ for _pattern, model_ and _system_, with _agent_ associated with _modeller_ on the other pole. This shows how at this stage of teaching session – Week 3 – these elements of complexity theory may still understood only at a superficial level, which is to be expected. This is a useful method for understanding not only that the participants still have varied understanding of the system of enquiry, but in which ways that understanding is different.
 
-![](RackMultipart20200525-4-w6bxjy_html_b652702de9e37e7c.png)
+![](RackMultipart20200603-4-1hygy83_html_b652702de9e37e7c.png)
 
 _Figure 8: PrinGrid map of elements and constructs. Data/5024-S2-2019/5024-0-3-muddyp-DEID/EDPC5024-muddyp-1-pruned.rgrids -\&gt; PrinGrid_
 
@@ -149,19 +149,23 @@ In his development of the PrinGrid representation for RepGrid, {Slater, 1965 #17
 
 Looking at individual PrinGrids for those responses furthest away from the origin can deepen insight. Figure [F8] shows _system, model_ and _pattern_ grouped together when all responses are included for analysis, showing that - overall – participants gave them similar rating patterns across all constructs. However, &quot;gura&quot;&#39;s data by itself shows only two main components, with _system_ and _model_ grouped on the right, _agent_ and _pattern_ to the left, _modeller_ here is centred between those groups. While overall the group did not distinguish _modeller,_ this participant rated it &quot;1&quot; for every construct, while the other elements all have ratings at both construct poles. So for this participant the first component is the differentiation between _complex/construct defining attributes_ and _singular/occurs in the model,_ and the second the distinction between _designer_ and _made by the designer_.
 
-![](RackMultipart20200525-4-w6bxjy_html_d0a276eadf64cde3.png)
+![](RackMultipart20200603-4-1hygy83_html_d0a276eadf64cde3.png)
 
 _Figure 9: PrinGrid map of elements and constructs. Data/5024-S2-2019/5024-0-3-muddyp-DEID/Gura.rgrid -\&gt; PrinGrid_
 
 In contrast, &quot;duruga&quot;&#39;s data at Figure [F] also contains two main components, with _system_ and _model_ grouped on the right again, but _agent_ and _modeller_ to the left, and _pattern_ close to the centre between those groups. While overall the group did not distinguish _pattern,_ this participant rated it &quot;1&quot;, &quot;2&quot; and &quot;5&quot; over the constructs, a pattern differing only slightly from _model_, which is why the two elements are aligned vertically, but quite different from the other element ratings. For this participant the first component is the differentiation between _agent/modeller_ and _system,_ and the second the distinction between _pattern_ and _model_, where the pattern of rating is very similar but at opposite poles with the exception of _System&#39;s properties…/they can both be controlled._ From a unit content point of view, the clustering and rationale indicate some confusion that would be overcome over the following weeks of session.
 
-![](RackMultipart20200525-4-w6bxjy_html_b5107ac52658cccc.png)
+![](RackMultipart20200603-4-1hygy83_html_b5107ac52658cccc.png)
 
 _Figure 10: PrinGrid map of elements and constructs. Data/5024-S2-2019/5024-0-3-muddyp-DEID/Duruga.rgrid -\&gt; PrinGrid_
 
-Following {van de Kerkhof, #8433} and Study 1, Table [T] below shows the count of constructs generated, using the dataset shown at [F6], with similar responses retained but one null response removed. Again with participants concurrently providing survey responses it is not possible to assign a known sequence to the constructs. This group was smaller than that in Study 1 (N versus N) and fewer constructs generated, 15 after removal of one null value. Again, saturation can not be strictly claimed as each participant added unique constructs. However, some constructs were so similar and repetitive it is likely that effective saturation has been met, and technical saturation achieved with few further iterations.
+#### Exploratory factor analysis to examine relationships between elements and constructs
 
-![](RackMultipart20200525-4-w6bxjy_html_dd9230517fbdbfc7.gif)
+#### Frequency analysis
+
+Following {van de Kerkhof, #8433} and Study 1, Table [T] and Figure [F] below shows the count of constructs generated, using the dataset shown at [F6], with similar responses retained but one null response removed. Again with participants concurrently providing survey responses it is not possible to assign a known sequence to the constructs. This group was smaller than that in Study 1 (N versus N) and fewer constructs generated, 15 after removal of one null value. Again, saturation can not be strictly claimed as each participant added unique constructs. However, some constructs were so similar and repetitive it is likely that effective saturation has been met, and technical saturation achieved with few further iterations.
+
+![](RackMultipart20200603-4-1hygy83_html_dd9230517fbdbfc7.gif)
 
 _Figure 11: New constructs added by participant \&lt;3-0MP chart tab\&gt; /Users/elizabethblack/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/5024-S2-2019/EDPC5024-survey-data-20191103.xlsx_
 
@@ -219,7 +223,7 @@ _Table 4: Breakdown of constructs by participant and originality/uniqueness._
 
 Using the same method as Study 1, I broke the responses into categories based on the FOCUS clustering at Figure [F6].
 
-![](RackMultipart20200525-4-w6bxjy_html_e7a1c9f84b2453ed.png)
+![](RackMultipart20200603-4-1hygy83_html_e7a1c9f84b2453ed.png)
 
 ### Data collection 2
 
@@ -279,3 +283,5 @@ Used the same elements as Data Collection 1.
 ≅ 3000 words |
 
 \&lt;/ put these in a table?\&gt;
+
+BLACK 199608077 Thesis v1 RackMultipart20200603-4-1hygy83.docx8 of 8
