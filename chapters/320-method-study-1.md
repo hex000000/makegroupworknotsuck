@@ -10,13 +10,13 @@ Initially, the research questions are: [in need of update with new insights into
   1. How do groups appropriate designer-provided notations, tools, roles and workflows? (First level appropriation)
 2. How does the expectation to have to communicate insights and practices regarding (a) and (b) to another group—the &#39;target group&#39;—affect knowledge building of the &#39;source group&#39;? (&quot;Production effect&quot;)
 3. How does the information on (a) and (b) made available from another group—the source group—affect the target group? (&quot;Variation effect&quot;)
-  1. How do groups appropriate tools and workflows/models?provided by another group? (Second level appropriation).
+  1. How do groups appropriate tools and[language- can we consider constructs epistemic resources] workflows/models?provided by another group? (Second level appropriation).
 
 ## Design
 
 This project approached the research questions though the lens of Design-Based Research (DBR) as its overarching aim is to make the research about learning relevant for learning settings {Reimann, 2011 #6637}. DBR offers the advantage of affording both quantitative and qualitative approaches, which allows quantitative data analysis while still comprising rich depth of qualitative inquiry. It is considered an appropriate approach for an authentic setting, in close cooperation with instructors and students as co-designers of the learning experience {Penuel, 2018 #7107}.
 
-The three studies reported here are quite imperfect, taking place as they do in a global higher education context, with students of diverse ages, backgrounds and levels of technical and higher education expertise. The participants are studying in an organisation that has both competititive and political context in Australia and internationally, subject to management imperatives and global pandemics. Each study is reported on individually, as their unique circumstances mean they are not directly comparable. What is common to all is that they rely on a web of actors and technology, pedagogy necessarily responding to circumstance, and those circumstances sometimes out of our control.
+The three studies reported here are quite imperfect, taking place as they do in a global higher education context, with students of diverse ages, backgrounds and levels of technical and higher education expertise. The participants are studying in an organisation that has both competitive and political context in Australia and internationally, subject to management imperatives and global pandemics. Each study is reported on individually, as their unique circumstances mean they are not directly comparable. What is common to all is that they rely on a web of actors and technology, pedagogy necessarily responding to circumstance, and those circumstances sometimes out of our control.
 
 This is the power of DBR, to respond and adapt to change as it occurs. Not always ahead of the game but resourceful and ready for the challenges that are inevitable in our complex and interdependent world.
 
@@ -76,7 +76,9 @@ _Table 2: Designed environment features in detail._
 | Collaborative platform | Support synchronous &amp; asynchronous meeting activities with project-oriented tools such as milestones, issues and workflow systems; plus documentation and participation logging. Model representation supported in Markdown (text) and linked Graphviz (diagram) forms. | GitHub repo for each group available 24/7, provisioned through the University&#39;s learning &amp; teaching system. |
 | Conceptual scaffolding | Examples, instructions, and webtools for using PlantUML, Graphviz and Markdown. | Instantiated in each repo before the group task commenced, supported through in-class activities. |
 | Modelling tools and notation | PlantUML, Graphviz and Markdown languages and tools. | planttext.com;
- gravizo.com;plantuml.com;marpdown.com;
+ gravizo.com;
+ plantuml.com;
+ marpdown.com;
  plus desktop applications linked from each repo as well as the Learning Management System (LMS) (Canvas). |
 | Group regulation tools | Templates for role-based workflow such as facilitation scheduling, meeting notes &amp; reports provided for students to adapt to their context. | Instantiated in each repo before the group task commenced, supported through out-of-class activities. |
 | Group social &amp; epistemic tools | Meetlets adapted as templates describing typical collaboration/meeting activities such as ideation, elaboration, refinement and evaluation, and how to instantiate them on GitHub and Adobe Connect provided. | Instantiated in each repo before the group task commenced. |
@@ -87,19 +89,19 @@ _Table 2: Designed environment features in detail._
 
 All documents and artefacts such as diagrams and notes, including the resources for project and group management, were managed by the teams in their repository and meeting room, with their presence and form persistent so those spaces could reflect the team&#39;s way of working. An example of the resources provided in each group&#39;s GitHub repository is shown at Figure [F].
 
-![](RackMultipart20200525-4-g27l2h_html_24cbceb89f687011.png)
+![](RackMultipart20200603-4-egef0v_html_24cbceb89f687011.png)
 
 _Figure 1: Example of the activity templates in each group&#39;s GitHub repo._
 
 Meetlet resources are presented here as a series of steps toward an activity, such as &quot;evaluative activities&quot;, with an initial specification of tools and artefacts with which it is conducted - essentially design patterns with a feedback dimension. As an additional domain-related scaffold, these are presented in PlantUML language, which is the format in which the unit group project is developed in. This has the advantage of providing both a graphical and narrative representation of each meetlet, allowing learners to experiment with them, and we expect to modify them as a practice and also a tool. A partial example of a meetlet resource is at Figure [F] with a full example at Appendix [A].
 
-![](RackMultipart20200525-4-g27l2h_html_f1dacaa9f1fbfd94.png)
+![](RackMultipart20200603-4-egef0v_html_f1dacaa9f1fbfd94.png)
 
 _Figure 2: Example of meetlet for a brainstorming activity._
 
 An initial screen layout structure which can be modified by learners was also instantiated in each team&#39;s Adobe Connect meeting room. The environment layout and contents can be changed in real time to suit user activities, and will stay in the last configuration until modified. At any point in time the meeting host can save a particular layout as a template and give it a name. An example of how the structure and features can be organised is at Figure [F].
 
-![](RackMultipart20200525-4-g27l2h_html_61778eb9fe448766.png)
+![](RackMultipart20200603-4-egef0v_html_61778eb9fe448766.png)
 
 _Figure 3: Example of Adobe Connect room layout._
 
@@ -107,7 +109,7 @@ _Figure 3: Example of Adobe Connect room layout._
 
 Aligned with the unit Learning Outcomes and major assessment task, student groups used PlantUML Activity Diagrams {Object Management Group®, 1997 #7102}to construct models related to learning design. This is a simple and intuitive modelling notation, but there is still tension between what the student wants to express of their mental model, and what can be expressed in the model notation. They were encouraged to use the [graphviz](https://www.graphviz.org/) DOT notation {Ellson, 2018 #7101} for system modelling instead of producing diagrams with a drawing tool, as the plain text format has advantages for editing, reporting and providing system feedback on model validity. An illustration of how the notation provides both a narrative and visual view on the system is at Figure [F].
 
-![](RackMultipart20200525-4-g27l2h_html_e00f626d1d5a5c5a.png)
+![](RackMultipart20200603-4-egef0v_html_e00f626d1d5a5c5a.png)
 
 _Figure 4: Example of the multiple representational format possible using UML._
 
@@ -130,7 +132,7 @@ During the conduct of the study, I was able to respond to learner feedback about
 
 An example response is at Figure [F]
 
-![](RackMultipart20200525-4-g27l2h_html_ac005b9589e59beb.png)
+![](RackMultipart20200603-4-egef0v_html_ac005b9589e59beb.png)
 
 _Figure 5: Screen shot of first part of Week 6 breakdown wiki page._
 
@@ -174,13 +176,13 @@ These elements were selected as they were, in the opinion of the instructor and 
 
 A screen shot of how the elements were presented to the respondent is at Figure [F], along with an indication of how participants supply the constructs (not real data).
 
-![](RackMultipart20200525-4-g27l2h_html_ca33935645499ffa.png)
+![](RackMultipart20200603-4-egef0v_html_ca33935645499ffa.png)
 
 _Figure 6: Presentation of Elements in the survey for data collection 1_
 
 {Neimeyer, 2002 #8038} calls this _triadic difference,_ different from _dyadic difference_ as there are three rather than two elements, and from both _triadic_ and _dyadic opposites_ as it asks the participant for two contrasting constructs as they relate to that element, rather than one construct and a notional opposite pole which may not be relevant to that element. Once the first three elements had been categorised by the respondent, the remaining elements were presented and the participants rated them along the continuum between the construct poles. Rating element-by-element has been demonstrated to increase the construct system differentiation {Neimeyer, 2002 #8038}, useful here to capture the broadest possible view. A screen shot of how the elements are rated on the new construct is at Figure [F], along with an indication of how participants might rate each element on that construct (not real data).
 
-![](RackMultipart20200525-4-g27l2h_html_bee547d694315d34.png)
+![](RackMultipart20200603-4-egef0v_html_bee547d694315d34.png)
 
 _Figure 7: Element/Construct rating method in data collection 1_
 
@@ -188,7 +190,7 @@ _Figure 7: Element/Construct rating method in data collection 1_
 
 Each participant had ten minutes to to add two or three constructs. The initial data display for a completed RepGrid is at Figure [F]. Full grid response data is at Appendix [A]. Before addressing specific results, an overview of analytic representations generated for repertory grids is below.
 
-![](RackMultipart20200525-4-g27l2h_html_17a0f586e0309f5e.png)
+![](RackMultipart20200603-4-egef0v_html_17a0f586e0309f5e.png)
 
 _Figure 8: Completed RepGrid by participant &quot;yurungi&quot;._
 
@@ -198,7 +200,7 @@ Following {Jankowicz, 2005 #6949} the first step for analysing computer-elicited
 
 The purpose of the FOCUS cluster is to reorganise the grid data in a way that foregrounds the structural relationships between both elements and constructs. The application calculates similarity scores between the first pair of elements (in this case Dropbox and Canvas) on the first construct (in this case social/goal orientation), then the second construct, and then subsequent constructs, working down the two columns. This is repeated for each pair of elements (1 and 3, 1 and 4 and so on) until all elements and constructs have been organised so the most similar are side-by-side. You can see if Figure [F] that the dendrograms for both elements and constructs (the red and blue branch-like lines connected to each element and construct) join to indicate the degree of similarity between ratings. For example, looking at the red lines showing element relationships, both _WhatsApp_ and _Facebook_ and _The ideal collaboration environment_ and _GitHub_ have lines aligning with the &quot;100&quot; marker, indicating that the respondent has rated them 100% the same on each construct. This can be interpreted as showing that the respondent thinks of those elements very similarly in relation to the constructs presented. If we look at the blue lines showing construct relationships, the first connection between lines is aligned around the &quot;70&quot; marker, indicating that there is about a 70% similarity in responses for the _Social/goal_ construct and the _Casual/organisational_ constructs, showing more similarity between these constructs for the respondent than between either of those and the _LMS/Collaboration_ construct. The ratings are shaded to show high (dark), medium (grey) and low (white) numbers, indicating proximity to the poles. For example, _Dropbox, Facebook, WhatsApp_ and _Google Drive_ are at the _casual_ pole, with ratings of 1, whereas _Canvas_ and _Slack_ are at the _organisational_ pole with ratings of 5, and the other elements somewhere in between. This can be interpreted as the strength of construal, with ratings at the poles very definite and those in the middle less so. There is vigorous debate about the middle numbers in a grid, which will be elaborated in the Discussion chapter of this thesis.
 
-![](RackMultipart20200525-4-g27l2h_html_7dd33033aafda9fd.png)
+![](RackMultipart20200603-4-egef0v_html_7dd33033aafda9fd.png)
 
 _Figure 9: Completed RepGrid by participant &quot;yurungi&quot; represented as a focus cluster._
 
@@ -206,7 +208,7 @@ _Figure 9: Completed RepGrid by participant &quot;yurungi&quot; represented as a
 
 The representation at Figure [F] is the same data, represented in the form of a Principal Components Analysis (PCA). The black x and y axis lines represent the two components having the most different patterns in the dataset. The blue lines are positioned at an angle to the axes representing the extent to which each construct matches the component pattern, and at a length that indicates how variable the ratings on that construct are. In Figure [F], for example, both _goal_ and _organisational use_ are close to the horizontal axis, indicating that the pattern of responses on those constructs has the highest variance (58.6%), and _collaboration_ is almost adjacent to the vertical axis, the second-highest pattern variance (31.0%). The more similar the rating across constructs, the smaller the angle between the lines. So, the first component represents the constructs _goal_ and _organisational_ very well, but _collaboration_ not well, and the second component represents the construct _collaboration_ well but not _goal_ or _organisational._ The elements are plotted in red text in relation to the constructs in a space that uses the first component as x-axis and the second component as y-axis. This means distance between elements reflects the similarity of ratings across all the constructs, which we can see by going back to the Focus cluster, which shows _goal_ and _organisational_ with the most similar ratings, and _collaboration_ with different ratings. The most important elements in the grid are those furthest from the origin, as they dictate the direction and scale of the plot in which the other elements are placed {Slater, 1965 #1795}.
 
-![](RackMultipart20200525-4-g27l2h_html_b9d54d33024a13de.png)
+![](RackMultipart20200603-4-egef0v_html_b9d54d33024a13de.png)
 
 _Figure 10: Completed RepGrid by participant &quot;yurungi&quot; represented as a Principal Components Analysis plot._
 
@@ -214,11 +216,11 @@ _Figure 10: Completed RepGrid by participant &quot;yurungi&quot; represented as 
 
 A crossplot may be used when two constructs are considered together, reducingthe complexity of the graph. In Figure [F] we can see if our two most important constructs are _Social/goal_ and _casual_/_organisational_, those elements that scored higher on _goal_ are on the right hand side of the vertical axis toward either the _casual/organisational_ pole and we can see the participant has scored _The ideal collaboration environment_ furthest toward the _goal_ axis and exactly half way between _casual/organisational_. If we then take out that differentiation and reorganise the data so that our most important constructs are _Social/goal_ and _LMS/Collaboration_, we can see _The ideal collaboration environment_ still at the _goal_ end, and also now at the _Collaboration_ end. So our participant strongly associates _Collaboration_ and _goal_ orientation with their ideal collaboration space.
 
-![](RackMultipart20200525-4-g27l2h_html_838e8a6f552dff58.png)
+![](RackMultipart20200603-4-egef0v_html_838e8a6f552dff58.png)
 
 _Figure 11: Completed RepGrid by participant &quot;yurungi&quot; represented as a crossplot graph using the &quot;Social/goal&quot; and &quot;casual/organisational&quot; constructs._
 
-![](RackMultipart20200525-4-g27l2h_html_81399480000d1f19.png)
+![](RackMultipart20200603-4-egef0v_html_81399480000d1f19.png)
 
 _Figure 12: Completed RepGrid by participant &quot;yurungi&quot; represented as a crossplot graph using the &quot;LMS/Collaboration&quot; and &quot;Social/goal&quot; constructs._
 
@@ -231,7 +233,7 @@ _Figure 12: Completed RepGrid by participant &quot;yurungi&quot; represented as 
 
 While the survey was only conducted once, Repertory Grid Technique still provides rich data for even small groups of students, valuable in making design decisions {Aditomo, 2011 #6600}. Of the nine participants, two generated three constructs and seven two constructs in their triadic elicitation process with elements supplied as described in Method above. As shown in Figures [FF] above, there are some results that can be identified simply by &quot;eyeball analysis&quot;. To see how accurately that reflects the group results, we will combine methods provided by {Bell, 2005 #6574@@author-year}, {Fromm, 2003 #6430@@author-year}, {van de Kerkhof, #8433@@author-year}, {Aditomo, 2011 #6600@@author-year} and {Scholz, 2015 #7187@@author-year}. Raw participant responses are at Figure [F] below.
 
-![](RackMultipart20200525-4-g27l2h_html_7b7bde397774504e.png)
+![](RackMultipart20200603-4-egef0v_html_7b7bde397774504e.png)
 
 _Figure 13: Raw responses. Dataset 5022-1-collabtech-deid-2 -\&gt; Composite -\&gt; Display. \&lt;5022-1-collabtech-raw.rnet\&gt;_
 
@@ -269,7 +271,7 @@ _Table 4: How thematic grouping might be used to interpret survey responses._
 
 We have seen at [Figure F] how the WebGrid FOCUS clustered representation for a single grid &quot;yurungi&quot; where the high matches in responses for the _Social/goal_ and _Casual/organisation_ constructs indicate they are thought of more similarly than _LMS/Collaboration_, and at Table [T] how a researcher might interpret multiple responses in a manual thematic analysis process. Figure [F] shows a FOCUS clustered representation of all constructs provided by all participants after removing oneempty construct (_A/B_), and then two constructs that had three &quot;?&quot; ratings (_communication/file sharing_ and _learning oriented/exchange oriented_). There is one duplicate (_social media/collaborative environment)_, but the same participant rated them each differently. At the moment, that duplicate will stay in place as we can&#39;t tell which is intended and it may not matter very much in this initial phase.. The remaining 4 &quot;?&quot; ratings are treated as being at level 3=neutral for the purpose of this cluster analysis representation {Gaines, 2018 #8045}.[Shall I make the examples look a bit nicer from here on in? Changed to Lato 12, white floral bg and brighter green data – should it be larger?, example over page – deliberate temporary duplication.]
 
-![](RackMultipart20200525-4-g27l2h_html_96e6de9204de3a3.png)
+![](RackMultipart20200603-4-egef0v_html_96e6de9204de3a3.png)
 
 _Figure 14: FOCUS cluster of participant responses after empty constructs removed. Dataset 5022-1-collabtech-deid-2 -\&gt; Composite -\&gt; Focus Cluster. \&lt;5022-1-collabtech-focus.rnet\&gt;_
 
@@ -277,13 +279,13 @@ If we look to see how the participants rate constructs around _The ideal collabo
 
 We can also remove unique constructs to get more condensed data on those most similar. Taking away the &quot;standalone&quot; classifications of work collaboration/file collaboration and communication from a single participant (13, 14), one way /shared communication (18), code/easy to navigate (16), and models/communication (17), what is reflected in the graph at Figure [F]? Table [T] shows how RepGrid aligned the thematic coding based on purely quantitative data.
 
-![](RackMultipart20200525-4-g27l2h_html_347a7cc31bc7f36a.png)
+![](RackMultipart20200603-4-egef0v_html_347a7cc31bc7f36a.png)
 
 _Figure 15: FOCUS cluster of responses with single-occurrence concepts removed. Dataset 5022-1-collabtech-composite-pruned-2.rgrid -\&gt; Composite -\&gt; Focus cluster \&lt;5022-1-collabtech-focus-pruned-2.rnet\&gt;_
 
 Looking down the rows, the first cluster starts with two almost identical constructs from participant &quot;wibung&quot; (15 ,16), and subsequently &quot;binit (3,1) and &quot;budhawa&quot; (4,6), creating a subset of constructs related to document/file sharing versus chat from constructs 16 down to 6. What if we take all these out of the set as cancelling each other out? And here we can also remote the duplicates identified before, _Social media_/_Collaborative environment_ from &quot;dyaramak&quot; as it too is less relevant at this point. Figure [F] shows the result.
 
-![](RackMultipart20200525-4-g27l2h_html_746ed7620cf6e28f.png)
+![](RackMultipart20200603-4-egef0v_html_746ed7620cf6e28f.png)
 
 _Figure 16: FOCUS cluster of responses with duplicate-construct pole and ratings removed. Dataset 5022-1-collabtech-composite-pruned-3 -\&gt; Focus cluster \&lt;5022-1-collabtech-focus-pruned-3.rnet\&gt;_
 
@@ -328,7 +330,7 @@ Although not identical to the manual coding sets, this result is simpler, can be
 
 As part of a British Medical Research Council initiative in 1965, Patrick Slater developed a computerised grid analysis application that could generate two- and three-dimensional representations of both constructs and elements in spatial relationship to each other {Slater, 1965 #1795}. This form of Principal Components Analysis is also a traditional format {Bell, 2005 #6574@@author-year}, and implemented in the WebGrid/RepPlus program as the &quot;Pringrid&quot; seen at Figure [F]. As this data has been manually reviewed and clustered, then automatically clustered, reviewed and re-reviewed it has already undergone a type of component analysis. We have found patterns in the data which are identical and removed them to focus more on constructs that have different responses. But it does not mean they are unimportant to the overall analysis, so in this part of the analysis we will reinstate them. We are returning the dataset to that shown in Figure [F14] Dataset 5022-1-collabtech-deid-2 -\&gt; Composite -\&gt; Focus Cluster. \&lt;5022-1-collabtech-focus.rnet\&gt;, now represented in Figure [F] in PrinGrid format [Shaw citation here].
 
-![](RackMultipart20200525-4-g27l2h_html_2f0bfe2dd46b4d7d.png)
+![](RackMultipart20200603-4-egef0v_html_2f0bfe2dd46b4d7d.png)
 
 _Figure 18: Original dataset after empty constructs removed in PrinGrid format. Data Dataset 5022-1-collabtech-deid-2 -\&gt; Composite -\&gt; PrinGrid \&lt;5022-1-collabtech-pringrid-pruned.rnet\&gt;_
 
@@ -350,7 +352,7 @@ I know that the goal is to find correlation, eliminating the unique (in this cas
 
 - exploratory factor analysis to examine relationships between elements and constructs {Aditomo, 2011 #6600}
 
-![](RackMultipart20200525-4-g27l2h_html_d6309ccf114675d1.png)
+![](RackMultipart20200603-4-egef0v_html_d6309ccf114675d1.png)
 
 _Figure 19: Scree plot of Principal Components Analysis._
 
@@ -358,7 +360,7 @@ _Figure 19: Scree plot of Principal Components Analysis._
 
 Following {van de Kerkhof, #8433}, I counted the constructs generated, using the dataset without empty responses but (Figure [F14]) this time deleting the duplicate construct continuum _Social media/collaborative environment_ to make 23 elicited constructs across all participants. We have seen how closely some constructs resemble each other, with only slightly different wording, Again following {van de Kerkhof, #8433} I tested for construct saturation by calculating how many new constructs each participant added. As the participants completed the grid all at the same time, it is not possible to strictly assign sequence to the constructs so Figure [F] below shows new constructs by alphabetical name order. As participants were still adding one new construct at the end of the survey I can not claim we reached saturation. However, given the flattening of the graph and low number of novel constructs, with a larger set of participants and a longer survey timeframe it would be achievable.
 
-![](RackMultipart20200525-4-g27l2h_html_368e0e2bdfa904b6.gif)
+![](RackMultipart20200603-4-egef0v_html_368e0e2bdfa904b6.gif)
 
 _Figure 20: New constructs added by participant. \&lt;Constructs tab\&gt; /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/5022-S1-2019/EDPC5022-survey-data-20191116.xlsx_
 
@@ -412,13 +414,13 @@ _Table 5: Breakdown of constructs by team and originality/uniqueness._
 
 The responses fell overwhelmingly into two categories, as shown in Figure [F] below. Eleven (around 48%) of the responses construed a collaboration environment as being a document or file sharing or exchange system and not, in order, chat, social or a learning management system. The next most construed set of poles were that the environment was collaborative and not, in order, chat, social, or a learning management system. It was then seen as a work- or goal-related environment as opposed to casual or personal, then the remaining three constructs that only one person mentioned related to interface and purposeful use of the environment. This last could be loosely considered to belong to the Work/Goal-oriented construct. Looking back at Figure [F18], this mirrors the PrinGrid results, with collaboration opposite chat and social use, and document sharing opposite communication tools. This is interesting, and important, for the design of learning environments as it might indicate that collaboration is seen as primarily about documents and knowledge objects, and not about the communicative processes that underpin learning from a constructionist perspective.
 
-![](RackMultipart20200525-4-g27l2h_html_52ec0dca8bf76477.png)
+![](RackMultipart20200603-4-egef0v_html_52ec0dca8bf76477.png)
 
 _Figure 21: All constructs by topic. \&lt;Constructs\&gt; tab of EDPC5022-survey-data-20191116.xlsx in /Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Data/5022-S1-2019_
 
 {van de Kerkhof, #8433} used the least-squares method and a two-dimensional biplot to find the three most divergent visions across their dataset. We have seen the PrinGrid at Figure [F] showing all elements and all constructs, and identified that some constructs are mentioned more frequently than others. We can find deeper information using a similar biplot for our study data by selecting only two dimensions for analysis. {Fromm, 2003 #6430} makes the point about education, if we do not know the constructions that learners will find meaningful, how do we know what output to look for? In Figure [F], we cross-plot two almost identical constructs contributed by two participants, showing that they both construe collaboration environments, generally, and almost universally, to be work-related and not social. But from the previous analysis, we knew this already.
 
-![](RackMultipart20200525-4-g27l2h_html_aa2bbfc020c84d2e.png)
+![](RackMultipart20200603-4-egef0v_html_aa2bbfc020c84d2e.png)
 
 _Figure 22: Two-dimensional plot of elements on the constructs of two participants around work-social use. Data Dataset 5022-1-collabtech-composite-pruned-\&gt; Crossplot with personal-professional at x and can be casual use – organisational /work use at y-\&gt; Crossplot_
 
@@ -426,9 +428,9 @@ _Figure 22: Two-dimensional plot of elements on the constructs of two participan
 
 At Table [T5], we can see that while the participants who went on to form Teams A and B made three and two unique contributions respectively, and 7 total contributions, and another participant who did not complete the unit made 3, the participant that went on to Team C made only one unique response and one response made by both other teams (and the non-team participant). Given the sudden unavailability of the survey platform, this might simply indicate that participant took longer than others to access the survey and enter their responses. Alternatively, it might indicate the participant had difficulty construing a collaboration environment at a more nuanced level than their simple binary contributions of document exchange versus chat, and document exchange versus LMS. The frequency with which these kinds of distinctions were made shows it was difficult for all participants to generate more sophisticated constructs. Figure [F] represents the most commonly-construed elements and constructs, across all grids, as probability of similar construing between participants. The arrow from &quot;wibung&quot; (Team C) to &quot;binit&quot; (Team C) shows that the average over all the constructs in &quot;binit&quot;&#39;s grid of the matches of the best-matched constructs in &quot;wibung&quot;&#39;s grid is higher than 80%, showing that &quot;wibung&quot; should be able to understand &quot;binit&quot;&#39;s, constructions, and other arrows also show a high match with &quot;budhawa&quot; (Team B). However, it is not until we reduce the match threshold to under half that all participants have an adequate similarity of construing to be considered understandable to every participant, illustrated at Figure [F] with specific match percentages shown. This might indicate participants have differential constructs around collaboration technology within their teams. If this is the case, it might also be identified in the analysis of Data Collection 2.
 
-![](RackMultipart20200525-4-g27l2h_html_bc6c7eb05420b9cb.png)
+![](RackMultipart20200603-4-egef0v_html_bc6c7eb05420b9cb.png)
 
-![](RackMultipart20200525-4-g27l2h_html_3eed8fe4be52d515.png)
+![](RackMultipart20200603-4-egef0v_html_3eed8fe4be52d515.png)
 
 [When time permits re-do the socio but in teams, although numbers really too small]
 
@@ -617,3 +619,8 @@ Full analysis of this data has not been completed. Design decisions from this st
 | late census | impacted those in groups with non-continuing students more than others |
 | level of abstraction hard to rote learn | activities designed to build up gradually |
 | not expecting to share work | more learning [potentially] and makes it very hard to contract cheat or plagiarise [definitely] |
+
+##
+
+
+BLACK 199608077 Thesis v1 RackMultipart20200603-4-egef0v.docx29 of 31
