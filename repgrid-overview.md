@@ -20,7 +20,7 @@ On another construct continuum, though, the participant has rated **AIM** and **
 
 One way in which this data can be used is to see which elements are most similar. **Free Eudora**'s total score is 61, so it is more closely related to **Outlook Express** at 51 than, say, **Yahoo**, which with a total score of 30, is 31 points distant. The red tree is these differences normalised on a 1-100 scale, where zero representing no similarity in constructs, and 100 represents total similarity. So, for example, **Gmail** compared with an **'Ideal'** system is around 80% similarity (quite a lot), and **Gmail** compared with **Hotmail** is around 55% similarity (not a lot).
 
-It is easy to create your own grid, then view and download the results. There are examples of single and multiple grids on the [WebGridPlus](repgrid.makegroupworknotsuck.com) page and you can also create your own cache in which to compare responses. A caveat, again,  please download and save your work regularly. Remember you'll need to use the University's VPN if you are accessing [WebGridPlus](repgrid.makegroupworknotsuck.com) off the campus network.
+It is easy to create your own grid, then view and download the results. There are examples of single and multiple grids on the public [WebGridPlus](http://grid.eilab.ca/) page and you can also create your own cache in which to compare responses. A caveat, again,  please download and save your work regularly. 
 
 [1] Kelly, G. (1955). The psychology of personal constructs (1st ed. Vols. 1 and 2). New York: Norton. https://bit.ly/2Bnqip2
 
