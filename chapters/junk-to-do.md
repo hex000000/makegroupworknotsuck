@@ -1,3 +1,10 @@
+1. Re-assess all grid sets for originality
+2. Re-assess grids from 5022 and 5024 for additional characteristics, eg RC EP EI Superficial, Vague or empty.
+3. Re-shot all images with consistent look and feel
+
+
+
+
 One of the practical challenges to both students and researchers using the Repertory Grid Technique is the difficulty of large-scale comparison without installing and using the RepPlus software.
 The software is easy to install, compatible with Mac, PC, and as a Windows Server instance [RepPlus](repppa00000.shared.sydney.edu.au). The software is available to download from the [RepPlus website](https://pages.cpsc.ucalgary.ca/~gaines/repplus/markdown-4/). It is 32-bit and will not run under the newest Mac OS release 'Catalina'.
 
