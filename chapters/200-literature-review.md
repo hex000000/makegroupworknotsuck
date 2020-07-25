@@ -48,7 +48,7 @@ In each document, scan abstract first for "repertory grid", then establish setti
 
 Knowledge structures - need to address the idea of "knowledge". Shaw "Active Documents" code these as meeting support and go back to Zacklad etc. for LR chapter. In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of something else first. And all these documents are knowledge models of a sort. Shaw very much about tracking the development of collaborative semantic networks. also conversation heuristics, decision/collaboration support.
 
-In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of someting else first.
+In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of something else first.
 In my my mind I am creating an expert model in RepGrid then ABM, then animating the steps toward and distance from that model, and the way this can feed into AI. But I was thinking of something else first.
 
 
