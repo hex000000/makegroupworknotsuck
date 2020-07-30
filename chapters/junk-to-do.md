@@ -1,3 +1,6 @@
+### Because I was Learning
+I did a slightly different analysis on grid sets 1 and 2, against 3. I need to:
+
 1. Re-assess all grid sets for originality
 2. Re-assess grids from 5022 and 5024 for additional characteristics, eg RC EP EI Superficial, Vague or empty.
 3. Re-shot all images with consistent look and feel
