@@ -5,7 +5,7 @@ I did a slightly different analysis on grid sets 1 and 2, against 3. I need to:
 2. Re-assess grids from 5022 and 5024 for additional characteristics, eg RC EP EI Superficial, Vague or empty.
 3. Re-shot all images with consistent look and feel
 
-
+use RepGrid for role plays where participant roles are randomised.
 
 
 One of the practical challenges to both students and researchers using the Repertory Grid Technique is the difficulty of large-scale comparison without installing and using the RepPlus software.
