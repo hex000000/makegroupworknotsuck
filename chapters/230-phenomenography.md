@@ -51,10 +51,10 @@ This range is similar to what in Epistemic Network Analysis might term "the univ
 
 Other researchers have varied the method
 
+
 While Phenomenography is well-validated methodology with a stable research base in education, most researchers [] in this area recognise that it is difficult to conduct at scale for a number x of reasons. The first barrier is the amount of time taken to conduct the data collection and make it accessible to thematic and/or statistical manipulation. A second barrier is the nature of data collection in semi-structured interview and the complex nature of the interview record where the participants may have diverse ways of framing the question responses.
 
-
-In the current 2020 research context, meeting over Zoom and being able to automatically record and transcribe interviews will be of some assistance in this regard, and emerging technologies   
+In the current 2020 research context, meeting over Zoom and being able to automatically record and transcribe interviews will help to overcome these barriers. Emerging technologies are likely to make data capture and analysis more digitised and automated, and data representations may be available in more innovative and meaningful formats.  
 
 The theoretical similarity between phenomenography and RepGrid may have been obscured because of the frequent location of both within Psychology despite a tight connection with the foundational educational principles of John Dewey. Dewey's influence is specifically acknowledged by Kelly in relation to the "anticipatory nature of behaviour and the person's use of hypotheses in thinking" [Kelly 1955 vol1 p. 90] and reflected in Kelly's Fundamental Postulate "A person's processes are psychologically channelized [sic] by the ways in which he anticipates events". Both agreed that people experience their own realities, which are a complex system of ....
 
