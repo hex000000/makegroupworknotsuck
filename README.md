@@ -22,4 +22,4 @@ Of course, happy to adapt where necessary, thought it would be a good easy way t
 Monday 24 558
 Tuesday 25  218 (EN meltdown)
 Wed 26 EN meltdown continues, dentist in Sydney
-Thurs 27  49 + 
+Thurs 27  49 + reconnecting scoping review and making sure documentation is clear so far, found MAXQDA licence has expired so uploading documentation for student licence. 
