@@ -21,4 +21,5 @@ Of course, happy to adapt where necessary, thought it would be a good easy way t
 
 Monday 24 558
 Tuesday 25  218 (EN meltdown)
-Wed 26 EN meltdown continues
+Wed 26 EN meltdown continues, dentist in Sydney
+Thurs 27  
