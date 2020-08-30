@@ -23,4 +23,5 @@ Monday 24 558
 Tuesday 25  218 (EN meltdown)
 Wed 26 EN meltdown continues, dentist in Sydney
 Thurs 27  49 + reconnecting scoping review and making sure documentation is clear so far, found MAXQDA licence has expired so uploading documentation for student licence, fixed EN
-Fri 28 still trying to get my head into the SSR, a good opportunity to double check the data from each step so far, might as well do it now. 
+Fri 28 still trying to get my head into the SSR, a good opportunity to double check the data from each step so far, might as well do it now. Fixed MAXQDA.
+Sat 29 making sure versions of text are aligned between GH and Word.
