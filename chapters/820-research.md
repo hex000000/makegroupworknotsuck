@@ -48,7 +48,7 @@ _Image </Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Documents/0_Ch
 
 _Image </Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Documents/0_Chapters/images/data-structure-idio-spss.png>_
 
-If we look across the contemporary educational research literature, several consistent themes and paradigms can be observed. For example, 
+If we look across the contemporary educational research literature, several consistent themes and paradigms can be observed. For example,
 
 
 ### FOCUS Grid
