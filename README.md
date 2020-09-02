@@ -27,4 +27,4 @@ Fri 28 still trying to get my head into the SSR, a good opportunity to double ch
 Sat 29 making sure versions of text are aligned between GH and Word.
 Sun 30 finish making sure everything is in both places, working principally in GH for writing but it is easier formatting in Word (for me!).
 Monday 31  Tuesday 1 working through SSR part 1 making sure each step is replicable.
-Wednesday 2 single page overview for discussion on Thursday 3 (then back to SSR 1 check)
+Wednesday 2 [single page overview for discussion on Thursday 3](https://github.sydney.edu.au/crli/repgrid/blob/master/images/single-page-outline.png) (then back to SSR 1 check)
