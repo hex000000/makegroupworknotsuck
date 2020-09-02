@@ -25,3 +25,6 @@ Wed 26 EN meltdown continues, dentist in Sydney
 Thurs 27  49 + reconnecting scoping review and making sure documentation is clear so far, found MAXQDA licence has expired so uploading documentation for student licence, fixed EN
 Fri 28 still trying to get my head into the SSR, a good opportunity to double check the data from each step so far, might as well do it now. Fixed MAXQDA.
 Sat 29 making sure versions of text are aligned between GH and Word.
+Sun 30 finish making sure everything is in both places, working principally in GH for writing but it is easier formatting in Word (for me!).
+Monday 31  Tuesday 1 working through SSR part 1 making sure each step is replicable.
+Wednesday 2 single page overview for discussion on Thursday 3 (then back to SSR 1 check)
