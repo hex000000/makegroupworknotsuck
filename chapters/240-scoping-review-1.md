@@ -221,7 +221,7 @@ Table 3: Classification of search results from Stage 1. *this will be wrong as a
 | A+ | 76 | 0 | 55 | 16 | 12 | 14 | 34 |   |
 | ERIC | 205 | 14 | 191 | 53 | 8 | 4 | 126* | 189 text + 16 multimedia initial search; duplicates 10 (vT) + 4 (BW) |
 | PSYCINFO | 957 | 1 | 197 | 50 | 12 | 9 | 885 | 1 dup was an incorrect citation |
-| JSTOR | 266 | 0 | 74 | 10 | 0 | 1 | 255 |   |
+| JSTOR | 266 | 0 | 74 | 09 | 0 | 1 | 255 |   |
 | WOK | 165 | 0 | 43 | 5 | 0 | 6 | 154 |   |
 | RepPlus site | 197 | 1 | 46 | 13 | 0 | 0 | 183 |   |
 | Markdown page | 49 | 2 |   | not done | need EN tidy-up, will be lots of dups to other RepPlus docs - leave until last | 1 duplicate+ 1 Carol tutorial not file, just HTML folder |
@@ -267,7 +267,7 @@ JSTOR contains full-text of major academic journals and scholarly literature fro
 
 #### Web of Science (WOK)
 
-The Web of Knowledge portal hosts _Web of Science, Current Contents Connect, BIOSIS Previews, CAB Abstracts, MEDLINE_, and via the Additional Resources tab, _Journal Citation Reports_. Its CrossSearch feature enables a &quot;quick overview&quot; search of these databases and also searches _Agricola_ and _Pubmed_ {Clarivate, 2020 #8509}. While it does allow refinement by category, as there are only 165 papers returned from the search of 71,985,608 I will manually check those as there appears to be only 1 or two in each category so it would take me more time to individually select up to 153 checkboxes.  [image WoK-analysis-1-noabstracts.png versus categories]. Of those 165, 65 had no abstract. I experimented with a different exclusion approach for this dataset, excluding 43 of those 65 before locating the full-text of the remaining 22.
+The Web of Knowledge portal hosts _Web of Science, Current Contents Connect, BIOSIS Previews, CAB Abstracts, MEDLINE_, and via the Additional Resources tab, _Journal Citation Reports_. Its CrossSearch feature enables a &quot;quick overview&quot; search of these databases and also searches _Agricola_ and _Pubmed_ {Clarivate, 2020 #8509}. While it does allow refinement by category, as there are only 165 papers returned from the search of 71,985,608 I will manually check those as there appears to be only 1 or two in each category so it would take me more time to individually select up to 153 checkboxes.  [image WoK-analysis-1-noabstracts.png versus categories]. Of those 165, 60 had no abstract. As locating full-text versions had proved to be extremely time-consuming, for this dataset I did it differently. I manually reviewed the titles (or the full-text if available) of those without an abstract and on this basis, excluded two relating to parenting, five to therapy, nine to clinical contexts, 11 book reviews, and two about adult education, a total of 29. At the same time, if it was likely the study was in HE or I didn't know, I located the full-text where possible. I then ran the lexical search on both the RIS and the full-text, returning 36 results. In only one case were both RIS and full-text both coded, showing that a surface review of these documents is not always sufficient for certainty. Of the 36 found, eight are HE with full text, 2 without full-text and 6 needing full-text to establish context. ENL <https://www.dropbox.com/sh/3a2nsjcnmk4qguk/AABnmJt-XKILfT84JjqkmtWaa?dl=0>.
 
 #### PsycINFO
 

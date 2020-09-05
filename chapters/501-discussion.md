@@ -92,3 +92,7 @@ RepGrid as a predictor of performance at individual &amp; group level
  - were their constructs derivative of role titles
  - did they generate many constructs?
  = is there a relationship between any of these on task performance (as rated by instructor and as discussed by others in team).
+
+
+Re-do anlaysis through phenomenographic lens.
+Remember to discuss the utility of RepGrid + phenomenography as suited to culturally secure environments, overcoming traditional barriers to the voice of those researched and giving them ownership of their ideas in language.

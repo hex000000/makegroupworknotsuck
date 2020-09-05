@@ -1,7 +1,7 @@
 # Methodology
 ## Using MAXQDA for a systematic scoping review
 
-Using a Qualitative Data Analysis application along with a bibliographic database means that a single source set of data can be collected and categorised in a way that preserves the connection between bibliographic record and full text, while at the same time allowing both qualitiative and quantitative data analysis of document variables and user-added or automatic coding.
+Using a Qualitative Data Analysis application along with a bibliographic database means that a single source set of data can be collected and categorised in a way that preserves the connection between bibliographic record and full text, while at the same time allowing both qualitative and quantitative data analysis of document variables and user-added or automatic coding.
 
 As the systematic aspect of the review should be replicable {Arksey, 2005 #7;Peters, 2015 #5}, keeping each set of documents separate during the early stages of the process allows repeat review. This is more likely in a scoping review as iterative refinement of protocol occurs {Peters, 2015 #5}, when the full range of data is not  initially known {Arksey, 2005 #7;Peters, 2015 #5}.
 
