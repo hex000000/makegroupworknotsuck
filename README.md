@@ -18,13 +18,10 @@ Update Tuesday 18 August
 Of course, happy to adapt where necessary, thought it would be a good easy way to check progress / ask questions.
 
 ** Something that I think is very interesting in the phenomenographic approach is the idea that phenomenographic categories of description are hierarchical. And finite. Does this mean RepGrid could model all possible ways of understanding a concept as a hierarchy and use that model to dynamically develop scaffolds or do something useful with Learning Analytics, or, better, find ways of varying the inputs to create brand new models (loving Marton's variation theory)  **
+--
 
-Monday 24 558
-Tuesday 25  218 (EN meltdown)
-Wed 26 EN meltdown continues, dentist in Sydney
-Thurs 27  49 + reconnecting scoping review and making sure documentation is clear so far, found MAXQDA licence has expired so uploading documentation for student licence, fixed EN
-Fri 28 still trying to get my head into the SSR, a good opportunity to double check the data from each step so far, might as well do it now. Fixed MAXQDA.
-Sat 29 making sure versions of text are aligned between GH and Word.
-Sun 30 finish making sure everything is in both places, working principally in GH for writing but it is easier formatting in Word (for me!).
-Monday 31  Tuesday 1 working through SSR part 1 making sure each step is replicable.
-Wednesday 2 [single page overview for discussion on Thursday 3](https://github.sydney.edu.au/crli/repgrid/blob/master/images/single-page-outline.png) (then back to SSR 1 check)
+Week beginning Monday 7 - up to PSYCinfo in checking my SSR data.
+--
+
+
+ [single page overview for discussion on Thursday 3](https://github.sydney.edu.au/crli/repgrid/blob/master/images/single-page-outline.png)
