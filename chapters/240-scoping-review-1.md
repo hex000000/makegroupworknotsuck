@@ -119,7 +119,10 @@ Table 1: Search Stage 1 sequence, parameters and records returned.
 | --- | --- | --- | --- | --- | --- |
 | 1 | A+ | 12:16 | 28/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; OR FULL = Repertory grid technique&quot;; no limiters | 76 |
 | 2 | ERIC | 12:48 | 28/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; OR FULL = Repertory grid technique&quot;; no limiters | 205 |
-| 3 | PSYCINFO | 13:41 | 28/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; OR FULL = Repertory grid technique&quot;; no limiters | 1515 |
+| 3 | 
+
+
+NFO | 13:41 | 28/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; OR FULL = Repertory grid technique&quot;; no limiters | 1515 |
 | 4 | PSYCINFO 2 | 13:41 | 28/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; | 957 |
 | 5 | JSTOR | 14:46 | 29/9/19 | TI = &quot;repertory grid&quot; OR AB = &quot;repertory grid&quot; OR FULL = Repertory grid technique&quot;; no limiters
 
@@ -286,7 +289,7 @@ With these large datasets, there is an increased risk of missing documents becau
 Another issue with large datasets is with file size and stability, which change in inverse proportion. I am managing this balance by dealing with each database as a separate dataset until Stage 1 is finished. This does have its own limitations, for example, the PSYCINFO analysis file crashed repeatedly, and a change in the MAXQDA2020 software mean that the search had to be repeated but the way in which records were accessed and linked was different, which meant I could not salvage the original coding. This is something which is representative of the ongoing change we find in our teaching and research environments and which must be able to be managed transparently.  
 
 
-Of the 164 records that were found in the lexical search, 28 were PDF versions of the RIS files identified, leaving 136. Of these, 
+Of the 164 records that were found in the lexical search, 29 were PDF versions of the RIS files identified, leaving 135. Of these, 
 
 
 #### Scopus
