@@ -9,6 +9,8 @@ use RepGrid for role plays where participant roles are randomised.
 
 ATSI cultural security in languages
 
+as doing RepGrid will extend the range of convenience for the participants, it is almost guaranteed to create new knowledge, better, also from a Martonian variation point of view, make the participant more discerning in their analysis of and able to respond more creatively and effectively in future encounters. 
+
 SSR RepPlus Shaw Gaines make steps for combining datasets clear when review.
 
 ---

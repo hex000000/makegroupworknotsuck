@@ -17,11 +17,12 @@ Update Tuesday 18 August
 
 Of course, happy to adapt where necessary, thought it would be a good easy way to check progress / ask questions.
 
-** Something that I think is very interesting in the phenomenographic approach is the idea that phenomenographic categories of description are hierarchical. And finite. Does this mean RepGrid could model all possible ways of understanding a concept as a hierarchy and use that model to dynamically develop scaffolds or do something useful with Learning Analytics, or, better, find ways of varying the inputs to create brand new models (loving Marton's variation theory)  **
---
+* Something that I think is very interesting in the phenomenographic approach is the idea that phenomenographic categories of description are hierarchical. And finite. Does this mean RepGrid could model all possible ways of understanding a concept as a hierarchy and use that model to dynamically develop scaffolds or do something useful with Learning Analytics, or, better, find ways of varying the inputs to create brand new models (loving Marton's variation theory)  *
 
-Week beginning Monday 7 - up to PSYCinfo in checking my SSR data.
---
+
+Week beginning Monday 7 - up to PSYCinfo in checking my SSR data. on-Tues bogged down a bit with crashing database searches and restores. 
+
+
 
 
  [single page overview for discussion on Thursday 3](https://github.sydney.edu.au/crli/repgrid/blob/master/images/single-page-outline.png)
