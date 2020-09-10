@@ -20,7 +20,9 @@ Of course, happy to adapt where necessary, thought it would be a good easy way t
 * Something that I think is very interesting in the phenomenographic approach is the idea that phenomenographic categories of description are hierarchical. And finite. Does this mean RepGrid could model all possible ways of understanding a concept as a hierarchy and use that model to dynamically develop scaffolds or do something useful with Learning Analytics, or, better, find ways of varying the inputs to create brand new models (loving Marton's variation theory)  *
 
 
-Week beginning Monday 7 - up to PSYCinfo in checking my SSR data. Tues-Wednesday AARGH one missing file means a whole day with hour-long exports and bonus crashing. Better now than later I guess. 
+Week beginning Monday 7 - up to PSYCinfo in checking my SSR data. Tues-Wednesday AARGH one missing file means a whole day with hour-long exports and bonus crashing. Better now than later I guess.
+
+Thursday QA PQ output. I realise the reason my MX files are bloated are because of the auto-keywords  
 
 
 
