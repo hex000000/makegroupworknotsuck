@@ -22,7 +22,7 @@ Of course, happy to adapt where necessary, thought it would be a good easy way t
 
 Week beginning Monday 7 - up to PSYCinfo in checking my SSR data. Tues-Wednesday AARGH one missing file means a whole day with hour-long exports and bonus crashing. Better now than later I guess.
 
-Thursday QA PQ output. I realise the reason my MX files are bloated are because of the auto-keywords  
+Thursday QA PQ output. I realise the reason my MX files are bloated are because of the auto-keywords.  
 
 
 
