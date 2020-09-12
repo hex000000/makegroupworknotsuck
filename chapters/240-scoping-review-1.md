@@ -343,9 +343,8 @@ Table 4: Parameters used to refine the Scopus search output.
 | Veterinary (1) | N |
 | Undefined | Y |
 
- Of the 1946 documents, five were duplicates, leaving 1941 of which the lexical search identified 1029 as potentially relevant. Of these, 176 lacked abstracts so I downloaded full-texts of those where possible. 
+ Of the 1946 documents, six were duplicates, leaving 1940 of which the lexical search identified 1029 as potentially relevant (I will need to set this group up in EN later - I have to merge two ENLS and it will take some time.). Of these, 176 lacked abstracts so I downloaded full-texts of those where possible. 
 
-For some reason {Macbryde, 2003 #1940} does not appear in the TB EN despite in the the Scopus EN so must have been accidentally deleted, and
 
 #### Trip
 
