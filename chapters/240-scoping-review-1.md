@@ -343,6 +343,10 @@ Table 4: Parameters used to refine the Scopus search output.
 | Veterinary (1) | N |
 | Undefined | Y |
 
+ Of the 1946 documents, five were duplicates, leaving 1941 of which the lexical search identified 1029 as potentially relevant. Of these, 176 lacked abstracts so I downloaded full-texts of those where possible. 
+
+For some reason {Macbryde, 2003 #1940} does not appear in the TB EN despite in the the Scopus EN so must have been accidentally deleted, and
+
 #### Trip
 
 Trip is a clinical search engine designed to allow users to quickly and easily find and use high-quality research evidence to support their practice and/or care, searching across content types including images, videos, patient information leaflets, educational courses and news {Trip Database Ltd., 2020 #8505}. As only 33 results were returned I hand-searched them for relevance, finding only one in a higher education context.
