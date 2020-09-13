@@ -217,27 +217,26 @@ All lexical searches were conducted across both RIS and full-text versions where
 
 A summary of the results appears at Table 3: Classification of search results from Stage 1. More detail about the specific approach to and challenges around each search locus follows.
 
-Table 3: Classification of search results from Stage 1. *this will be wrong as auto-adds in Word but not Atom - redo-totals when do diagram.
+Table 3: Classification of search results from Stage 1.
 
-| Database | Database search | Duplicates | Lex Search | HE with full-text | HE needing full-text | Full-text needed to see if HE | Initally excluded stupid parameter for this kind of search | Comments |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A+ | 76 | 0 | 55 | 16 | 12 | 14 | 34 |   |
-| ERIC | 205 | 14 | 191 | 53 | 8 | 4 | 126* | 189 text + 16 multimedia initial search; duplicates 10 (vT) + 4 (BW) |
-| PsycINFO | 957 | 1 | 197 | 50 | 12 | 9 | 885 | 1 dup was an incorrect citation |
-| JSTOR | 266 | 0 | 74 | 09 | 0 | 1 | 255 |   |
-| WOK | 165 | 0 | 43 | 5 | 0 | 6 | 154 |   |
-| RepPlus site | 197 | 1 | 46 | 13 | 0 | 0 | 183 |   |
-| Markdown page | 49 | 2 |   | not done | need EN tidy-up, will be lots of dups to other RepPlus docs - leave until last | 1 duplicate+ 1 Carol tutorial not file, just HTML folder |
-| Boose | 28 | 0 |   | not done | leave until second-last |   |   |   |
-| Epistemonikos | 9 | 0 | 4 | 0 | 0 | 0 | 5 |   |
-| Cochrane Library | 17 | 0 | 0 | 0 | 0 | 0 | 17 |   |
-| ProQuest | 603 | 7 | 188 | 27 | 1 | 2 | 408 |   |
-| Scopus | 1946 | 3 | 1304 | 118 | 118 | 56 | 639 |   |
-| Trip | 33 | 1 |   | 1 | 0 | 0 | 32 | hand-searched as small number of documents |
-| Trove | 59 | 3 |   | 2 | 0 | 14 |   |   |
-| YouTube | 37 | 0 |   | 0 | 0 | 0 |   | while there are some aimed at students, none report RepGrid as a tool for HE |
-| **Totals** | **4647** | **32** | **1971** | **293** | **150** | **110** | **2737** |   |
-
+| Database                                     | Database search | Duplicates | Lex Search | HE with full-text | HE needing full-text | Full-text needed to see if HE | Initally excluded stupid parameter for this kind of search |
+|----------------------------------------------|-----------------|------------|------------|-------------------|----------------------|-------------------------------|------------------------------------------------------------|
+| A+                                           | 76              | 0          | 55         | 16                | 12                   | 14                            | 34                                                         |
+| ERIC                                         | 205             | 14         | 60         | 53                | 8                    | 4                             | 126                                                        |
+| PSYCINFO                                     | 957             | 1          | 198        | 43                | 20                   | 11                            | 882                                                        |
+| JSTOR                                        | 266             | 0          | 71         | 9                 | 0                    | 1                             | 256                                                        |
+| WOK                                          | 165             | 2          | 35         | 8                 | 2                    | 6                             | 147                                                        |
+| Gaines-Shaw-RepPlus                          | 197             | 1          | 46         | 13                | 0                    | 0                             | 183                                                        |
+| Boose/Bradshaw Knowledge Acquisition Reports | 28              | 0          | 1          | 0                 | 0                    | 0                             | 28                                                         |
+| Epistemonikos                                | 9               | 0          | 4          | 0                 | 0                    | 0                             | 9                                                          |
+| Cochrane Library                             | 17              | 0          | 0          | 0                 | 0                    | 0                             | 17                                                         |
+| PROSPERO                                     | 2               | 0          | 0          | 0                 | 0                    | 0                             | 2                                                          |
+| ProQuest                                     | 603             | 7          | 188        | 36                | 2                    | 15                            | 408                                                        |
+| Scopus                                       | 1946            | 5          | 1029       | 98                | 83                   | 167                           | 912                                                        |
+| Trip                                         | 33              | 1          |            | 1                 | 0                    | 0                             | 32                                                         |
+| Trove                                        | 59              | 3          |            | 2                 | 0                    | 12                            | 56                                                         |
+| YouTube                                      | 37              | 0          |            | 0                 | 0                    | 0                             | 37                                                         |
+| Totals                                       | 4600            | 34         | 1687       | 279               | 127                  | 230                           | 3129                                                       |
 
 
 #### A+ Education
@@ -361,7 +360,7 @@ Libraries Australia is a resource sharing service managed by the National Librar
 
 I used a similar strategy on the Trove search platform to locate books which might feature RGT in a higher education setting. Search parameters were &quot;Title&quot; all the words &quot;repertory grid&quot;, &quot;Keyword&quot; all the words &quot;repertory grid&quot;. 59 results containing 3 duplicates, a report about which no other information is accessible (&quot;1978, English, Article, Report edition: Repertory grid manual / Marie Walton, Pat Wilson, Harry Pickett. Walton, Marie.&quot;) and two references to videos about using it in performance appraisal which appear to be duplicates and also inaccessible (&quot;1988-1990, English, Video edition: Repertory grid in performance appraisal [videorecording].&quot; and &quot;1980-1990, English, Video edition: Repertory grid in performance appraisal [videorecording].&quot;.
 
-No book had an abstract, so initial exclusion was done on the basis of title alone. Three documents were duplicates, 2 documents were in a higher education context for which I have full-text, and 12 documents potentially meet the criteria, but require full-text to be certain. Unfortunately, of these, at least six are theses and may not be readily available. https://www.dropbox.com/sh/utu7qylv4as7npr/AAB_VTG3hepvGzUaxSSup8Lqa?dl=0
+No book had an abstract, so initial exclusion was done on the basis of title alone. Three documents were duplicates, 2 documents were in a higher education context for which I have full-text, and 12 documents potentially meet the criteria, but require full-text to be certain. Unfortunately, of these, at least six are theses and may not be readily available. <https://www.dropbox.com/sh/utu7qylv4as7npr/AAB_VTG3hepvGzUaxSSup8Lqa?dl=0>.
 
 #### YouTube
 
