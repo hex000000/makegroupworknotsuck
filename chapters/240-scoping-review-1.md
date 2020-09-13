@@ -343,12 +343,17 @@ Table 4: Parameters used to refine the Scopus search output.
 | Veterinary (1) | N |
 | Undefined | Y |
 
- Of the 1946 documents, six were duplicates, leaving 1940 of which the lexical search identified 1029 as potentially relevant (I will need to set this group up in EN later - I have to merge two ENLS and it will take some time.). Of these, 176 lacked abstracts so I downloaded full-texts of those where possible. 
+ Of the 1946 documents, five were duplicates, leaving 1941. Running the lexical search (lex-search-4) across RIS only returned 1031 results and both RIS and full-text returned 1404 results, too large a dataset for the software to code without crashing. ( think this is actually a corrupt PDF) and too large for the scope of this review. I created a word cloud
+
+ ![Screen Shot 2020-09-13 at 12.27.03 pm](/assets/Screen%20Shot%202020-09-13%20at%2012.27.03%20pm_7gis4699o.png)
+
+ from the title text contained in the RIS documents to see how I could exclude less relevant studies at scale. I then refined the word cloud to ignore less relevant words by creating an extra stoplist (https://www.dropbox.com/s/gpv86og7bsv8jb4/stopwords-to-refine-word-cloud-scopus.txt?dl=0). I added words containing between one and three and between 19-56 letters to the stoplist![Word Cloud lex-search-4-RIS-scopus-2](/assets/Word%20Cloud%20lex-search-4-RIS-scopus-2.png). When I re-created the cloud, I could see that clinical and psychotherapy studies were represented more than necessary for my research purposes. I created a new lex-search-5 which used wildcard partials to rule out a range of therapeutic contexts <Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/tables for documentation/lex-searches.xlsx>. Using this search on RIS fields only returned 1029 documents; of these, 176 lacked abstracts so I downloaded full-texts of those where possible. Reviewing these documents found 98 set in Higher Education with full-text, 83 Higher Ed needing full-text, and 167 needing full-text to establish context.  
+(I will need to set groups up in Scopuss EN later - I have to merge two ENLS and it will take some time.).
 
 
 #### Trip
 
-Trip is a clinical search engine designed to allow users to quickly and easily find and use high-quality research evidence to support their practice and/or care, searching across content types including images, videos, patient information leaflets, educational courses and news {Trip Database Ltd., 2020 #8505}. As only 33 results were returned I hand-searched them for relevance, finding only one in a higher education context.
+Trip is a clinical search engine designed to allow users to quickly and easily find and use high-quality research evidence to support their practice and/or care, searching across content types including images, videos, patient information leaflets, educational courses and news {Trip Database Ltd., 2020 #8505}. As only 33 results were returned I hand-searched them for relevance, finding only one in a higher education context, for which I have full-text. ENL at <https://www.dropbox.com/sh/36kzfw9fnf3i19r/AAAgN88WHr_DpTRQ6SkiaaHta?dl=0>.
 
 #### Libraries Australia / Trove
 
@@ -356,23 +361,15 @@ Libraries Australia is a resource sharing service managed by the National Librar
 
 I used a similar strategy on the Trove search platform to locate books which might feature RGT in a higher education setting. Search parameters were &quot;Title&quot; all the words &quot;repertory grid&quot;, &quot;Keyword&quot; all the words &quot;repertory grid&quot;. 59 results containing 3 duplicates, a report about which no other information is accessible (&quot;1978, English, Article, Report edition: Repertory grid manual / Marie Walton, Pat Wilson, Harry Pickett. Walton, Marie.&quot;) and two references to videos about using it in performance appraisal which appear to be duplicates and also inaccessible (&quot;1988-1990, English, Video edition: Repertory grid in performance appraisal [videorecording].&quot; and &quot;1980-1990, English, Video edition: Repertory grid in performance appraisal [videorecording].&quot;.
 
-No book had an abstract, so initial exclusion was done on the basis of title alone. 2 documents were in a higher education context, and 12 documents potentially meet the criteria. Unfortunately, of these, at least six are theses and may not be readily available.
+No book had an abstract, so initial exclusion was done on the basis of title alone. Three documents were duplicates, 2 documents were in a higher education context for which I have full-text, and 12 documents potentially meet the criteria, but require full-text to be certain. Unfortunately, of these, at least six are theses and may not be readily available. https://www.dropbox.com/sh/utu7qylv4as7npr/AAB_VTG3hepvGzUaxSSup8Lqa?dl=0
 
 #### YouTube
 
-A search of YouTube for &quot;repertory grid&quot; (without quotes) returned only 37 results, with no duplicates. While videos covered the Repertory Gri and Personal Construct Psychology in general and as a knowledge acquisition and human relations tool, there were no uses as a pedagogical technique.
-
-#### RepPlus CPCS/KSI/KSS/KAW Reports
-
-Not lex searched yet, but from memory only one or two in HE.
+A search of YouTube for &quot;repertory grid&quot; (without quotes) returned only 37 results, with no duplicates. While videos covered the Repertory Grid and Personal Construct Psychology in general and as a knowledge acquisition and human relations tool, there were no uses as a pedagogical technique. The list of YouTube URLs is available in Appendix [A].
 
 #### RepPlus Boose/Bradshaw Knowledge Acquisition Reports
 
-Not lex searched yet, but from memory none in HE.
-
-#### RepPlus &amp; WebGridPlus
-
-Not tidied in EN yet.
+The Repertory Grid Technique has been widely used in knowledge acquisition context, with the RepPlus website listing many publications that reference this. Of the 28 documents listed in this source, only one was returned by lexical search, which was not in a higher education context. For the papers on knowledge acquisition, the ENL is at <https://www.dropbox.com/sh/0vkixa9vkn7c45a/AABiqK67zGY7z2g-Li2LeijFa?dl=0>.
 
 ### Summary of Search Stage 1
 
@@ -382,4 +379,4 @@ Table 5: Records requiring further review in Search Stage 2.
 
 | HE with full-text | HE needing full-text | Full-text needed to see if HE |
 | --- | --- | --- |
-| 297 | 150 | 110 |
+| 297 | 127 | 230 |
