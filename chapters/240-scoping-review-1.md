@@ -231,8 +231,8 @@ Table 3: Classification of search results from Stage 1.
 | Epistemonikos                                | 9               | 0          | 4          | 0                 | 0                    | 0                             | 9                                                          |
 | Cochrane Library                             | 17              | 0          | 0          | 0                 | 0                    | 0                             | 17                                                         |
 | PROSPERO                                     | 2               | 0          | 0          | 0                 | 0                    | 0                             | 2                                                          |
-| ProQuest                                     | 603             | 7          | 188        | 36                | 2                    | 15                            | 408                                                        |
-| Scopus                                       | 1946            | 5          | 1029       | 98                | 83                   | 167                           | 912                                                        |
+| ProQuest                                     | 603             | 7          | 188        | 37                | 2                    | 15                            | 408                                                        |
+| Scopus                                       | 1946            | 5          | 1029       | 98                | 83                   | 69                           | 912                                                        |
 | Trip                                         | 33              | 1          |            | 1                 | 0                    | 0                             | 32                                                         |
 | Trove                                        | 59              | 3          |            | 2                 | 0                    | 12                            | 56                                                         |
 | YouTube                                      | 37              | 0          |            | 0                 | 0                    | 0                             | 37                                                         |
@@ -295,7 +295,7 @@ On comparing those 73 records with my coding based on lexical searches,
 (a) two records I had flagged as HE FTR {, 2001 #7471},{Diamond, 1989 #7580} were not picked up by the QA search.
 (a) I had already excluded two of the fourteen records identified as needing full-text to establish context that I had not identified; which, again, may be present in other search results </Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Documents/0_Chapters/250_SSR/PQ-compare-my-result-with-QA.xlsx - should I add this to Appendix?>.**
 
-In total, 36 coded as higher education with full-text, two higher education needing full-text, and 15 needing full-text for context (three found by me and 12 by the QA search), with ENL at <https://www.dropbox.com/sh/8a55g315bf49aac/AAAVHjyHC2I4u4iYMJ2GV_Tha?dl=0>.
+In total, 37 coded as higher education with full-text, two higher education needing full-text, and 15 needing full-text for context (three found by me and 12 by the QA search), with ENL at <https://www.dropbox.com/sh/8a55g315bf49aac/AAAVHjyHC2I4u4iYMJ2GV_Tha?dl=0>.
 
 *check against other results later*
 
@@ -346,7 +346,7 @@ Table 4: Parameters used to refine the Scopus search output.
 
  ![Screen Shot 2020-09-13 at 12.27.03 pm](/assets/Screen%20Shot%202020-09-13%20at%2012.27.03%20pm_7gis4699o.png)
 
- from the title text contained in the RIS documents to see how I could exclude less relevant studies at scale. I then refined the word cloud to ignore less relevant words by creating an extra stoplist (https://www.dropbox.com/s/gpv86og7bsv8jb4/stopwords-to-refine-word-cloud-scopus.txt?dl=0). I added words containing between one and three and between 19-56 letters to the stoplist![Word Cloud lex-search-4-RIS-scopus-2](/assets/Word%20Cloud%20lex-search-4-RIS-scopus-2.png). When I re-created the cloud, I could see that clinical and psychotherapy studies were represented more than necessary for my research purposes. I created a new lex-search-5 which used wildcard partials to rule out a range of therapeutic contexts <Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/tables for documentation/lex-searches.xlsx>. Using this search on RIS fields only returned 1029 documents; of these, 176 lacked abstracts so I downloaded full-texts of those where possible. Reviewing these documents found 98 set in Higher Education with full-text, 83 Higher Ed needing full-text, and 167 needing full-text to establish context.  
+ from the title text contained in the RIS documents to see how I could exclude less relevant studies at scale. I then refined the word cloud to ignore less relevant words by creating an extra stoplist (https://www.dropbox.com/s/gpv86og7bsv8jb4/stopwords-to-refine-word-cloud-scopus.txt?dl=0). I added words containing between one and three and between 19-56 letters to the stoplist![Word Cloud lex-search-4-RIS-scopus-2](/assets/Word%20Cloud%20lex-search-4-RIS-scopus-2.png). When I re-created the cloud, I could see that clinical and psychotherapy studies were represented more than necessary for my research purposes. I created a new lex-search-5 which used wildcard partials to rule out a range of therapeutic contexts <Users/eb/Dropbox/Documents/-Fed/Termites-and-Butterflies/Command Files/tables for documentation/lex-searches.xlsx>. Using this search on RIS fields only returned 1029 documents; of these, 176 lacked abstracts so I downloaded full-texts of those where possible. Reviewing these documents found 98 set in Higher Education with full-text, 83 Higher Ed needing full-text, and 69 needing full-text to establish context.  
 (I will need to set groups up in Scopuss EN later - I have to merge two ENLS and it will take some time.).
 
 
@@ -378,4 +378,4 @@ Table 5: Records requiring further review in Search Stage 2.
 
 | HE with full-text | HE needing full-text | Full-text needed to see if HE |
 | --- | --- | --- |
-| 297 | 127 | 230 |
+| 280 | 127 | 132 |
