@@ -18,11 +18,10 @@ Update Tuesday 18 August
 Of course, happy to adapt where necessary, thought it would be a good easy way to check progress / ask questions.
 
 * Something that I think is very interesting in the phenomenographic approach is the idea that phenomenographic categories of description are hierarchical. And finite. Does this mean RepGrid could model all possible ways of understanding a concept as a hierarchy and use that model to dynamically develop scaffolds or do something useful with Learning Analytics, or, better, find ways of varying the inputs to create brand new models (loving Marton's variation theory)  *
+Monday 14
+[Part 1 SSR complete draft](https://github.sydney.edu.au/crli/repgrid/blob/master/chapters/240-scoping-review-1.md) (unformatted citations, not all images final versions or displaying in text, very rambling at the moment so language needs a lot of tightening up).
+At some point I will need to move more finished bits from GH to Word as it is faster for me to edit in Word. But for now, GH.
 
-
-Week beginning Monday 7 - up to PSYCinfo in checking my SSR data. Tues-Wednesday AARGH one missing file means a whole day with hour-long exports and bonus crashing. Better now than later I guess.
-
-Thursday QA PQ output. I realise the reason my MX files are bloated are because of the auto-keywords.  
 
 
 
