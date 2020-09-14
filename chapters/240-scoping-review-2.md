@@ -55,8 +55,26 @@ Table 6: Lexical search parameters for the narrower document set.
 |   | depression |
 |   | trial |
 
+But before this it would be good to exclude any which can now be eliminated now full-text has been acquired, or those which are no longer included because of the narrowing of scope.
 
-But before this it wold be good to exclude any which can now be eliminated now full-text has been acquired, or those which are no longer included because of the narrowing of scope.
+#### Duplicates across data sets.
+In Stage 1, in order to keep as much metadata as possible from the original database searches, duplicates were only identified and removed within the database set, with the record containing most details being retained. Searching the aggregated datasets is likely to reveal more duplicates that can be eliminated at this stage. As the record numbers are in the hundreds rather than thousands, a manual search is feasible.
+
+##### Notable Duplicates -> this should be a table. -> in an Appendix [A].
+{Bezzi, 1999 #1732} (_Science Education_) was in the dataset and returned in my searches across WOK, Scopus, ERIC, PsycINFO and ProQuest. {Bloxham, 2016 #2257} (_Assessment and Evaluation in Higher Education_) was in ERIC,Scopus, PsycINFO and ProQuest datsets, and returned in my searches in Scopus and ProQuest, as well as the QA search in PQ. {Corporaal, 1991 #3540} (_Teaching and Teacher Education_) was found in PsycINFO, ERIC and Scopus, with a differently formatted author name and title for each record, and found by my search in all three. {Derry, 1998 #7699} (_American Educational Research Journal_) was returned by ERIC, PsycINFO, Scopus, JSTOR and ProQuest, and identified as HE in all five. {Keynan, 2014 #1674} (_Studies in Educational Evaluaation_) was found in both WOK and Scopus; {Kreber, 2013 #2463} (_Higher Education_), in ERIC, JSTOR Scopus, ProQuest, only unfound in Scopus. {Lallemand, 2017 #1649} (_Interaction Design and Architecture_) in Scopus and WOK and found in both, {Liu, 2005 #641} (_British Journal of Educational Technology_) in ERIC and PsycINFO, found in both; {Lown, 2009 #559} (_Advances in Health Sciences Education), ERIC, PsycINFO, Scopus and ProQuest; found in all (disclaimer, re-check that sheet because even tho it was HE on the HE sheet and it had FT it wasn't on the pasted list but easily could be accidental deletion).
+{Madill, 2005 #8496} (_Social Science and Medicine_); Scopus, TRIP & PQ all found.
+{Martin, 2000 #86} (_International Research in Geographical and Environmental Education_); A+, Scopus, both.
+{Mayo, 2004 #652} (_Teaching of Psychology_); ERIC, PsycINFO, Scopus, PQ; all found.
+{Robertson, 1981 #1183} (_Studies in Higher Education_); ERIC, Scopus, PsycINFO, all found.
+{Salmon, 1993 #734} (_School Psychology Quarterly_); ERIC, PsycINFO; both found.
+{Shaw, 1979 #337} (_bjet_); ERIC, Scopus; both found.
+{Solas, 1990 #3568} (_Journal of Social Work Education_); ERIC, JSTOR, Scopus; WHERE IS THE SCOPUS ONE!
+
+
+*so the point is that all the occurrences of these documents within the originally downloaded database outputs were found by search when compared with original output*
+
+
+
 
 ## Full-text in/out
 
