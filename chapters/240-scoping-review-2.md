@@ -80,11 +80,40 @@ While this method for review has the advantage of speed, it is also limited in t
 ![Screen Shot 2020-09-15 at 11.13.43 am](/assets/Screen%20Shot%202020-09-15%20at%2011.13.43%20am.png)
 (this should probably just be a table but this might be the time to introduce colour as it's wordy so far!)
 
-In a scoping review of this nature, it is not practical at this point to find and reconcile each of these differences, but to note that they may be relevant to additional search when our final analysis set is determined. The location of all occurrences of those papers present in the original database output and their coding as relevant across all datasets in which they are represented indicates that my search processes are reasonably likely to include most documents of interest. 
+In a scoping review of this nature, it is not practical at this point to find and reconcile each of these differences, but to note that they may be relevant to additional search when our final analysis set is determined. The location of all occurrences of those papers present in the original database output and their coding as relevant across all datasets in which they are represented indicates that my search processes are reasonably likely to include most documents of interest.
+[I realise there is too much detail about full-texts in the process and I think I will remove it once the draft is complete]
 
 ## Full-text in/out
 
 At the beginning of Stage 2, an audit was done of those full-texts which were accessible, with a view to excluding those not yet acquired, or those which can be assessed as not meeting the search criteria by manual review.
+- do I have full-text?
+- have i tried to get it?
+- what happened?
+- did I copy relevant data?
+
+First - new FTR list from check sheet
+1. sort by author to see multiples,  Manual color code dups
+2. filter to show only dups,
+3. check each entry that has FT has full-text in TB, if not, check in DB
+4. Add all f-t to TB First
+5. filter only FT
+6. sort by db
+7. all FT is in TB
+8. now need FTRs
+9. all HE FTR identified
+10. now vanilla FTRs
+11. so if an FTR is the same as a HE FTR with has, FTRNLR, else FTRs
+12. look for sames first, then review otehrs in TB
+13. 
+
+
+While it says I have FT of O'Hare 7 Gordon 1976 no has.
+[Screen Shot 2020-09-15 at 8.29.39 pm](/assets/Screen%20Shot%202020-09-15%20at%208.29.39%20pm.png)
+
+For each FTR, check DB EN, TB EN
+Copy FT where necessary
+Update note in Excel and TB
+
 
 FTR results tab in T&B.
 
