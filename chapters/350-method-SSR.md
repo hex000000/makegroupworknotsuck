@@ -182,7 +182,11 @@ Research applications of the repertory grid technique
 
 Structure of multi-criteria decision-making
 
-AI focus / captcha
+AI focus / captcha / tutoring effect
+
+Using Jupyter notebooks to explore personal learning models across different subjects - how can I embed a grid exercise in a notebook?
+
+how can automation and repgrid machine-analyse all these theses about RepGrid (and obvs other things)?
 
 The use of repertory grids to develop a user-driven classification of a collection of digitized photographs
 
