@@ -186,6 +186,12 @@ AI focus / captcha / tutoring effect
 
 Using Jupyter notebooks to explore personal learning models across different subjects - how can I embed a grid exercise in a notebook?
 
+Could be excellent expression of graduate qualities and create a "Sydney" model for competitive advantage, with the research advantage that all uni models could be aggregated to create new ways of understanding knowledge at scale.
+
+Thinking of the CAPTCHA idea, what if each time you logged in to the LMS you did a quick grid?
+
+How can I write this in Python -> Back to the Jupyter notebooks idea
+
 how can automation and repgrid machine-analyse all these theses about RepGrid (and obvs other things)?
 
 The use of repertory grids to develop a user-driven classification of a collection of digitized photographs
