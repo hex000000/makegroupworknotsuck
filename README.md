@@ -8,6 +8,10 @@ I chose Repertory Grid Technique because it allows observation and comparison ov
 In July 2020, [the focus of my thesis changed substantially, to now focus tightly on the Repertory Grid Technique and the value it can add to other design and research contexts](https://github.sydney.edu.au/crli/repgrid/blob/master/chapters/050-intro-1.md).
 
 ### Peter quick check-in
+
+Update Wednesday 28 October
+Moving to [Word chapters](https://www.dropbox.com/sh/ea50sjy8m0aguhl/AACoMbIydLtpo9gc2QSEiYOBa?dl=0) for a more finished product.
+
 Update Wednesday 19 September
 Finished checking part 1 of SSR, writing part 2. Realise I am still in elaboration mode so my plan is to
 - finish SSR stage 2 to the point where I am ready to go through all the citations added since the project started last year
