@@ -7,6 +7,8 @@ I chose Repertory Grid Technique because it allows observation and comparison ov
 
 In July 2020, [the focus of my thesis changed substantially, to now focus tightly on the Repertory Grid Technique and the value it can add to other design and research contexts](https://github.sydney.edu.au/crli/repgrid/blob/master/chapters/050-intro-1.md). And then, unfortunately, because of the Covid pandemic, I was forced to change my PhD topic as my major data collection did not proceed.
 
+This project will be further updated in late 2022.
+
 ### Peter quick check-in
 
 Update Wednesday 28 October
