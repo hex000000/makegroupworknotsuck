@@ -31,12 +31,5 @@ Of course, happy to adapt where necessary, thought it would be a good easy way t
 **grids are interoperable personal knowledge models**
 
 
-Monday 14
-[Part 1 SSR complete draft](https://github.sydney.edu.au/crli/repgrid/blob/master/chapters/240-scoping-review-1.md) (unformatted citations, not all images final versions or displaying in text, very rambling at the moment so language needs a lot of tightening up).
-At some point I will need to move more finished bits from GH to Word as it is faster for me to edit in Word. But for now, GH.
-
-
-
-
 
  [single page overview for discussion on Thursday 3](https://github.sydney.edu.au/crli/repgrid/blob/master/images/single-page-outline.png)
