@@ -37,3 +37,4 @@ It is easy to create your own grid, then view and download the results. There ar
 [7] Vatrapu, R., Reimann, P., & Hussain, A. (2012, 2-6 July). Towards teaching analytics: Repertory grids for formative assessment. Paper presented at the Proc. International Conference of the Learning Sciences (ICLS), Sydney, Australia. http://www.academia.edu/download/41846657/2012-ICLS-RGFA-Paper-FINAL_CBS_Ravi.pdf
 
 [8] Curtis, A. M., Wells, T. M., Higbee, T., & Lowry, P. B. (2008). An overview and tutorial of the repertory grid technique in information systems research. Communications of the Association for Information Systems, 23(38-62). https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1294102
+
